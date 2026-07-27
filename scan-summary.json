@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-07-27T23:34:23+00:00",
+  "validate_links": "advanced",
+  "drop_invalid_links": true,
+  "categories": 5,
+  "series_seen": 1307,
+  "series_written": 1304,
+  "links_seen": 22144,
+  "links_valid": 22141,
+  "links_invalid": 3,
+  "changed_files": [
+    "common/log/SE/English_Tv_Series.json",
+    "common/log/SE/Hindi_Tv_Series.json",
+    "common/log/SE/Dubbed_Tv_Series.json",
+    "common/log/SE/Bangla_series.json",
+    "common/log/SE/korian_series.json"
+  ],
+  "invalid_samples": [
+    {
+      "series": "into the dark",
+      "season": 1,
+      "episode": 7,
+      "episode_id": 22858,
+      "reason": "probe-status:404",
+      "url": "https://fmftp.net/data/disk-1/tvseries/new/into%20the%20dark/s01/Into.the.Dark.S01E07.Im.Just.F##king.with.You.720p.WEBRip.x264.ESub-Pahe.mkv"
+    },
+    {
+      "series": "Malcolm in the Middle",
+      "season": 3,
+      "episode": 18,
+      "episode_id": 6070,
+      "reason": "probe-status:404",
+      "url": "https://fmftp.net/data/disk-1/tvseries/English/Malcolm%20in%20the%20Middle/Season%203/Malcolm%20in%20the%20Middle%20(2000)%20-%20S03E18%20-%20Poker%20#2%20(1080p%20AMZN%20WEB-DL%20x265%20Silence).mkv"
+    },
+    {
+      "series": "Malcolm in the Middle",
+      "season": 4,
+      "episode": 17,
+      "episode_id": 6091,
+      "reason": "probe-status:404",
+      "url": "https://fmftp.net/data/disk-1/tvseries/English/Malcolm%20in%20the%20Middle/Season%204/Malcolm%20in%20the%20Middle%20(2000)%20-%20S04E17%20-%20Clip%20Show%20#2%20(1080p%20AMZN%20WEB-DL%20x265%20Silence).mkv"
+    }
+  ]
+}
