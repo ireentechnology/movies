@@ -1,0 +1,78 @@
+name: 🎬 FMFTP Ultra Scanner v3
+
+on:
+  schedule:
+    # Every 2 days at 00:00 UTC (midnight)
+    - cron: "0 0 */2 * *"
+
+  # Also allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  scan-and-push:
+    name: Scan FMFTP & Push to GitHub
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to push commits
+
+    steps:
+      # 1. Checkout repo
+      - name: ⬇️ Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      # 2. Python setup
+      - name: 🐍 Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 3. Install dependencies
+      - name: 📦 Install dependencies
+        run: pip install requests
+
+      # 4. Create output folders if missing
+      - name: 📁 Ensure output folders exist
+        run: |
+          mkdir -p movies
+          mkdir -p series
+
+      # 5. Run the scanner (v3 — with detail fetch + episodes)
+      - name: 🔍 Run FMFTP Ultra Scanner v3
+        id: scanner
+        run: python fetch_data.py
+        timeout-minutes: 90   # detail fetch-এর জন্য বেশি সময় দরকার
+
+      # 6. Check if anything changed
+      - name: 🔎 Check for changes
+        id: diff
+        run: |
+          git add movies/ series/ scan_summary.json report.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No new content found."
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            # Count new items from summary
+            NEW=$(python -c "import json; d=json.load(open('scan_summary.json')); print(d['total_new_items'])")
+            echo "new_items=$NEW" >> $GITHUB_OUTPUT
+            echo "$NEW new item(s) to commit."
+          fi
+
+      # 7. Commit and push only if something changed
+      - name: 📤 Commit and push
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          DATE=$(date -u '+%Y-%m-%d %H:%M UTC')
+          NEW=${{ steps.diff.outputs.new_items }}
+          git commit -m "🎬 Auto-scan v3 [$DATE] — $NEW new item(s)"
+          git push
+
+      # 8. Skip message if nothing changed
+      - name: ✅ No changes found
+        if: steps.diff.outputs.changed == 'false'
+        run: echo "All categories are up to date. Nothing to commit."

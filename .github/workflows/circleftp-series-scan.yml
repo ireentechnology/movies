@@ -1,0 +1,109 @@
+name: CircleFTP / FMFTP Series Scan
+
+on:
+  schedule:
+    - cron: "30 21 */2 * *"
+  workflow_dispatch:
+    inputs:
+      validate_links:
+        description: "Link validation mode"
+        required: false
+        default: "advanced"
+        type: choice
+        options:
+          - advanced
+          - off
+      drop_invalid_links:
+        description: "Remove invalid links from output"
+        required: false
+        default: true
+        type: boolean
+      workers:
+        description: "Concurrent workers"
+        required: false
+        default: "6"
+        type: string
+      delay:
+        description: "Delay between detail scans"
+        required: false
+        default: "0.05"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: circleftp-series-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Resolve workflow settings
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "CF_VALIDATE_LINKS=${{ inputs.validate_links }}" >> "$GITHUB_ENV"
+            echo "CF_DROP_INVALID_LINKS=${{ inputs.drop_invalid_links && '1' || '0' }}" >> "$GITHUB_ENV"
+            echo "SCAN_WORKERS=${{ inputs.workers }}" >> "$GITHUB_ENV"
+            echo "SCAN_DELAY=${{ inputs.delay }}" >> "$GITHUB_ENV"
+          else
+            echo "CF_VALIDATE_LINKS=advanced" >> "$GITHUB_ENV"
+            echo "CF_DROP_INVALID_LINKS=1" >> "$GITHUB_ENV"
+            echo "SCAN_WORKERS=6" >> "$GITHUB_ENV"
+            echo "SCAN_DELAY=0.05" >> "$GITHUB_ENV"
+          fi
+
+      - name: Run scraper
+        env:
+          CF_SUMMARY_PATH: ${{ github.workspace }}/scan-summary.json
+        run: |
+          mkdir -p common/log/SE
+          python circleftp_series_scraper.py \
+            --output-dir common/log/SE \
+            --workers "$SCAN_WORKERS" \
+            --delay "$SCAN_DELAY" \
+            --verbose
+
+      - name: Show summary
+        if: always()
+        run: |
+          if [ -f scan-summary.json ]; then
+            cat scan-summary.json
+          fi
+
+      - name: Commit updated JSON files
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add common/log/SE/English_Tv_Series.json common/log/SE/Hindi_Tv_Series.json common/log/SE/Dubbed_Tv_Series.json common/log/SE/Bangla_series.json common/log/SE/korian_series.json scan-summary.json || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(series): refresh FMFTP outputs [skip ci]"
+            git push
+          fi
+
+      - name: Upload summary artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scan-summary
+          path: scan-summary.json
+          if-no-files-found: ignore
+          retention-days: 7

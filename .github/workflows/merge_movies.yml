@@ -1,0 +1,72 @@
+name: Auto Merge and Status Check
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  schedule:
+    - cron: '0 */6 * * *'   # প্রতি ৬ ঘণ্টায় স্বয়ংক্রিয় চেক
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30   # ৩০ মিনিটের বেশি লাগলে বন্ধ হবে
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: pip install requests urllib3
+
+      - name: Disable SSL warnings (optional)
+        run: |
+          python -c "import urllib3; urllib3.disable_warnings()"
+
+      - name: Debug - Show folder structure
+        run: |
+          echo "=== Root files ==="
+          ls -la
+          echo "=== Movies folder ==="
+          find Movies -type f 2>/dev/null || echo "Movies folder not found"
+
+      - name: Run Python Script
+        run: python merge_movies.py
+
+      - name: Show results
+        run: |
+          echo "=== all_movies.json (first 5 items) ==="
+          python -c "
+          import json
+          with open('all_movies.json') as f:
+              data = json.load(f)
+          print(f'Total online: {len(data)}')
+          for item in data[:3]:
+              print(' -', item.get('title') or item.get('name') or 'N/A')
+          "
+          echo "=== offline.json count ==="
+          python -c "
+          import json
+          with open('offline.json') as f:
+              data = json.load(f)
+          print(f'Total offline: {len(data)}')
+          "
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add all_movies.json offline.json
+          # পরিবর্তন থাকলেই কমিট করবে
+          git diff --staged --quiet || git commit -m "🔄 Auto-update: $(date +'%Y-%m-%d %H:%M') UTC [skip ci]"
+          git push
