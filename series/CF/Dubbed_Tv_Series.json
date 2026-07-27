@@ -1,0 +1,886 @@
+{
+  "category": "Dubbed_Tv_Series",
+  "source": "fmftp.net API",
+  "library_ids": [
+    10,
+    9
+  ],
+  "last_scan": "2026-06-23T22:48:04+00:00",
+  "series_count": 4,
+  "episode_count": 103,
+  "series": {
+    "Dual Survival": {
+      "title": "Dual Survival",
+      "year": "2010",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/pvf6edYWlpsStyqfr8pExLdfn97.jpg",
+      "posters": [
+        "https://fmftp.net/content-images/movies/posters/pvf6edYWlpsStyqfr8pExLdfn97.jpg",
+        "https://fmftp.net/content-images/movies/posters/gyifRY8qNUdlZIgmeaWECFvAstC.jpg"
+      ],
+      "source_url": "https://fmftp.net/watch?type=SERIES&id=977",
+      "links": [
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 1,
+          "episode_title": "Dual Survival S01E01 - Shipwrecked",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19211"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 2,
+          "episode_title": "Dual Survival S01E02 - Failed Ascent",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19212"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 3,
+          "episode_title": "Dual Survival S01E03 - Out of Air",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19213"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 4,
+          "episode_title": "Dual Survival S01E04 - Desert Breakdown",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19214"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 5,
+          "episode_title": "Dual Survival S01E05 - Panic in the Jungle",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19215"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 6,
+          "episode_title": "Dual Survival S01E06 - Swamped",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19216"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 7,
+          "episode_title": "Dual Survival S01E07 - Split Up",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19217"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 8,
+          "episode_title": "Dual Survival S01E08 - Soaked",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19218"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 9,
+          "episode_title": "Dual Survival S01E09 - After the Storm",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19219"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 10,
+          "episode_title": "Dual Survival S01E10 - Bogged Down",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19220"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 2,
+          "episode": 2,
+          "episode_title": "Dual Survival S02E02 - Buried Alive",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19222"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 2,
+          "episode": 3,
+          "episode_title": "Dual Survival S02E03 - Stuck in the Muck",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19223"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 2,
+          "episode": 4,
+          "episode_title": "Dual Survival S02E04 - Bitten",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19224"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 2,
+          "episode": 5,
+          "episode_title": "Dual Survival S02E05 - Frozen Plains",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19226"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 2,
+          "episode": 6,
+          "episode_title": "Dual Survival S02E06 - Out of Africa",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19227"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 2,
+          "episode": 7,
+          "episode_title": "Dual Survival S02E07 - Out of the Clouds",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19228"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 2,
+          "episode": 8,
+          "episode_title": "Dual Survival S02E08 - Adrift",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19229"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 2,
+          "episode": 9,
+          "episode_title": "Dual Survival S02E09 - Eating Dust",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19231"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 2,
+          "episode": 10,
+          "episode_title": "Dual Survival S02E10 - Hippo Island",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19232"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 2,
+          "episode": 11,
+          "episode_title": "Dual Survival S02E11 - Up the River",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19233"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 2,
+          "episode": 12,
+          "episode_title": "Dual Survival S02E12 - Road to Nowhere",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19234"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 3,
+          "episode": 1,
+          "episode_title": "Dual Survival S03E01 - Mars on Earth",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19236"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 3,
+          "episode": 2,
+          "episode_title": "Dual Survival S03E02 - On the Menu",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19237"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 3,
+          "episode": 3,
+          "episode_title": "Dual Survival S03E03 - Into the Frying Pan",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19238"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 3,
+          "episode": 4,
+          "episode_title": "Dual Survival S03E04 - Trouble in Paradise",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19239"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 3,
+          "episode": 5,
+          "episode_title": "Dual Survival S03E05 - The Green Hell",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19241"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 3,
+          "episode": 6,
+          "episode_title": "Dual Survival S03E06 - Twin Peaks",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19242"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 3,
+          "episode": 7,
+          "episode_title": "Dual Survival S03E07 - Meltdown",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19243"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 3,
+          "episode": 8,
+          "episode_title": "Dual Survival S03E08 - Belly of the Beast",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19244"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 3,
+          "episode": 9,
+          "episode_title": "Dual Survival S03E09 - Castaways",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19245"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 3,
+          "episode": 10,
+          "episode_title": "Dual Survival S03E10 - Rocky Mountain High",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19246"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 3,
+          "episode": 11,
+          "episode_title": "Dual Survival S03E11 - Misty Mountain Drop",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19247"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 3,
+          "episode": 12,
+          "episode_title": "Dual Survival S03E12",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19248"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 4,
+          "episode": 1,
+          "episode_title": "Dual Survival S04E01 - No End in Sight (1)",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19249"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 4,
+          "episode": 2,
+          "episode_title": "Dual Survival S04E02 - No End in Sight (2)",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19250"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 4,
+          "episode": 3,
+          "episode_title": "Dual Survival S04E03 - Deadly Dunes",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19251"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 4,
+          "episode": 4,
+          "episode_title": "Dual Survival S04E04 - Glacial Downfall",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19252"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 4,
+          "episode": 5,
+          "episode_title": "Dual Survival S04E05 - Journey's End to a New Beginning",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19253"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 4,
+          "episode": 6,
+          "episode_title": "Dual Survival S04E06 - No Man Is an Island",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19254"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 4,
+          "episode": 7,
+          "episode_title": "Dual Survival S04E07 - Mayan Mayhem",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19255"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 4,
+          "episode": 8,
+          "episode_title": "Dual Survival S04E08 - On the Edge",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19256"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 4,
+          "episode": 9,
+          "episode_title": "Dual Survival S04E09 - End of the Road",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19257"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 4,
+          "episode": 10,
+          "episode_title": "Dual Survival S04E10 - One Shot, One Kill",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19258"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 5,
+          "episode": 1,
+          "episode_title": "Dual Survival S05E01 - Into the Canyons",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19259"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 5,
+          "episode": 2,
+          "episode_title": "Dual Survival S05E02 - Grin and Bear It",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19260"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 5,
+          "episode": 3,
+          "episode_title": "Dual Survival S05E03 - Downed and Out (1)",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19261"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 5,
+          "episode": 4,
+          "episode_title": "Dual Survival S05E04 - Downed and Out (2)",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19262"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 5,
+          "episode": 5,
+          "episode_title": "Dual Survival S05E05 - Swamplandia",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19263"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 5,
+          "episode": 6,
+          "episode_title": "Dual Survival S05E06 - Out of the Ashes (1)",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19264"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 5,
+          "episode": 7,
+          "episode_title": "Dual Survival S05E07 - Out of the Ashes (2)",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19265"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 5,
+          "episode": 8,
+          "episode_title": "Dual Survival S05E08 - Waterlogged",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19266"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 5,
+          "episode": 9,
+          "episode_title": "Dual Survival S05E09 - Coastal Catastrophe",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19267"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 5,
+          "episode": 10,
+          "episode_title": "Dual Survival S05E10 - Winter Vortex (1)",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19268"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 5,
+          "episode": 11,
+          "episode_title": "Dual Survival S05E11 - Winter Vortex (2)",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19269"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 5,
+          "episode": 12,
+          "episode_title": "Dual Survival S05E12 - Himalayan Hardship",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19270"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 5,
+          "episode": 13,
+          "episode_title": "Dual Survival S05E13 - Namibian Nightmare",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19271"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 6,
+          "episode": 1,
+          "episode_title": "Dual Survival S06E01 - Nautical Nightmare",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19272"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 6,
+          "episode": 2,
+          "episode_title": "Dual Survival S06E02 - Fractured Journey",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19273"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 6,
+          "episode": 3,
+          "episode_title": "Dual Survival S06E03 - Escape and Evade",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19274"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 6,
+          "episode": 4,
+          "episode_title": "Dual Survival S06E04 - Braving Bolivia",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19275"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 7,
+          "episode": 1,
+          "episode_title": "Dual Survival S07E01 - Fire and Ice",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19276"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 7,
+          "episode": 2,
+          "episode_title": "Dual Survival S07E02 - Long Way Home",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19277"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 7,
+          "episode": 3,
+          "episode_title": "Dual Survival S07E03 - Take Me to the River",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19278"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 7,
+          "episode": 4,
+          "episode_title": "Dual Survival S07E04 - Eat or Be Eaten",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19279"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 7,
+          "episode": 5,
+          "episode_title": "Dual Survival S07E05 - Scorched Earth",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19280"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 7,
+          "episode": 6,
+          "episode_title": "Dual Survival S07E06 - On Thin Ice",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19281"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 7,
+          "episode": 7,
+          "episode_title": "Dual Survival S07E07 - High and Dry",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19282"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 7,
+          "episode": 8,
+          "episode_title": "Dual Survival S07E08 - Cuban Crisis",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19283"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 7,
+          "episode": 9,
+          "episode_title": "Dual Survival S07E09 - Saturation Point",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19284"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 7,
+          "episode": 10,
+          "episode_title": "Dual Survival S07E10 - Live to Tell",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19285"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 8,
+          "episode": 1,
+          "episode_title": "Dual Survival S08E01 - Croatian Castaway",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19286"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 8,
+          "episode": 2,
+          "episode_title": "Dual Survival S08E02 - Mosquito Coast",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19287"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 8,
+          "episode": 3,
+          "episode_title": "Dual Survival S08E03 - Bulgarian Blizzard",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19288"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 8,
+          "episode": 4,
+          "episode_title": "Dual Survival S08E04 - Burning Island",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19289"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 8,
+          "episode": 5,
+          "episode_title": "Dual Survival S08E05 - Out Of Air",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19290"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 8,
+          "episode": 6,
+          "episode_title": "Dual Survival S08E06 - Snow Daze",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19291"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 8,
+          "episode": 7,
+          "episode_title": "Dual Survival S08E07 - Colombian Chaos",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19292"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 8,
+          "episode": 8,
+          "episode_title": "Dual Survival S08E08",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19293"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 9,
+          "episode": 1,
+          "episode_title": "Dual Survival S09E01 - Battle of Brazil",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19294"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 9,
+          "episode": 2,
+          "episode_title": "Dual Survival S09E02 - Forest From Hell",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19295"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 9,
+          "episode": 3,
+          "episode_title": "Dual Survival S09E03 - Dying of Thirst",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19296"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 9,
+          "episode": 4,
+          "episode_title": "Dual Survival S09E04 - Gator Bait",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19297"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 9,
+          "episode": 5,
+          "episode_title": "Dual Survival S09E05 - Blackout",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19298"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 9,
+          "episode": 6,
+          "episode_title": "Dual Survival S09E06 - Tracking Lions",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19299"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 9,
+          "episode": 7,
+          "episode_title": "Dual Survival S09E07 - Attack of the Elephants",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19300"
+        }
+      ],
+      "updated_at": "2026-06-23"
+    },
+    "Hush Hush hindi": {
+      "title": "Hush Hush hindi",
+      "year": "",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/None",
+      "posters": [
+        "https://fmftp.net/content-images/movies/posters/None"
+      ],
+      "source_url": "https://fmftp.net/watch?type=SERIES&id=1040",
+      "links": [
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 1,
+          "episode_title": "Hush Hush hindi S01E01",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19799"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 2,
+          "episode_title": "Hush Hush hindi S01E02",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19800"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 3,
+          "episode_title": "Hush Hush hindi S01E03",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19801"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 4,
+          "episode_title": "Hush Hush hindi S01E04",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19802"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 5,
+          "episode_title": "Hush Hush hindi S01E05",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19803"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 6,
+          "episode_title": "Hush Hush hindi S01E06",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19804"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 7,
+          "episode_title": "Hush Hush hindi S01E07",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19805"
+        }
+      ],
+      "updated_at": "2026-06-23"
+    },
+    "Money Heist Hindi Dubbed": {
+      "title": "Money Heist Hindi Dubbed",
+      "year": "2017",
+      "tvg_logo": "http://main.circleftp.net/wp-content/uploads/money-heist-poster.jpg",
+      "posters": [
+        "http://main.circleftp.net/wp-content/uploads/money-heist-poster.jpg"
+      ],
+      "source_url": "http://main.circleftp.net/money-heist-hindi-dubbed-season-1/",
+      "links": [
+        {
+          "added": "2026-06-20",
+          "language": "Hindi Dual",
+          "season": 1,
+          "episode": 1,
+          "episode_title": "Money Heist S01E01",
+          "url": "http://main.circleftp.net/download/money-heist-s01e01.mkv"
+        }
+      ],
+      "updated_at": "2026-06-20"
+    },
+    "Treadstone hindi": {
+      "title": "Treadstone hindi",
+      "year": "",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/None",
+      "posters": [
+        "https://fmftp.net/content-images/movies/posters/None"
+      ],
+      "source_url": "https://fmftp.net/watch?type=SERIES&id=630",
+      "links": [
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 1,
+          "episode_title": "Treadstone hindi S01E01",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=11054"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 2,
+          "episode_title": "Treadstone hindi S01E02",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=11056"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 3,
+          "episode_title": "Treadstone hindi S01E03",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=11058"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 4,
+          "episode_title": "Treadstone hindi S01E04",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=11060"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 5,
+          "episode_title": "Treadstone hindi S01E05",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=11062"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 6,
+          "episode_title": "Treadstone hindi S01E06",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=11064"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 7,
+          "episode_title": "Treadstone hindi S01E07",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=11066"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 8,
+          "episode_title": "Treadstone hindi S01E08",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=11068"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 9,
+          "episode_title": "Treadstone hindi S01E09",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=11070"
+        },
+        {
+          "added": "2026-06-23",
+          "language": "Dubbed Tv Series",
+          "season": 1,
+          "episode": 10,
+          "episode_title": "Treadstone hindi S01E10",
+          "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=11072"
+        }
+      ],
+      "updated_at": "2026-06-23"
+    }
+  }
+}

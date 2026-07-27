@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>FMFTP Content Report</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:        #0d1117;
+    --surface:   #161b22;
+    --border:    #30363d;
+    --accent:    #58a6ff;
+    --green:     #3fb950;
+    --purple:    #bc8cff;
+    --orange:    #ffa657;
+    --red:       #f85149;
+    --text:      #e6edf3;
+    --muted:     #7d8590;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    min-height: 100vh;
+  }
+
+  /* ── Header ── */
+  header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 20px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  header h1 { font-size: 1.25rem; display: flex; align-items: center; gap: 10px; }
+  header h1 span.icon { font-size: 1.4rem; }
+  #last-scan { font-size: 0.78rem; color: var(--muted); }
+
+  /* ── Stat Cards ── */
+  .stats-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 16px;
+    padding: 24px;
+  }
+  .stat-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+  }
+  .stat-card .num {
+    font-size: 2.4rem;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+  .stat-card .lbl { font-size: 0.82rem; color: var(--muted); letter-spacing: .04em; }
+  .stat-card.movies .num  { color: var(--accent); }
+  .stat-card.series .num  { color: var(--purple); }
+  .stat-card.total  .num  { color: var(--green); }
+  .stat-card.new    .num  { color: var(--orange); }
+
+  /* ── Section ── */
+  .section { padding: 0 24px 32px; }
+  .section h2 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--muted);
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .section h2::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  /* ── Category Grid ── */
+  .cat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 14px;
+  }
+  .cat-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    transition: border-color .2s;
+  }
+  .cat-card:hover { border-color: var(--accent); }
+  .cat-card .cat-name {
+    font-size: 0.95rem;
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .cat-card .count-row {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+  }
+  .cat-card .count {
+    font-size: 2rem;
+    font-weight: 700;
+  }
+  .cat-card .count-unit { font-size: 0.8rem; color: var(--muted); }
+  .cat-card .bar-bg {
+    height: 4px;
+    background: var(--border);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .cat-card .bar-fill {
+    height: 100%;
+    border-radius: 4px;
+    transition: width .6s ease;
+  }
+  .cat-card .badge-new {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 0.75rem;
+    color: var(--green);
+    background: rgba(63,185,80,.12);
+    border: 1px solid rgba(63,185,80,.3);
+    border-radius: 20px;
+    padding: 2px 9px;
+    width: fit-content;
+  }
+  .cat-card .badge-err {
+    font-size: 0.75rem;
+    color: var(--red);
+  }
+
+  /* movie cards → blue bar, series → purple */
+  .movie-card .count  { color: var(--accent); }
+  .movie-card .bar-fill { background: var(--accent); }
+  .series-card .count  { color: var(--purple); }
+  .series-card .bar-fill { background: var(--purple); }
+
+  /* ── Loading / Error ── */
+  #loading, #error-box {
+    text-align: center;
+    padding: 80px 20px;
+    color: var(--muted);
+  }
+  #error-box { color: var(--red); display: none; }
+  .spinner {
+    width: 36px; height: 36px;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin .7s linear infinite;
+    margin: 0 auto 16px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── Refresh btn ── */
+  #refresh-btn {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--text);
+    border-radius: 6px;
+    padding: 6px 14px;
+    font-size: 0.82rem;
+    cursor: pointer;
+    transition: border-color .2s, color .2s;
+  }
+  #refresh-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+  footer {
+    text-align: center;
+    padding: 24px;
+    font-size: 0.78rem;
+    color: var(--muted);
+    border-top: 1px solid var(--border);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1><span class="icon">🎬</span> FMFTP Content Report</h1>
+  <div style="display:flex;align-items:center;gap:14px;">
+    <span id="last-scan">Loading…</span>
+    <button id="refresh-btn" onclick="loadReport()">⟳ Refresh</button>
+  </div>
+</header>
+
+<div id="loading">
+  <div class="spinner"></div>
+  <p>Loading report.json…</p>
+</div>
+<div id="error-box">
+  <p>⚠️ <strong>report.json</strong> load করা যায়নি।<br>প্রথমে GitHub Actions run করুন।</p>
+</div>
+
+<div id="app" style="display:none">
+  <!-- Stat cards -->
+  <div class="stats-row">
+    <div class="stat-card movies"><div class="num" id="s-movies">—</div><div class="lbl">🎬 Total Movies</div></div>
+    <div class="stat-card series"><div class="num" id="s-series">—</div><div class="lbl">📺 Total Series</div></div>
+    <div class="stat-card total"><div class="num" id="s-total">—</div><div class="lbl">📦 Grand Total</div></div>
+    <div class="stat-card new"><div class="num" id="s-cats">—</div><div class="lbl">📂 Categories</div></div>
+  </div>
+
+  <!-- Movies -->
+  <div class="section">
+    <h2>🎬 Movies</h2>
+    <div class="cat-grid" id="movie-grid"></div>
+  </div>
+
+  <!-- Series -->
+  <div class="section">
+    <h2>📺 TV Series</h2>
+    <div class="cat-grid" id="series-grid"></div>
+  </div>
+</div>
+
+<footer>Auto-updated every 2 days via GitHub Actions · fmftp.net</footer>
+
+<script>
+  // ── Change this to your repo's raw URL ──────────────────────
+  // e.g. https://raw.githubusercontent.com/faria2177/fmftp-data/main/report.json
+  const REPORT_URL = "./report.json";
+  // ────────────────────────────────────────────────────────────
+
+  function fmt(n) { return Number(n).toLocaleString(); }
+
+  function makeCard(cat, maxCount, type) {
+    const pct = maxCount ? Math.round((cat.count / maxCount) * 100) : 0;
+    const cls = type === "movie" ? "movie-card" : "series-card";
+    const unit = type === "movie" ? "movies" : "episodes/shows";
+
+    let badge = "";
+    if (cat.error) {
+      badge = `<span class="badge-err">⚠ ${cat.error}</span>`;
+    } else if (cat.new > 0) {
+      badge = `<span class="badge-new">+${fmt(cat.new)} new</span>`;
+    }
+
+    return `
+      <div class="cat-card ${cls}">
+        <div class="cat-name" title="${cat.label}">${cat.label}</div>
+        <div class="count-row">
+          <span class="count">${fmt(cat.count)}</span>
+          <span class="count-unit">${unit}</span>
+        </div>
+        <div class="bar-bg"><div class="bar-fill" style="width:${pct}%"></div></div>
+        ${badge}
+      </div>`;
+  }
+
+  async function loadReport() {
+    document.getElementById("loading").style.display = "block";
+    document.getElementById("error-box").style.display = "none";
+    document.getElementById("app").style.display = "none";
+
+    try {
+      const r = await fetch(REPORT_URL + "?t=" + Date.now());
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      const data = await r.json();
+
+      // Header
+      const d = new Date(data.generated_at);
+      document.getElementById("last-scan").textContent =
+        "Last scan: " + d.toLocaleString("en-BD", { timeZone: "Asia/Dhaka" }) + " (BD)";
+
+      // Stats
+      document.getElementById("s-movies").textContent = fmt(data.total_movies);
+      document.getElementById("s-series").textContent = fmt(data.total_series);
+      document.getElementById("s-total").textContent  = fmt(data.grand_total);
+      document.getElementById("s-cats").textContent   =
+        (data.movies.categories.length + data.series.categories.length);
+
+      // Movie grid
+      const mMax = Math.max(...data.movies.categories.map(c => c.count));
+      document.getElementById("movie-grid").innerHTML =
+        data.movies.categories.map(c => makeCard(c, mMax, "movie")).join("");
+
+      // Series grid
+      const sMax = Math.max(...data.series.categories.map(c => c.count));
+      document.getElementById("series-grid").innerHTML =
+        data.series.categories.map(c => makeCard(c, sMax, "series")).join("");
+
+      document.getElementById("loading").style.display = "none";
+      document.getElementById("app").style.display     = "block";
+
+    } catch (e) {
+      document.getElementById("loading").style.display   = "none";
+      document.getElementById("error-box").style.display = "block";
+      document.getElementById("error-box").innerHTML =
+        `<p>⚠️ <strong>report.json</strong> load করা যায়নি।<br>
+         <small style="color:#7d8590">${e.message}</small><br><br>
+         প্রথমে GitHub Actions run করুন।</p>`;
+    }
+  }
+
+  loadReport();
+</script>
+</body>
+</html>

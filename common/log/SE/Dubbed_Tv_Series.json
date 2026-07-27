@@ -1,0 +1,986 @@
+{
+  "Dual Survival": {
+    "year": "2010",
+    "tvg_logo": "https://fmftp.net/content-images/tv-shows/posters/pvf6edYWlpsStyqfr8pExLdfn97.jpg",
+    "links": [
+      {
+        "added": "2026-04-04",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 1,
+        "episode_title": "Dual Survival S1E1 - Shipwrecked",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s01/S01E01%20-%20Shipwrecked.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 2,
+        "episode_title": "Dual Survival S1E2 - Failed Ascent",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s01/S01E02%20-%20Failed%20Ascent.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 3,
+        "episode_title": "Dual Survival S1E3 - Out of Air",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s01/S01E03%20-%20Out%20of%20Air.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 4,
+        "episode_title": "Dual Survival S1E4 - Desert Breakdown",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s01/S01E04%20-%20Desert%20Breakdown.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 5,
+        "episode_title": "Dual Survival S1E5 - Panic in the Jungle",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s01/S01E05%20-%20Panic%20in%20the%20Jungle.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 6,
+        "episode_title": "Dual Survival S1E6 - Swamped",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s01/S01E06%20-%20Swamped.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 7,
+        "episode_title": "Dual Survival S1E7 - Split Up",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s01/S01E07%20-%20Split%20Up.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 8,
+        "episode_title": "Dual Survival S1E8 - Soaked",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s01/S01E08%20-%20Soaked.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 9,
+        "episode_title": "Dual Survival S1E9 - After the Storm",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s01/S01E09%20-%20After%20the%20Storm.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 10,
+        "episode_title": "Dual Survival S1E10 - Bogged Down",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s01/S01E10%20-%20Bogged%20Down.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 2,
+        "episode": 2,
+        "episode_title": "Dual Survival S2E2 - Buried Alive",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s02/S02E02%20-%20Slash%20and%20Burn.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 2,
+        "episode": 3,
+        "episode_title": "Dual Survival S2E3 - Stuck in the Muck",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s02/S02E03%20-%20Eating%20Dust.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 2,
+        "episode": 4,
+        "episode_title": "Dual Survival S2E4 - Bitten",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s02/S02E04%20-%20Buried%20Alive.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 2,
+        "episode": 5,
+        "episode_title": "Dual Survival S2E5 - Frozen Plains",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s02/S02E05%20-%20Out%20of%20the%20Clouds.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 2,
+        "episode": 6,
+        "episode_title": "Dual Survival S2E6 - Out of Africa",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s02/S02E06%20-%20Bitten.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 2,
+        "episode": 7,
+        "episode_title": "Dual Survival S2E7 - Out of the Clouds",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s02/S02E07%20-%20Frozen%20Plains.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 2,
+        "episode": 8,
+        "episode_title": "Dual Survival S2E8 - Adrift",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s02/S02E08%20-%20Out%20Of%20Africa.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 2,
+        "episode": 9,
+        "episode_title": "Dual Survival S2E9 - Eating Dust",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s02/S02E09%20-%20Adrift.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 2,
+        "episode": 10,
+        "episode_title": "Dual Survival S2E10 - Hippo Island",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s02/S02E10%20-%20Hippo%20Island.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 2,
+        "episode": 11,
+        "episode_title": "Dual Survival S2E11 - Up the River",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s02/S02E11%20-%20Up%20The%20River.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 2,
+        "episode": 12,
+        "episode_title": "Dual Survival S2E12 - Road to Nowhere",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s02/S02E12%20-%20Road%20to%20Nowhere.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 1,
+        "episode_title": "Dual Survival S3E1 - Mars on Earth",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s03/S03E01%20-%20Unbraided.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 2,
+        "episode_title": "Dual Survival S3E2 - On the Menu",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s03/S03E02%20-%20Mars%20on%20Earth.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 3,
+        "episode_title": "Dual Survival S3E3 - Into the Frying Pan",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s03/S03E03%20-%20On%20The%20Menu.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 4,
+        "episode_title": "Dual Survival S3E4 - Trouble in Paradise",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s03/S03E04%20-%20Into%20The%20Frying%20Pan.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 5,
+        "episode_title": "Dual Survival S3E5 - The Green Hell",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s03/S03E05%20-%20Trouble%20in%20Paradise.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 6,
+        "episode_title": "Dual Survival S3E6 - Twin Peaks",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s03/S03E06%20-%20The%20Green%20Hell.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 7,
+        "episode_title": "Dual Survival S3E7 - Meltdown",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s03/S03E07%20-%20Twin%20Peaks.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 8,
+        "episode_title": "Dual Survival S3E8 - Belly of the Beast",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s03/S03E08%20-%20Meltdown.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 9,
+        "episode_title": "Dual Survival S3E9 - Castaways",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s03/S03E09%20-%20Belly%20of%20the%20Beast.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 10,
+        "episode_title": "Dual Survival S3E10 - Rocky Mountain High",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s03/S03E10%20-%20Castaways.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 11,
+        "episode_title": "Dual Survival S3E11 - Misty Mountain Drop",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s03/S03E11%20-%20Rocky%20Mountain%20High.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 12,
+        "episode_title": "Dual Survival S3E12",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s03/S03E12%20-%20Misty%20Mountain%20Drop.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 4,
+        "episode": 1,
+        "episode_title": "Dual Survival S4E1 - No End in Sight (1)",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s04/S04E01%20-%20No%20End%20in%20Sight,%20part%201.mp4"
+      },
+      {
+        "added": "2026-03-24",
+        "language": "Multi Audio",
+        "season": 4,
+        "episode": 2,
+        "episode_title": "Dual Survival S4E2 - No End in Sight (2)",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s04/S04E02%20-%20No%20End%20in%20Sight,%20part%202.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 4,
+        "episode": 3,
+        "episode_title": "Dual Survival S4E3 - Deadly Dunes",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s04/S04E03%20-%20Deadly%20Dunes.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 4,
+        "episode": 4,
+        "episode_title": "Dual Survival S4E4 - Glacial Downfall",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s04/S04E04%20-%20Glacial%20Downfall.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 4,
+        "episode": 5,
+        "episode_title": "Dual Survival S4E5 - Journey's End to a New Beginning",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s04/S04E05%20-%20Journey's%20End%20to%20a%20New%20Beginning%20(Special).mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 4,
+        "episode": 6,
+        "episode_title": "Dual Survival S4E6 - No Man Is an Island",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s04/S04E06%20-%20No%20Man%20Is%20an%20Island.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 4,
+        "episode": 7,
+        "episode_title": "Dual Survival S4E7 - Mayan Mayhem",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s04/S04E07%20-%20Mayan%20Mayhem.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 4,
+        "episode": 8,
+        "episode_title": "Dual Survival S4E8 - On the Edge",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s04/S04E08%20-%20On%20the%20Edge.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 4,
+        "episode": 9,
+        "episode_title": "Dual Survival S4E9 - End of the Road",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s04/S04E09%20-%20End%20of%20the%20Road.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 4,
+        "episode": 10,
+        "episode_title": "Dual Survival S4E10 - One Shot, One Kill",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s04/S04E10%20-%20One%20Shot,%20One%20Kill.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 5,
+        "episode": 1,
+        "episode_title": "Dual Survival S5E1 - Into the Canyons",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s05/S05E01%20-%20Into%20the%20Canyons.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 5,
+        "episode": 2,
+        "episode_title": "Dual Survival S5E2 - Grin and Bear It",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s05/S05E02%20-%20Grin%20and%20Bear%20It.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 5,
+        "episode": 3,
+        "episode_title": "Dual Survival S5E3 - Downed and Out (1)",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s05/S05E03%20-%20Downed%20and%20Out%20Part%20One.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 5,
+        "episode": 4,
+        "episode_title": "Dual Survival S5E4 - Downed and Out (2)",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s05/S05E04%20-%20Downed%20and%20Out%20Part%20Two.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 5,
+        "episode": 5,
+        "episode_title": "Dual Survival S5E5 - Swamplandia",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s05/S05E05%20-%20Swamplandia.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 5,
+        "episode": 6,
+        "episode_title": "Dual Survival S5E6 - Out of the Ashes (1)",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s05/S05E06%20-%20Out%20of%20the%20Ashes%20Part%20One.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 5,
+        "episode": 7,
+        "episode_title": "Dual Survival S5E7 - Out of the Ashes (2)",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s05/S05E07%20-%20Out%20of%20the%20Ashes%20Part%20Two.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 5,
+        "episode": 8,
+        "episode_title": "Dual Survival S5E8 - Waterlogged",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s05/S05E08%20-%20Waterlogged.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 5,
+        "episode": 9,
+        "episode_title": "Dual Survival S5E9 - Coastal Catastrophe",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s05/S05E09%20-%20Coastal%20Catastrophe.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 5,
+        "episode": 10,
+        "episode_title": "Dual Survival S5E10 - Winter Vortex (1)",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s05/S05E10%20-%20Winter%20Vortex%20Part%20One.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 5,
+        "episode": 11,
+        "episode_title": "Dual Survival S5E11 - Winter Vortex (2)",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s05/S05E11%20-%20Winter%20Vortex%20Part%20Two.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 5,
+        "episode": 12,
+        "episode_title": "Dual Survival S5E12 - Himalayan Hardship",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s05/S05E12%20-%20Namibian%20Nightmare.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 5,
+        "episode": 13,
+        "episode_title": "Dual Survival S5E13 - Namibian Nightmare",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s05/S05E13%20-%20Himalayan%20Hardship.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 6,
+        "episode": 1,
+        "episode_title": "Dual Survival S6E1 - Nautical Nightmare",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s06/S06E01%20-%20Nautical%20Nightmare.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 6,
+        "episode": 2,
+        "episode_title": "Dual Survival S6E2 - Fractured Journey",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s06/S06E02%20-%20Fractured%20Journey.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 6,
+        "episode": 3,
+        "episode_title": "Dual Survival S6E3 - Escape and Evade",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s06/S06E03%20-%20Escape%20and%20Evade.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 6,
+        "episode": 4,
+        "episode_title": "Dual Survival S6E4 - Braving Bolivia",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s06/S06E04%20-%20Braving%20Bolivia.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 7,
+        "episode": 1,
+        "episode_title": "Dual Survival S7E1 - Fire and Ice",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s07/S07E01%20-%20Fire%20and%20Ice%20(Chile%20Part%201).mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 7,
+        "episode": 2,
+        "episode_title": "Dual Survival S7E2 - Long Way Home",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s07/S07E02%20-%20Long%20Way%20Home%20(Chile%20Part%202).mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 7,
+        "episode": 3,
+        "episode_title": "Dual Survival S7E3 - Take Me to the River",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s07/S07E03%20-%20Take%20Me%20to%20the%20River.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 7,
+        "episode": 4,
+        "episode_title": "Dual Survival S7E4 - Eat or Be Eaten",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s07/S07E04%20-%20Eat%20or%20Be%20Eaten.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 7,
+        "episode": 5,
+        "episode_title": "Dual Survival S7E5 - Scorched Earth",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s07/S07E05%20-%20Scorched%20Earth.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 7,
+        "episode": 6,
+        "episode_title": "Dual Survival S7E6 - On Thin Ice",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s07/S07E06%20-%20On%20Thin%20Ice.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 7,
+        "episode": 7,
+        "episode_title": "Dual Survival S7E7 - High and Dry",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s07/S07E07%20-%20High%20and%20Dry.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 7,
+        "episode": 8,
+        "episode_title": "Dual Survival S7E8 - Cuban Crisis",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s07/S07E08%20-%20Cuban%20Crisis.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 7,
+        "episode": 9,
+        "episode_title": "Dual Survival S7E9 - Saturation Point",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s07/S07E09%20-%20Saturation%20Point.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 7,
+        "episode": 10,
+        "episode_title": "Dual Survival S7E10 - Live to Tell",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s07/S07E10%20-%20%20Live%20to%20Tell.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 8,
+        "episode": 1,
+        "episode_title": "Dual Survival S8E1 - Croatian Castaway",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s08/S08E01%20-%20Croatian%20Castaway.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 8,
+        "episode": 2,
+        "episode_title": "Dual Survival S8E2 - Mosquito Coast",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s08/S08E02%20-%20Mosquito%20Coast.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 8,
+        "episode": 3,
+        "episode_title": "Dual Survival S8E3 - Bulgarian Blizzard",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s08/S08E03%20-%20Bulgarian%20Blizzard.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 8,
+        "episode": 4,
+        "episode_title": "Dual Survival S8E4 - Burning Island",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s08/S08E04%20-%20Burning%20Island.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 8,
+        "episode": 5,
+        "episode_title": "Dual Survival S8E5 - Out Of Air",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s08/S08E05%20-%20Out%20of%20Air.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 8,
+        "episode": 6,
+        "episode_title": "Dual Survival S8E6 - Snow Daze",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s08/S08E06%20-%20Snow%20Daze.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 8,
+        "episode": 7,
+        "episode_title": "Dual Survival S8E7 - Colombian Chaos",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s08/S08E07%20-%20Colombian%20Chaos.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 8,
+        "episode": 8,
+        "episode_title": "Dual Survival S8E8",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s08/S08E08%20-%20Ultimate%20Survival%20Bible.mp4"
+      },
+      {
+        "added": "2026-04-10",
+        "language": "Multi Audio",
+        "season": 9,
+        "episode": 1,
+        "episode_title": "Dual Survival S9E1 - Battle of Brazil",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s09/S09E01%20-%20Battle%20of%20Brazil.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 9,
+        "episode": 2,
+        "episode_title": "Dual Survival S9E2 - Forest From Hell",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s09/S09E02%20-%20Forest%20From%20Hell.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 9,
+        "episode": 3,
+        "episode_title": "Dual Survival S9E3 - Dying of Thirst",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s09/S09E03%20-%20Dying%20of%20Thirst.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 9,
+        "episode": 4,
+        "episode_title": "Dual Survival S9E4 - Gator Bait",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s09/S09E04%20-%20Gator%20Bait.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 9,
+        "episode": 5,
+        "episode_title": "Dual Survival S9E5 - Blackout",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s09/S09E05%20-%20Blackout.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 9,
+        "episode": 6,
+        "episode_title": "Dual Survival S9E6 - Tracking Lions",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s09/S09E06%20-%20Tracking%20Lions.mp4"
+      },
+      {
+        "added": "2026-03-29",
+        "language": "Multi Audio",
+        "season": 9,
+        "episode": 7,
+        "episode_title": "Dual Survival S9E7 - Attack of the Elephants",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Dual%20Survival/s09/S09E07%20-%20Attack%20of%20the%20Elephants.mp4"
+      }
+    ]
+  },
+  "Hush Hush hindi": {
+    "year": "",
+    "tvg_logo": "",
+    "links": [
+      {
+        "added": "2026-04-04",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 1,
+        "episode_title": "Hush Hush hindi S1E1",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Hush%20Hush%20hindi/s01/Hush.Hush.S01E01.What.Lies.Beneath.1080p.AMZN.WEB-DL.DDP5.1.HEVC-Telly.mp4"
+      },
+      {
+        "added": "2026-03-07",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 2,
+        "episode_title": "Hush Hush hindi S1E2",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Hush%20Hush%20hindi/s01/Hush.Hush.S01E02.What.Cant.Be.Said.1080p.AMZN.WEB-DL.DDP5.1.HEVC-Telly.mp4"
+      },
+      {
+        "added": "2026-03-07",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 3,
+        "episode_title": "Hush Hush hindi S1E3",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Hush%20Hush%20hindi/s01/Hush.Hush.S01E03.What.Cant.Be.Killed.1080p.AMZN.WEB-DL.DDP5.1.HEVC-Telly.mp4"
+      },
+      {
+        "added": "2026-03-07",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 4,
+        "episode_title": "Hush Hush hindi S1E4",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Hush%20Hush%20hindi/s01/Hush.Hush.S01E04.What.the.Past.Holds.1080p.AMZN.WEB-DL.DDP5.1.HEVC-Telly.mp4"
+      },
+      {
+        "added": "2026-03-07",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 5,
+        "episode_title": "Hush Hush hindi S1E5",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Hush%20Hush%20hindi/s01/Hush.Hush.S01E05.What.Keeps.Us.Awake.1080p.AMZN.WEB-DL.DDP5.1.HEVC-Telly.mp4"
+      },
+      {
+        "added": "2026-03-07",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 6,
+        "episode_title": "Hush Hush hindi S1E6",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Hush%20Hush%20hindi/s01/Hush.Hush.S01E06.What.Remains.Unseen.1080p.AMZN.WEB-DL.DDP5.1.HEVC-Telly.mp4"
+      },
+      {
+        "added": "2026-03-07",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 7,
+        "episode_title": "Hush Hush hindi S1E7",
+        "url": "https://fmftp.net/data/disk-1/tvseries/new/Hush%20Hush%20hindi/s01/Hush.Hush.S01E07.What.Is.to.Be.Known.1080p.AMZN.WEB-DL.DDP5.1.HEVC-Telly.mp4"
+      }
+    ]
+  },
+  "Illegal": {
+    "year": "2020",
+    "tvg_logo": "https://fmftp.net/content-images/tv-shows/posters/nYtcBCQzSW1kcPY9D4l9z7PBum2.jpg",
+    "links": [
+      {
+        "added": "2026-05-09",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 1,
+        "episode_title": "Illegal S1E1 - The mad lawyer",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/S01/Illegal.S01E01.The.Mad.Lawyer.720p.WEB-Rip.2CH.x264-BonsaiHD.mkv"
+      },
+      {
+        "added": "2026-05-09",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 2,
+        "episode_title": "Illegal S1E2 - Justice delayed, justice denied?",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/S01/Illegal.S01E02.Justice.Delayed.Justice.Denied.720p.WEB-Rip.2CH.x264-BonsaiHD.mkv"
+      },
+      {
+        "added": "2026-05-09",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 3,
+        "episode_title": "Illegal S1E3 - Take the stand",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/S01/Illegal.S01E03.Take.The.Stand.720p.WEB-Rip.2CH.x264-BonsaiHD.mkv"
+      },
+      {
+        "added": "2026-02-26",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 4,
+        "episode_title": "Illegal S1E4 - Play or get played!",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/S01/Illegal.S01E04.Play.Or.Get.Played.720p.WEB-Rip.2CH.x264-BonsaiHD.mkv"
+      },
+      {
+        "added": "2026-02-26",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 5,
+        "episode_title": "Illegal S1E5 - Courting trouble",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/S01/Illegal.S01E05.Courting.Trouble.720p.WEB-Rip.2CH.x264-BonsaiHD.mkv"
+      },
+      {
+        "added": "2026-02-26",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 6,
+        "episode_title": "Illegal S1E6 - Two wrongs make a right",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/S01/Illegal.S01E06.Two.Wrongs.Make.A.Right.720p.WEB-Rip.2CH.x264-BonsaiHD.mkv"
+      },
+      {
+        "added": "2026-02-26",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 7,
+        "episode_title": "Illegal S1E7 - Innocent until proven guilty",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/S01/Illegal.S01E07.Innocent.Until.Proven.Guilty.720p.WEB-Rip.2CH.x264-BonsaiHD.mkv"
+      },
+      {
+        "added": "2026-02-26",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 8,
+        "episode_title": "Illegal S1E8 - When the past comes knocking",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/S01/Illegal.S01E08.When.The.Past.Comes.Knocking.720p.WEB-Rip.2CH.x264-BonsaiHD.mkv"
+      },
+      {
+        "added": "2026-02-26",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 9,
+        "episode_title": "Illegal S1E9 - Plausible deniability",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/S01/Illegal.S01E09.Plausible.Deniability.720p.WEB-Rip.2CH.x264-BonsaiHD.mkv"
+      },
+      {
+        "added": "2026-02-26",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 10,
+        "episode_title": "Illegal S1E10 - The final face-off",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/S01/Illegal.S01E10.The.Final.Face-off.720p.WEB-Rip.2CH.x264-BonsaiHD.mkv"
+      },
+      {
+        "added": "2026-06-09",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 1,
+        "episode_title": "Illegal S3E1 - The Mad Lawyer Returns",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/s03/Illegal.S03E01.The.Mad.Lawyer.Returns.720p.JIO.WEB-DL.AAC2.0.H.264-PrimeFix%20%5BProtonMovies%5D.mkv"
+      },
+      {
+        "added": "2026-03-01",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 2,
+        "episode_title": "Illegal S3E2 - Love and Loss",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/s03/Illegal.S03E02.Love.and.Loss.720p.JIO.WEB-DL.AAC2.0.H.264-PrimeFix%20%5BProtonMovies%5D.mkv"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 3,
+        "episode_title": "Illegal S3E3 - Lonely at the Top",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/s03/Illegal.S03E03.Lonely.at.the.Top.720p.JIO.WEB-DL.AAC2.0.H.264-PrimeFix%20%5BProtonMovies%5D.mkv"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 4,
+        "episode_title": "Illegal S3E4 - Game On",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/s03/Illegal.S03E04.Game.On.720p.JIO.WEB-DL.AAC2.0.H.264-PrimeFix%20%5BProtonMovies%5D.mkv"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 5,
+        "episode_title": "Illegal S3E5 - Powerplay",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/s03/Illegal.S03E05.Powerplay.720p.JIO.WEB-DL.AAC2.0.H.264-PrimeFix%20%5BProtonMovies%5D.mkv"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 6,
+        "episode_title": "Illegal S3E6 - Secrets and Sacrifice",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/s03/Illegal.S03E06.Secrets.and.Sacrifice.720p.JIO.WEB-DL.AAC2.0.H.264-PrimeFix%20%5BProtonMovies%5D.mkv"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 7,
+        "episode_title": "Illegal S3E7 - The Tables Turn",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/s03/Illegal.S03E07.The.Tables.Turn.720p.JIO.WEB-DL.AAC2.0.H.264-PrimeFix%20%5BProtonMovies%5D.mkv"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 3,
+        "episode": 8,
+        "episode_title": "Illegal S3E8 - The Burden of Truth",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Illegal%20(2020)%20Hindi/s03/Illegal.S03E08.The.Burden.of.Truth.720p.JIO.WEB-DL.AAC2.0.H.264-PrimeFix%20%5BProtonMovies%5D.mkv"
+      }
+    ]
+  },
+  "Treadstone hindi": {
+    "year": "",
+    "tvg_logo": "",
+    "links": [
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 1,
+        "episode_title": "Treadstone hindi S1E1",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Treadstone%20hindi/s01/Treadstone.S01E01.720p.WEB-DL.Hin-Eng.x264-KatmovieHD.nl.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 2,
+        "episode_title": "Treadstone hindi S1E2",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Treadstone%20hindi/s01/Treadstone.S01E02.720p.WEB-DL.Hin-Eng.x264-KatmovieHD.nl.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 3,
+        "episode_title": "Treadstone hindi S1E3",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Treadstone%20hindi/s01/Treadstone.S01E03.720p.WEB-DL.Hin-Eng.x264-KatmovieHD.nl.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 4,
+        "episode_title": "Treadstone hindi S1E4",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Treadstone%20hindi/s01/Treadstone.S01E04.720p.WEB-DL.Hin-Eng.x264-KatmovieHD.nl.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 5,
+        "episode_title": "Treadstone hindi S1E5",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Treadstone%20hindi/s01/Treadstone.S01E05.720p.WEB-DL.Hin-Eng.x264-KatmovieHD.nl.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 6,
+        "episode_title": "Treadstone hindi S1E6",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Treadstone%20hindi/s01/Treadstone.S01E06.720p.WEB-DL.Hin-Eng.x264-KatmovieHD.nl.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 7,
+        "episode_title": "Treadstone hindi S1E7",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Treadstone%20hindi/s01/Treadstone.S01E07.720p.WEB-DL.Hin-Eng.x264-KatmovieHD.nl.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 8,
+        "episode_title": "Treadstone hindi S1E8",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Treadstone%20hindi/s01/Treadstone.S01E08.720p.WEB-DL.Hin-Eng.x264-KatmovieHD.nl.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 9,
+        "episode_title": "Treadstone hindi S1E9",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Treadstone%20hindi/s01/Treadstone.S01E09.720p.WEB-DL.Hin-Eng.x264-KatmovieHD.nl.mp4"
+      },
+      {
+        "added": "2025-06-21",
+        "language": "Multi Audio",
+        "season": 1,
+        "episode": 10,
+        "episode_title": "Treadstone hindi S1E10",
+        "url": "https://fmftp.net/data/disk-1/tvseries/Indian/Treadstone%20hindi/s01/Treadstone.S01E10.720p.WEB-DL.Hin-Eng.x264-KatmovieHD.nl.mp4"
+      }
+    ]
+  }
+}

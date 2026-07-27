@@ -1,0 +1,48 @@
+{
+  "built_at": "2026-07-27T15:34:51Z",
+  "output_dir": "output_series",
+  "files": [
+    {
+      "file": "Bangla_Tv_Series.json",
+      "mode": "legacy",
+      "total_series": 87,
+      "series_with_episodes": 86,
+      "series_with_errors": 0,
+      "total_episodes": 608
+    },
+    {
+      "file": "English_Tv_Series.json",
+      "mode": "legacy",
+      "total_series": 909,
+      "series_with_episodes": 909,
+      "series_with_errors": 0,
+      "total_episodes": 17990
+    },
+    {
+      "file": "Indian_Tv_Series.json",
+      "mode": "legacy",
+      "total_series": 214,
+      "series_with_episodes": 214,
+      "series_with_errors": 0,
+      "total_episodes": 2025
+    },
+    {
+      "file": "Korean_Tv_Series.json",
+      "mode": "legacy",
+      "total_series": 98,
+      "series_with_episodes": 98,
+      "series_with_errors": 0,
+      "total_episodes": 1498
+    },
+    {
+      "file": "Turkish_Tv_Series.json",
+      "mode": "legacy",
+      "total_series": 2,
+      "series_with_episodes": 2,
+      "series_with_errors": 0,
+      "total_episodes": 31
+    }
+  ],
+  "grand_total_series": 1310,
+  "grand_total_episodes": 22152
+}
