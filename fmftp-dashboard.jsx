@@ -194,7 +194,7 @@ export default function App() {
   const [data, setData]       = useState(DEMO_DATA);
   const [isDemo, setIsDemo]   = useState(true);
   const [loading, setLoading] = useState(false);
-  const [repoUrl, setRepoUrl] = useState("https://raw.githubusercontent.com/faria2177/fmftp-data/main");
+  const [repoUrl, setRepoUrl] = useState("https://raw.githubusercontent.com/ireentechnology/fmftp-data/main");
   const [error, setError]     = useState("");
   const [tab, setTab]         = useState("movies");
 
