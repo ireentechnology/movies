@@ -1,0 +1,374 @@
+{
+  "type": "series_collection",
+  "source_url": "https://fmftp.net/tv-shows?category=13",
+  "category_id": "13",
+  "category_name": "Turkish Tv Series",
+  "total_items": 2,
+  "expected_total": 2,
+  "failed_pages": null,
+  "collected_at": "2026-07-27T19:46:24.296310Z",
+  "items": {
+    "Dirilis Ertugrul": {
+      "id": "882",
+      "year": "2014",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/rOar34cNLn2sgDH5FmAa1bvMpBv.jpg",
+      "backdrop": "https://fmftp.net/content-images/movies/backdrops/xTwCPMFshsjtA0firQMe3GapQz9.jpg",
+      "rating": 7.79,
+      "genre": [
+        "War & Politics",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "language": "Turkish Tv Series",
+      "overview": "Ertuğrul Bey and the Knights Templar in the 13th century Alba and step and step with the struggle against brutal Mongols depicts the process of establishing the Ottoman principality.",
+      "casts": "Engin Altan Düzyatan, Hülya Darcan, Didem Balçın, Cengiz Coşkun, Nurettin Sönmez, Celal Al, Edip Zeydan, Ayberk Pekcan, İlker Aksum, Hande Soral, Ali Ersan Duru, Engin Benli, Seçkin Kurbaş",
+      "tmdb_id": "66017",
+      "trailer": "c6B-EG1EafM",
+      "total_seasons": 1,
+      "total_episodes": 1,
+      "seasons": [
+        {
+          "season_number": 0,
+          "episode_count": 1,
+          "episodes": [
+            {
+              "id": "17237",
+              "name": "",
+              "episode_number": 0,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 376,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=882&episode=17237"
+            }
+          ]
+        }
+      ],
+      "watch_page": "https://fmftp.net/watch?type=SERIES&id=882"
+    },
+    "Farouk Omar": {
+      "id": "883",
+      "year": "",
+      "tvg_logo": "",
+      "backdrop": "",
+      "rating": 0.0,
+      "genre": [],
+      "language": "Turkish Tv Series",
+      "overview": "",
+      "casts": "",
+      "tmdb_id": "",
+      "trailer": "",
+      "total_seasons": 1,
+      "total_episodes": 30,
+      "seasons": [
+        {
+          "season_number": 1,
+          "episode_count": 30,
+          "episodes": [
+            {
+              "id": "18177",
+              "name": "",
+              "episode_number": 1,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 110,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18177"
+            },
+            {
+              "id": "18182",
+              "name": "",
+              "episode_number": 2,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 11,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18182"
+            },
+            {
+              "id": "18187",
+              "name": "",
+              "episode_number": 3,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 2,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18187"
+            },
+            {
+              "id": "18192",
+              "name": "",
+              "episode_number": 4,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 2,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18192"
+            },
+            {
+              "id": "18196",
+              "name": "",
+              "episode_number": 5,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 1,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18196"
+            },
+            {
+              "id": "18200",
+              "name": "",
+              "episode_number": 6,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18200"
+            },
+            {
+              "id": "18204",
+              "name": "",
+              "episode_number": 7,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18204"
+            },
+            {
+              "id": "18208",
+              "name": "",
+              "episode_number": 8,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18208"
+            },
+            {
+              "id": "18211",
+              "name": "",
+              "episode_number": 9,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18211"
+            },
+            {
+              "id": "18214",
+              "name": "",
+              "episode_number": 10,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18214"
+            },
+            {
+              "id": "18217",
+              "name": "",
+              "episode_number": 11,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18217"
+            },
+            {
+              "id": "18220",
+              "name": "",
+              "episode_number": 12,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18220"
+            },
+            {
+              "id": "18222",
+              "name": "",
+              "episode_number": 13,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 1,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18222"
+            },
+            {
+              "id": "18224",
+              "name": "",
+              "episode_number": 14,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 1,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18224"
+            },
+            {
+              "id": "18226",
+              "name": "",
+              "episode_number": 15,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18226"
+            },
+            {
+              "id": "18228",
+              "name": "",
+              "episode_number": 16,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18228"
+            },
+            {
+              "id": "18229",
+              "name": "",
+              "episode_number": 17,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18229"
+            },
+            {
+              "id": "18230",
+              "name": "",
+              "episode_number": 18,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18230"
+            },
+            {
+              "id": "18231",
+              "name": "",
+              "episode_number": 19,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 1,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18231"
+            },
+            {
+              "id": "18232",
+              "name": "",
+              "episode_number": 20,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18232"
+            },
+            {
+              "id": "18233",
+              "name": "",
+              "episode_number": 21,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18233"
+            },
+            {
+              "id": "18234",
+              "name": "",
+              "episode_number": 22,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18234"
+            },
+            {
+              "id": "18235",
+              "name": "",
+              "episode_number": 23,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18235"
+            },
+            {
+              "id": "18236",
+              "name": "",
+              "episode_number": 24,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 2,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18236"
+            },
+            {
+              "id": "18237",
+              "name": "",
+              "episode_number": 25,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18237"
+            },
+            {
+              "id": "18238",
+              "name": "",
+              "episode_number": 26,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18238"
+            },
+            {
+              "id": "18239",
+              "name": "",
+              "episode_number": 27,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18239"
+            },
+            {
+              "id": "18240",
+              "name": "",
+              "episode_number": 28,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 1,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18240"
+            },
+            {
+              "id": "18241",
+              "name": "",
+              "episode_number": 29,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 2,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18241"
+            },
+            {
+              "id": "18242",
+              "name": "",
+              "episode_number": 30,
+              "release_date": null,
+              "still_path": null,
+              "online_rating": 0.0,
+              "views": 0,
+              "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18242"
+            }
+          ]
+        }
+      ],
+      "watch_page": "https://fmftp.net/watch?type=SERIES&id=883"
+    }
+  }
+}

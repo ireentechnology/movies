@@ -1,0 +1,213 @@
+{
+  "type": "category_collection",
+  "source_url": "https://fmftp.net/movies?category=14",
+  "category_id": "14",
+  "category_name": "foreign",
+  "total_items": 7,
+  "expected_total": 7,
+  "failed_pages": null,
+  "collected_at": "2026-07-27T19:45:18.565694Z",
+  "items": {
+    "Capernaum": {
+      "id": "20755",
+      "year": "2018",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/mFnfTVADj8yOxwzprYOmTPselk8.jpg",
+      "backdrop": "https://fmftp.net/content-images/movies/backdrops/sEW8q9al73rtow257dXAusD9yS7.jpg",
+      "rating": 8.1,
+      "genre": [
+        "Drama"
+      ],
+      "views": 60,
+      "links": [
+        {
+          "url": "https://fmftp.net/data/disk-1/movies/foreigner movie/Capernaum (2018)/Capernaum.2018.720p.BluRay.x264-[YTS.AM].mp4",
+          "language": "foreign",
+          "quality": "720p",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=20755",
+          "type": "stream"
+        }
+      ],
+      "overview": "After running away from his negligent parents, committing a violent crime and being sentenced to five years in jail, a hardened, streetwise 12-year-old Lebanese boy sues his parents in protest of the life they have given him.",
+      "casts": "Zain Al Rafeea, Yordanos Shifera, Boluwatife Treasure Bankole, Kawsar Al Haddad, Fadi Kamel Yousef, Cedra Izzam, Alaa Chouchnieh, Elias Khoury, Nadine Labaki, Nour el Husseini, Joseph Jimbazian, Samira Chalhoub, Farah Hasno",
+      "imdb_id": "tt8267604",
+      "tmdb_id": "517814",
+      "trailers": "maf0AbL3uEw, wsCWP--3ZCg, ULUo0048xZE",
+      "runtime": 0,
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=20755",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/foreigner movie/Capernaum (2018)/Capernaum.2018.720p.BluRay.x264-[YTS.AM].mp4"
+    },
+    "Cook Up a Storm": {
+      "id": "20758",
+      "year": "2017",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/jHMVa4VWLxggvbDo2Ol1ln4obJs.jpg",
+      "backdrop": "https://fmftp.net/content-images/movies/backdrops/hy6aXcEGrKf2zhrgV3MwZVMbOIq.jpg",
+      "rating": 7.4,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "views": 181,
+      "links": [
+        {
+          "url": "https://fmftp.net/data/disk-1/movies/foreigner movie/Cook Up a Storm (2017)/Cook.Up.A.Storm.2017.Chinese.1080p.BluRay.x264.AAC.5.1.ESub-YTS.mkv",
+          "language": "foreign",
+          "quality": "1080p",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=20758",
+          "type": "stream"
+        }
+      ],
+      "overview": "An international culinary competition becomes a battleground between rival cooks, one famous for his Cantonese street food and the other a Michelin-starred chef trained in France. But their rivalry takes an unexpected turn when they discover a common foe and combine their skills in a fusion of East and West.",
+      "casts": "Nicholas Tse Ting-Fung, Jung Yong-hwa, Tang Yan, Michelle Bai, Ge You, Anthony Wong Chau-Sang, Du Haitao, Jim Chim Sui-Man, Hai Ming Wei, Michelle Wai Si-Nga, Wang Taili, Liu Xianda, Helena Law Lan, Hao Wenting, Barbora Mottlová, Marek Vašut, Ladislav Županič, Han Zhi, Pion Lio, Wu Dong, Xu Wencong, Wang Yi, Hu Ming, Yang Lulu, Cheng Yuying, Sun Yong, Long Jieyi, Pan Bo",
+      "imdb_id": "tt6315750",
+      "tmdb_id": "438857",
+      "trailers": "CIcuh3Eiqgg",
+      "runtime": 0,
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=20758",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/foreigner movie/Cook Up a Storm (2017)/Cook.Up.A.Storm.2017.Chinese.1080p.BluRay.x264.AAC.5.1.ESub-YTS.mkv"
+    },
+    "Blue Is The Warmest Color": {
+      "id": "20754",
+      "year": "2013",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/kgUk1wti2cvrptIgUz0VTAtSF6w.jpg",
+      "backdrop": "https://fmftp.net/content-images/movies/backdrops/bEmPrq7Y4MubVATOCtOacY3eXQ5.jpg",
+      "rating": 7.071,
+      "genre": [
+        "Romance",
+        "Drama"
+      ],
+      "views": 631,
+      "links": [
+        {
+          "url": "https://fmftp.net/data/disk-1/movies/foreigner movie/Blue Is The Warmest Color (2013)/Blue.Is.The.Warmest.Color.2013.720p.BluRay.x264-[YTS.AM].mp4",
+          "language": "foreign",
+          "quality": "720p",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=20754",
+          "type": "stream"
+        }
+      ],
+      "overview": "Adèle's life is changed when she meets Emma, a young woman with blue hair, who will allow her to discover desire, to assert herself as a woman and as an adult. In front of others, Adele grows, seeks herself, loses herself, finds herself.",
+      "casts": "Léa Seydoux, Adèle Exarchopoulos, Salim Kéchiouche, Aurélien Recoing, Catherine Salée, Benjamin Siksou, Mona Walravens, Alma Jodorowsky, Jérémie Laheurte, Anne Loiret, Benoît Pilot, Sandor Funtek, Fanny Maurin, Maelys Cabezon, Samir Bella, Tom Hurier, Manon Piette, Quentin Médrinal, Peter Assogbavi, Wisdom Ayanou, Philippe Potier, Virginie Morgny, Stéphane Mercoyrol, Lucie Bibal, Baya Rehaz, Marilyne Chanaud, Camille Rutherford, Michael Skal, Sandrine Paraire, Flavie De Murat, Justine Nissart, Vincent Gaeta, Elizabeth Craig, Karim Saidi, Aurelie Lemanceau, Audrey Deswarte, Mejdi Ben Nasr, Hichem Ben Nasr, Janine Pillot, Antoinette Sarrazin, Alain Duclos, Éric Paul, Catherine Gilleron, Leila D'Issernio, Jean Luc D'Isserno, Selim Boukerfat, Oscar Pinelli, Léa Berkat, Nicolas Bourgasser, Camille Ayoras, Frédéric Wolsztyniak, Halima Slimani, Viktor Poisson, Utrillo, Radhouane El Meddeb, Julien Bucci, Alika Del Sol, Maud Wyler, Marc Schaegis, Olivier Verseau, Manou Poret, Klaim Nivaux, Chloé Malih, Ilyès Qada, Bouraouïa Marzouk, Julien Lepers",
+      "imdb_id": "tt2278871",
+      "tmdb_id": "152584",
+      "trailers": "J_ekBcdPzIk, qOiug_u7Wns, aQGSlVJgGlI",
+      "runtime": 0,
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=20754",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/foreigner movie/Blue Is The Warmest Color (2013)/Blue.Is.The.Warmest.Color.2013.720p.BluRay.x264-[YTS.AM].mp4"
+    },
+    "Bekas": {
+      "id": "20753",
+      "year": "2012",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/A4iOMaO2Y2udxSmLq3ifZ6A8n0J.jpg",
+      "backdrop": "https://fmftp.net/content-images/movies/backdrops/6U2B92g8Zp6iVQljD8PP27iBMAH.jpg",
+      "rating": 7.5,
+      "genre": [
+        "Drama"
+      ],
+      "views": 95,
+      "links": [
+        {
+          "url": "https://fmftp.net/data/disk-1/movies/foreigner movie/Bekas (2012)/Bekas.2012.720p.BluRay.x264.AAC-[YTS.MX].mp4",
+          "language": "foreign",
+          "quality": "720p",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=20753",
+          "type": "stream"
+        }
+      ],
+      "overview": "Two shoeshiner homeless brothers named Zana and Dana live on the edge of survival. They catch a glimpse of Superman through a hole in the wall at the local cinema and decide that they want to go to America in order to meet Superman.",
+      "casts": "Zamand Taha, Sarwar Fazil, Diya Mariwan, Suliman Karim Mohamad, Rahim Hussen, Abdulrahman Mohamad, Shirwan Mohamad, Bahadin Halabjai, Nawzad Majid, Bakir Mustafa, Baxan Mohamad, Mohamad Salah, Diyar Jamal, Binay Bahman, Ari Muhedin, Xani Nabaz, Haryad Sabah, Jwtiar Nashad, Shawhm Muhamad, Siva Kamaran, Shwan Mohamad Sdiq, Ashna Rawf, Zana Husain, D. Taha, Mohamad Majid, Shwan Said, Bahra Abdul Rahman, Dlier Hasan Taha, Zanwer Faxr Fazil, Zaman Faxr Fazil, Rebwar Hama Hawrami, Rebwar Amin, Bahzad Jalal, Bahadin Azabang, Ata Hama Salih, Twana Xani, Abd Hawrami, Ali Twana, Muhamad Abdulla, Omar Karim Axa, Sivar Sarkawt, Omar Mohamad, Dilman Shwan, Kamaran Nuri Gulala",
+      "imdb_id": "tt1733105",
+      "tmdb_id": "224746",
+      "trailers": "xoTvm-POp7c",
+      "runtime": 0,
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=20753",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/foreigner movie/Bekas (2012)/Bekas.2012.720p.BluRay.x264.AAC-[YTS.MX].mp4"
+    },
+    "Irreversible": {
+      "id": "20759",
+      "year": "2002",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
+      "backdrop": "https://fmftp.net/content-images/movies/backdrops/xV1EfNSEg6id6juJPr1vM6p9x5X.jpg",
+      "rating": 7.176,
+      "genre": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "views": 350,
+      "links": [
+        {
+          "url": "https://fmftp.net/data/disk-1/movies/foreigner movie/Irreversible (2002)/Irreversible.2002.720p.BR.800MB.MkvCage.com.mkv",
+          "language": "foreign",
+          "quality": "720p",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=20759",
+          "type": "stream"
+        }
+      ],
+      "overview": "A woman’s lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can’t be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.",
+      "casts": "Monica Bellucci, Vincent Cassel, Albert Dupontel, Jo Prestia, Philippe Nahon, Stéphane Drouot, Jean-Louis Costes, Mick Gondouin, Mourad Khima, Layde Hellal, Dominique Nato, Michel Fesche, Victoria Jaramillo, Jean-Yves Le Quellec, Isabelle Giami, Fatima Adoum, Janice Foulaux, Stephane Derderian, Gaspar Noé",
+      "imdb_id": "tt0290673",
+      "tmdb_id": "979",
+      "trailers": "e9D7hvIwgj4, _mQud51zP38",
+      "runtime": 0,
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=20759",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/foreigner movie/Irreversible (2002)/Irreversible.2002.720p.BR.800MB.MkvCage.com.mkv"
+    },
+    "Taste Of Cherry": {
+      "id": "20757",
+      "year": "1997",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/u6GYH4HyR0BVwpqFuTOc2g4KB1L.jpg",
+      "backdrop": "https://fmftp.net/content-images/movies/backdrops/44SNTCSZTdbF5bzgUy4IfPV3DUq.jpg",
+      "rating": 7.688,
+      "genre": [
+        "Drama"
+      ],
+      "views": 57,
+      "links": [
+        {
+          "url": "https://fmftp.net/data/disk-1/movies/foreigner movie/Taste Of Cherry (1997)/Taste.Of.Cherry.1997.720p.BluRay.x264.AAC-[YTS.MX].mp4",
+          "language": "foreign",
+          "quality": "720p",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=20757",
+          "type": "stream"
+        }
+      ],
+      "overview": "A middle-aged Tehranian man, Mr. Badii is intent on killing himself and seeks someone to bury him after his demise. Driving around the city, the seemingly well-to-do Badii meets with numerous people, including a Muslim student, asking them to take on the job, but initially he has little luck. Eventually, Badii finds a man who is up for the task because he needs the money, but his new associate soon tries to talk him out of committing suicide.",
+      "casts": "Homayoun Ershadi, Abdolrahman Bagheri, Safar Ali Moradi, Mir Hossein Noori, Elham Imani, Afshin Khorshid Bakhtiari, Ahmad Ansari",
+      "imdb_id": "tt0120265",
+      "tmdb_id": "30020",
+      "trailers": "ukmYdGwVqPg, XDSQLTtGZE0",
+      "runtime": 0,
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=20757",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/foreigner movie/Taste Of Cherry (1997)/Taste.Of.Cherry.1997.720p.BluRay.x264.AAC-[YTS.MX].mp4"
+    },
+    "Close-Up": {
+      "id": "20756",
+      "year": "1992",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/m9HG2N9ZKCmNN9qOHJTNyy18wn3.jpg",
+      "backdrop": "https://fmftp.net/content-images/movies/backdrops/3t1qZqP1e17wQshpPKSqII1OogM.jpg",
+      "rating": 7.938,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "views": 36,
+      "links": [
+        {
+          "url": "https://fmftp.net/data/disk-1/movies/foreigner movie/Close-Up (1992)/Close-Up.1990.720p.BluRay.x264.AAC-[YTS.MX].mp4",
+          "language": "foreign",
+          "quality": "720p",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=20756",
+          "type": "stream"
+        }
+      ],
+      "overview": "This fiction-documentary hybrid uses a sensational real-life event—the arrest of a young man on charges that he fraudulently impersonated the well-known filmmaker Mohsen Makhmalbaf—as the basis for a stunning, multilayered investigation into movies, identity, artistic creation, and existence, in which the real people from the case play themselves.",
+      "casts": "Hossain Sabzian, Monoochehr Ahankhah, Mahrokh Ahankhah, Abolfazl Ahankhah, Mehrdad Ahankhah, Nayer Mohseni Zonoozi, Hossain Farazmand, Ahmad Reza Moayed Mohseni, Hooshang Shamaei, Mohammad Ali Barrati, Davood Goodarzi, Haj Ali Reza Ahmadi, Hassan Komaili, Davood Mohabbat, Hassan Farazmand, Hushang Shahai, Mohsen Makhmalbaf, Abbas Kiarostami",
+      "imdb_id": "tt0100234",
+      "tmdb_id": "30017",
+      "trailers": "YeFZ448yQ-0",
+      "runtime": 0,
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=20756",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/foreigner movie/Close-Up (1992)/Close-Up.1990.720p.BluRay.x264.AAC-[YTS.MX].mp4"
+    }
+  }
+}
