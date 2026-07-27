@@ -1,0 +1,49 @@
+name: build-series
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 */12 * * *"
+  push:
+    paths:
+      - "series/*.json"
+      - "scripts/build_series_output.py"
+      - "build_series_index.py"
+      - ".github/workflows/build-series.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Build output series files
+        env:
+          OUTPUT_MODE: legacy
+        run: |
+          python scripts/build_series_output.py
+
+      - name: Build output index
+        run: |
+          python build_series_index.py
+
+      - name: Commit generated files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(series): rebuild output series files"
+          file_pattern: output_series/*.json
