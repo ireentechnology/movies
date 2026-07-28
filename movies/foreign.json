@@ -75,7 +75,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 631,
+      "views": 637,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/foreigner movie/Blue Is The Warmest Color (2013)/Blue.Is.The.Warmest.Color.2013.720p.BluRay.x264-[YTS.AM].mp4",
@@ -209,5 +209,6 @@
       "watch_page": "https://fmftp.net/watch?type=MOVIE&id=20756",
       "stream_url": "https://fmftp.net/data/disk-1/movies/foreigner movie/Close-Up (1992)/Close-Up.1990.720p.BluRay.x264.AAC-[YTS.MX].mp4"
     }
-  }
+  },
+  "last_updated": "2026-07-28T16:49:29.038033Z"
 }

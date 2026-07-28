@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27T19:28:28.623660Z",
+  "generated_at": "2026-07-28T16:29:36.082307Z",
   "total_movies": 21008,
   "total_series": 1305,
-  "total_episodes": 22055,
+  "total_episodes": 22064,
   "grand_total": 22313,
   "movies": {
     "total": 21008,
@@ -12,8 +12,8 @@
         "category_id": "1",
         "file": "movies/Bollywood.json",
         "count": 2916,
-        "new": 2916,
-        "updated": 0,
+        "new": 7,
+        "updated": 2909,
         "total_episodes": null,
         "expected_total": 2920
       },
@@ -22,8 +22,8 @@
         "category_id": "2",
         "file": "movies/Hollywood.json",
         "count": 14106,
-        "new": 14106,
-        "updated": 0,
+        "new": 8,
+        "updated": 14098,
         "total_episodes": null,
         "expected_total": 14109
       },
@@ -32,8 +32,8 @@
         "category_id": "3",
         "file": "movies/Animation.json",
         "count": 438,
-        "new": 438,
-        "updated": 0,
+        "new": 0,
+        "updated": 438,
         "total_episodes": null,
         "expected_total": 440
       },
@@ -42,8 +42,8 @@
         "category_id": "4",
         "file": "movies/Korean.json",
         "count": 375,
-        "new": 375,
-        "updated": 0,
+        "new": 0,
+        "updated": 375,
         "total_episodes": null,
         "expected_total": 376
       },
@@ -52,8 +52,8 @@
         "category_id": "5",
         "file": "movies/Hindi_dubbed.json",
         "count": 1317,
-        "new": 1317,
-        "updated": 0,
+        "new": 0,
+        "updated": 1317,
         "total_episodes": null,
         "expected_total": 1318
       },
@@ -62,8 +62,8 @@
         "category_id": "6",
         "file": "movies/Horror.json",
         "count": 49,
-        "new": 49,
-        "updated": 0,
+        "new": 0,
+        "updated": 49,
         "total_episodes": null,
         "expected_total": 49
       },
@@ -72,8 +72,8 @@
         "category_id": "7",
         "file": "movies/Indian_Bangla.json",
         "count": 665,
-        "new": 665,
-        "updated": 0,
+        "new": 2,
+        "updated": 663,
         "total_episodes": null,
         "expected_total": 666
       },
@@ -82,8 +82,8 @@
         "category_id": "8",
         "file": "movies/Tamil.json",
         "count": 1135,
-        "new": 1135,
-        "updated": 0,
+        "new": 8,
+        "updated": 1127,
         "total_episodes": null,
         "expected_total": 1136
       },
@@ -92,8 +92,8 @@
         "category_id": "14",
         "file": "movies/foreign.json",
         "count": 7,
-        "new": 7,
-        "updated": 0,
+        "new": 0,
+        "updated": 7,
         "total_episodes": null,
         "expected_total": 7
       }
@@ -107,9 +107,9 @@
         "category_id": "9",
         "file": "series/English_Tv_Series.json",
         "count": 905,
-        "new": 905,
-        "updated": 0,
-        "total_episodes": 17909,
+        "new": 2,
+        "updated": 903,
+        "total_episodes": 17918,
         "expected_total": 905
       },
       {
@@ -117,8 +117,8 @@
         "category_id": "10",
         "file": "series/Indian_Tv_Series.json",
         "count": 214,
-        "new": 214,
-        "updated": 0,
+        "new": 0,
+        "updated": 214,
         "total_episodes": 2025,
         "expected_total": 214
       },
@@ -127,8 +127,8 @@
         "category_id": "11",
         "file": "series/Korean_Tv_Series.json",
         "count": 97,
-        "new": 97,
-        "updated": 0,
+        "new": 0,
+        "updated": 97,
         "total_episodes": 1482,
         "expected_total": 97
       },
@@ -137,8 +137,8 @@
         "category_id": "12",
         "file": "series/Bangla_Tv_Series.json",
         "count": 87,
-        "new": 87,
-        "updated": 0,
+        "new": 0,
+        "updated": 87,
         "total_episodes": 608,
         "expected_total": 87
       },
@@ -147,8 +147,8 @@
         "category_id": "13",
         "file": "series/Turkish_Tv_Series.json",
         "count": 2,
-        "new": 2,
-        "updated": 0,
+        "new": 0,
+        "updated": 2,
         "total_episodes": 31,
         "expected_total": 2
       }

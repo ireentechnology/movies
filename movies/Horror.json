@@ -19,7 +19,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 466,
+      "views": 468,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/horror/Sewu Dino (2023)/Sewu.Dino.2023.Indonesian.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
@@ -49,7 +49,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 135,
+      "views": 136,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/horror/In The Tall Grass (2019)/In.The.Tall.Grass(2019).mp4",
@@ -333,7 +333,7 @@
       "genre": [
         "Horror"
       ],
-      "views": 148,
+      "views": 149,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/horror/Siccin 2 (2015)/Siccin 2 (2015) Turkish 720p AMZN-WEB x264 AAC 5.1 ESub-MsMod.mkv",
@@ -1146,7 +1146,7 @@
         "Thriller",
         "Crime"
       ],
-      "views": 24,
+      "views": 25,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/horror/Saw III (2006)/Saw.III.UNRATED(2006).mp4",
@@ -1292,7 +1292,7 @@
         "Horror",
         "Thriller"
       ],
-      "views": 81,
+      "views": 82,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/horror/Saw (2004)/Saw.I.UNRATED(2004).mp4",
@@ -1430,5 +1430,6 @@
       "watch_page": "https://fmftp.net/watch?type=MOVIE&id=17998",
       "stream_url": "https://fmftp.net/data/disk-1/movies/horror/Cube (1997)/Cube(1997).mp4"
     }
-  }
+  },
+  "last_updated": "2026-07-28T16:47:47.649394Z"
 }
