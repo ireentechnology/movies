@@ -1,0 +1,620 @@
+{
+  "Dirilis Ertugrul": {
+    "id": "882",
+    "year": "2014",
+    "tvg_logo": "https://fmftp.net/content-images/movies/posters/rOar34cNLn2sgDH5FmAa1bvMpBv.jpg",
+    "backdrop": "https://fmftp.net/content-images/movies/backdrops/xTwCPMFshsjtA0firQMe3GapQz9.jpg",
+    "rating": 7.79,
+    "genre": [
+      "War & Politics",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "language": "Turkish Tv Series",
+    "overview": "Ertuğrul Bey and the Knights Templar in the 13th century Alba and step and step with the struggle against brutal Mongols depicts the process of establishing the Ottoman principality.",
+    "casts": "Engin Altan Düzyatan, Hülya Darcan, Didem Balçın, Cengiz Coşkun, Nurettin Sönmez, Celal Al, Edip Zeydan, Ayberk Pekcan, İlker Aksum, Hande Soral, Ali Ersan Duru, Engin Benli, Seçkin Kurbaş",
+    "tmdb_id": "66017",
+    "trailer": "c6B-EG1EafM",
+    "total_seasons": 1,
+    "total_episodes": 1,
+    "seasons": [
+      {
+        "season_number": 0,
+        "episode_count": 1,
+        "episodes": [
+          {
+            "id": "17237",
+            "name": "",
+            "episode_number": 0,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 376,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=882&episode=17237"
+          }
+        ]
+      }
+    ],
+    "watch_page": "https://fmftp.net/watch?type=SERIES&id=882",
+    "links": [
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 1,
+        "episode_title": "Dirilis Ertugrul S1E1",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=17237"
+      }
+    ],
+    "episode_count": 1,
+    "series_id": 882
+  },
+  "Farouk Omar": {
+    "id": "883",
+    "year": "",
+    "tvg_logo": "",
+    "backdrop": "",
+    "rating": 0.0,
+    "genre": [],
+    "language": "Turkish Tv Series",
+    "overview": "",
+    "casts": "",
+    "tmdb_id": "",
+    "trailer": "",
+    "total_seasons": 1,
+    "total_episodes": 30,
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 30,
+        "episodes": [
+          {
+            "id": "18177",
+            "name": "",
+            "episode_number": 1,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 110,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18177"
+          },
+          {
+            "id": "18182",
+            "name": "",
+            "episode_number": 2,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 11,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18182"
+          },
+          {
+            "id": "18187",
+            "name": "",
+            "episode_number": 3,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 2,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18187"
+          },
+          {
+            "id": "18192",
+            "name": "",
+            "episode_number": 4,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 2,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18192"
+          },
+          {
+            "id": "18196",
+            "name": "",
+            "episode_number": 5,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 1,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18196"
+          },
+          {
+            "id": "18200",
+            "name": "",
+            "episode_number": 6,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18200"
+          },
+          {
+            "id": "18204",
+            "name": "",
+            "episode_number": 7,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18204"
+          },
+          {
+            "id": "18208",
+            "name": "",
+            "episode_number": 8,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18208"
+          },
+          {
+            "id": "18211",
+            "name": "",
+            "episode_number": 9,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18211"
+          },
+          {
+            "id": "18214",
+            "name": "",
+            "episode_number": 10,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18214"
+          },
+          {
+            "id": "18217",
+            "name": "",
+            "episode_number": 11,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18217"
+          },
+          {
+            "id": "18220",
+            "name": "",
+            "episode_number": 12,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18220"
+          },
+          {
+            "id": "18222",
+            "name": "",
+            "episode_number": 13,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 1,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18222"
+          },
+          {
+            "id": "18224",
+            "name": "",
+            "episode_number": 14,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 1,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18224"
+          },
+          {
+            "id": "18226",
+            "name": "",
+            "episode_number": 15,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18226"
+          },
+          {
+            "id": "18228",
+            "name": "",
+            "episode_number": 16,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18228"
+          },
+          {
+            "id": "18229",
+            "name": "",
+            "episode_number": 17,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18229"
+          },
+          {
+            "id": "18230",
+            "name": "",
+            "episode_number": 18,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18230"
+          },
+          {
+            "id": "18231",
+            "name": "",
+            "episode_number": 19,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 1,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18231"
+          },
+          {
+            "id": "18232",
+            "name": "",
+            "episode_number": 20,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18232"
+          },
+          {
+            "id": "18233",
+            "name": "",
+            "episode_number": 21,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18233"
+          },
+          {
+            "id": "18234",
+            "name": "",
+            "episode_number": 22,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18234"
+          },
+          {
+            "id": "18235",
+            "name": "",
+            "episode_number": 23,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18235"
+          },
+          {
+            "id": "18236",
+            "name": "",
+            "episode_number": 24,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 2,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18236"
+          },
+          {
+            "id": "18237",
+            "name": "",
+            "episode_number": 25,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18237"
+          },
+          {
+            "id": "18238",
+            "name": "",
+            "episode_number": 26,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18238"
+          },
+          {
+            "id": "18239",
+            "name": "",
+            "episode_number": 27,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18239"
+          },
+          {
+            "id": "18240",
+            "name": "",
+            "episode_number": 28,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 1,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18240"
+          },
+          {
+            "id": "18241",
+            "name": "",
+            "episode_number": 29,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 2,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18241"
+          },
+          {
+            "id": "18242",
+            "name": "",
+            "episode_number": 30,
+            "release_date": null,
+            "still_path": null,
+            "online_rating": 0.0,
+            "views": 0,
+            "watch_page": "https://fmftp.net/watch?type=SERIES&id=883&episode=18242"
+          }
+        ]
+      }
+    ],
+    "watch_page": "https://fmftp.net/watch?type=SERIES&id=883",
+    "links": [
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 1,
+        "episode_title": "Farouk Omar S1E1",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18177"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 2,
+        "episode_title": "Farouk Omar S1E2",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18182"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 3,
+        "episode_title": "Farouk Omar S1E3",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18187"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 4,
+        "episode_title": "Farouk Omar S1E4",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18192"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 5,
+        "episode_title": "Farouk Omar S1E5",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18196"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 6,
+        "episode_title": "Farouk Omar S1E6",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18200"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 7,
+        "episode_title": "Farouk Omar S1E7",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18204"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 8,
+        "episode_title": "Farouk Omar S1E8",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18208"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 9,
+        "episode_title": "Farouk Omar S1E9",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18211"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 10,
+        "episode_title": "Farouk Omar S1E10",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18214"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 11,
+        "episode_title": "Farouk Omar S1E11",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18217"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 12,
+        "episode_title": "Farouk Omar S1E12",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18220"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 13,
+        "episode_title": "Farouk Omar S1E13",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18222"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 14,
+        "episode_title": "Farouk Omar S1E14",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18224"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 15,
+        "episode_title": "Farouk Omar S1E15",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18226"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 16,
+        "episode_title": "Farouk Omar S1E16",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18228"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 17,
+        "episode_title": "Farouk Omar S1E17",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18229"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 18,
+        "episode_title": "Farouk Omar S1E18",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18230"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 19,
+        "episode_title": "Farouk Omar S1E19",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18231"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 20,
+        "episode_title": "Farouk Omar S1E20",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18232"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 21,
+        "episode_title": "Farouk Omar S1E21",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18233"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 22,
+        "episode_title": "Farouk Omar S1E22",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18234"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 23,
+        "episode_title": "Farouk Omar S1E23",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18235"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 24,
+        "episode_title": "Farouk Omar S1E24",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18236"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 25,
+        "episode_title": "Farouk Omar S1E25",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18237"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 26,
+        "episode_title": "Farouk Omar S1E26",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18238"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 27,
+        "episode_title": "Farouk Omar S1E27",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18239"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 28,
+        "episode_title": "Farouk Omar S1E28",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18240"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 29,
+        "episode_title": "Farouk Omar S1E29",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18241"
+      },
+      {
+        "added": "2026-07-28",
+        "language": "Turkish Tv Series",
+        "season": 1,
+        "episode": 30,
+        "episode_title": "Farouk Omar S1E30",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=18242"
+      }
+    ],
+    "episode_count": 30,
+    "series_id": 883
+  }
+}
