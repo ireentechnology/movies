@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T02:00:56.751750Z",
-  "total_movies": 21052,
+  "generated_at": "2026-08-13T02:19:42.756431Z",
+  "total_movies": 21054,
   "total_series": 1313,
   "total_episodes": 22273,
-  "grand_total": 22365,
+  "grand_total": 22367,
   "movies": {
-    "total": 21052,
+    "total": 21054,
     "categories": [
       {
         "label": "Bollywood",
@@ -22,8 +22,8 @@
         "category_id": "2",
         "file": "movies/Hollywood.json",
         "count": 14117,
-        "new": 1,
-        "updated": 14116,
+        "new": 4,
+        "updated": 14113,
         "total_episodes": null,
         "expected_total": 14119
       },
@@ -41,11 +41,11 @@
         "label": "Korean Movies",
         "category_id": "4",
         "file": "movies/Korean.json",
-        "count": 375,
-        "new": 0,
+        "count": 377,
+        "new": 2,
         "updated": 375,
         "total_episodes": null,
-        "expected_total": 376
+        "expected_total": 377
       },
       {
         "label": "Hindi Dubbed",
