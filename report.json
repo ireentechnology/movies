@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-15T01:26:28.684738Z",
-  "total_movies": 21055,
+  "generated_at": "2026-08-17T01:35:34.806092Z",
+  "total_movies": 21072,
   "total_series": 1313,
-  "total_episodes": 22274,
-  "grand_total": 22368,
+  "total_episodes": 22535,
+  "grand_total": 22385,
   "movies": {
-    "total": 21055,
+    "total": 21072,
     "categories": [
       {
         "label": "Bollywood",
         "category_id": "1",
         "file": "movies/Bollywood.json",
         "count": 2924,
-        "new": 2,
-        "updated": 2922,
+        "new": 0,
+        "updated": 2924,
         "total_episodes": null,
         "expected_total": 2925
       },
@@ -21,11 +21,11 @@
         "label": "Hollywood",
         "category_id": "2",
         "file": "movies/Hollywood.json",
-        "count": 14117,
-        "new": 1,
-        "updated": 14116,
+        "count": 14122,
+        "new": 7,
+        "updated": 14115,
         "total_episodes": null,
-        "expected_total": 14119
+        "expected_total": 14125
       },
       {
         "label": "Animation",
@@ -51,11 +51,11 @@
         "label": "Hindi Dubbed",
         "category_id": "5",
         "file": "movies/Hindi_dubbed.json",
-        "count": 1339,
-        "new": 0,
-        "updated": 1339,
+        "count": 1351,
+        "new": 14,
+        "updated": 1337,
         "total_episodes": null,
-        "expected_total": 1340
+        "expected_total": 1354
       },
       {
         "label": "Horror",
@@ -72,10 +72,10 @@
         "category_id": "7",
         "file": "movies/Indian_Bangla.json",
         "count": 667,
-        "new": 0,
-        "updated": 667,
+        "new": 9,
+        "updated": 658,
         "total_episodes": null,
-        "expected_total": 667
+        "expected_total": 668
       },
       {
         "label": "Tamil",
@@ -107,10 +107,10 @@
         "category_id": "9",
         "file": "series/English_Tv_Series.json",
         "count": 908,
-        "new": 0,
-        "updated": 908,
-        "total_episodes": 18089,
-        "expected_total": 908
+        "new": 1,
+        "updated": 907,
+        "total_episodes": 18350,
+        "expected_total": 909
       },
       {
         "label": "Indian TV Series",
