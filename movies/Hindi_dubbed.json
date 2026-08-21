@@ -3,8 +3,8 @@
   "source_url": "https://fmftp.net/movies?category=5",
   "category_id": "5",
   "category_name": "Hindi dubbed",
-  "total_items": 1354,
-  "expected_total": 1354,
+  "total_items": 1356,
+  "expected_total": 1356,
   "failed_pages": null,
   "collected_at": "2026-07-27T19:43:48.456930Z",
   "items": {
@@ -18,7 +18,7 @@
         "Romance",
         "Comedy"
       ],
-      "views": 375,
+      "views": 394,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Love in Slow Motion (2026)/Love in Slow Motion.mkv",
@@ -48,7 +48,7 @@
         "Thriller",
         "Crime"
       ],
-      "views": 782,
+      "views": 813,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Debt Collector (2026)/The Debt Collector (2026).mkv",
@@ -78,7 +78,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 418,
+      "views": 428,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Simulacra (2026)/Simulacra.mkv",
@@ -108,7 +108,7 @@
         "Action",
         "Fantasy"
       ],
-      "views": 4632,
+      "views": 4792,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Odyssey (2026)/The Odyssey.mp4",
@@ -136,7 +136,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 140,
+      "views": 147,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Me Before Me (2026)/Me Before Me.mkv",
@@ -165,7 +165,7 @@
         "Drama",
         "Action"
       ],
-      "views": 326,
+      "views": 327,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Nothing to Lose (2026)/Nothing to Lose.mkv",
@@ -193,7 +193,7 @@
       "genre": [
         "Horror"
       ],
-      "views": 614,
+      "views": 639,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Evil Dead Burn (2026)/Evil Dead Burn.mp4",
@@ -224,7 +224,7 @@
         "Mystery",
         "Action"
       ],
-      "views": 732,
+      "views": 740,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Enola Holmes 3 (2026)/Enola Holmes 3.mp4",
@@ -254,7 +254,7 @@
         "Horror",
         "Thriller"
       ],
-      "views": 1990,
+      "views": 2011,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Tavvai (2026)/Tavvai.mp4",
@@ -282,7 +282,7 @@
       "genre": [
         "Comedy"
       ],
-      "views": 731,
+      "views": 733,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Little Brother (2026)/Little Brother.mkv",
@@ -311,7 +311,7 @@
         "Comedy",
         "Action"
       ],
-      "views": 844,
+      "views": 848,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Husbands in Action (2026)/Husbands in Action.mp4",
@@ -340,7 +340,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 1861,
+      "views": 1872,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Your Fault London (2026)/Your Fault London.mkv",
@@ -370,7 +370,7 @@
         "Drama",
         "Fantasy"
       ],
-      "views": 234,
+      "views": 247,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Double Occupancy (2026)/Double Occupancy.mkv",
@@ -399,7 +399,7 @@
         "Science Fiction",
         "Thriller"
       ],
-      "views": 160,
+      "views": 172,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Disclosure Day (2026)/Disclosure Day.mkv",
@@ -429,7 +429,7 @@
         "Music",
         "Drama"
       ],
-      "views": 283,
+      "views": 286,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sing Geetham (2026)/Sing Geetham.mkv",
@@ -460,7 +460,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 682,
+      "views": 696,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Parimala and Co (2026)/Parimala and Co.mkv",
@@ -489,7 +489,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 788,
+      "views": 800,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mollywood Times (2026)/Mollywood Times.mp4",
@@ -518,7 +518,7 @@
         "Comedy",
         "Horror"
       ],
-      "views": 127,
+      "views": 137,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Scary Movie (2026)/Scary Movie.mkv",
@@ -547,7 +547,7 @@
         "Action",
         "Drama"
       ],
-      "views": 12641,
+      "views": 12717,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Peddi (2026)/Peddi.mp4",
@@ -577,7 +577,7 @@
         "Fantasy",
         "Science Fiction"
       ],
-      "views": 1343,
+      "views": 1346,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Masters of the Universe (2026)/Masters of the Universe.mkv",
@@ -606,7 +606,7 @@
         "Comedy",
         "Family"
       ],
-      "views": 49,
+      "views": 51,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Breadwinner (2026)/The Breadwinner.mkv",
@@ -635,7 +635,7 @@
         "Romance",
         "Thriller"
       ],
-      "views": 676,
+      "views": 677,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mareechika (2026)/Mareechika.mp4",
@@ -695,7 +695,7 @@
         "Family",
         "Thriller"
       ],
-      "views": 6990,
+      "views": 7033,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Blast (2026)/Blast.mkv",
@@ -725,7 +725,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 1913,
+      "views": 1930,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Ugly Story (2026)/SouthFreak.COM - Ugly Story 2026 Dual Audio Hindi (ORG 5.1) 720p WEB-DL x264 ESubs.mp4",
@@ -754,7 +754,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 489,
+      "views": 494,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Dose (2026)/Dose.mkv",
@@ -784,7 +784,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 5748,
+      "views": 5783,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Drishyam 3 (2026)/Drishyam 3.mp4",
@@ -813,7 +813,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 2152,
+      "views": 2157,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Tom Clancy's Jack Ryan Ghost War (2026)/Tom Clancy's Jack Ryan Ghost War (2026).mp4",
@@ -842,7 +842,7 @@
         "Horror",
         "Thriller"
       ],
-      "views": 204,
+      "views": 207,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Passenger (2026)/Passenger.mkv",
@@ -873,7 +873,7 @@
         "Comedy",
         "Romance"
       ],
-      "views": 465,
+      "views": 467,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sattendru Maarudhu Vaanilai (2026)/Sattendru Maarudhu Vaanilai.mkv",
@@ -902,7 +902,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 25,
+      "views": 27,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Is God Is (2026)/Is God Is.mkv",
@@ -931,7 +931,7 @@
         "Action",
         "Fantasy"
       ],
-      "views": 7246,
+      "views": 7276,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Karuppu (2026)/Karuppu.mp4",
@@ -960,7 +960,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 622,
+      "views": 627,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Athiradi (2026)/Athiradi.mkv",
@@ -989,7 +989,7 @@
         "Horror",
         "Thriller"
       ],
-      "views": 2366,
+      "views": 2410,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Obsession (2025)/Obsession.mp4",
@@ -1019,7 +1019,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 767,
+      "views": 769,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sathi Leelavathi (2026)/Sathi Leelavathi.mkv",
@@ -1049,7 +1049,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 1613,
+      "views": 1621,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/29 (2026)/29.mp4",
@@ -1079,7 +1079,7 @@
         "Drama",
         "Action"
       ],
-      "views": 822,
+      "views": 840,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Razor (2026)/Razor.mkv",
@@ -1108,7 +1108,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 2895,
+      "views": 2911,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Dridam (2026)/Dridam.mp4",
@@ -1137,7 +1137,7 @@
         "Mystery",
         "Drama"
       ],
-      "views": 410,
+      "views": 420,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Desire (2026)/Desire.mkv",
@@ -1167,7 +1167,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 773,
+      "views": 778,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/M4M Motive for Murder (2026)/M4M Motive for Murder.mkv",
@@ -1197,7 +1197,7 @@
         "Fantasy",
         "Adventure"
       ],
-      "views": 2181,
+      "views": 2183,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mortal Kombat II (2026)/Mortal Kombat II (2026).mp4",
@@ -1227,7 +1227,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 460,
+      "views": 464,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/My Dearest Assassin (2026)/My Dearest Assassin.mp4",
@@ -1257,7 +1257,7 @@
         "History",
         "Drama"
       ],
-      "views": 2237,
+      "views": 2244,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Raja Shivaji (2026)/Raja Shivaji.mp4",
@@ -1286,7 +1286,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 1812,
+      "views": 1814,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Ek Din (2026)/Ek Din.mp4",
@@ -1316,7 +1316,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 2333,
+      "views": 2346,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Patriot (2026)/Patriot.mp4",
@@ -1346,7 +1346,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 3502,
+      "views": 3515,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kara (2026)/Kara.mkv",
@@ -1377,7 +1377,7 @@
         "Action",
         "Fantasy"
       ],
-      "views": 1136,
+      "views": 1159,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/KD The Devil (2026)/KD The Devil.mp4",
@@ -1408,7 +1408,7 @@
         "Mystery",
         "Family"
       ],
-      "views": 511,
+      "views": 514,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Sheep Detectives (2026)/The Sheep Detectives.mkv",
@@ -1467,7 +1467,7 @@
         "Music",
         "Drama"
       ],
-      "views": 977,
+      "views": 987,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Michael (2026)/Michael.mp4",
@@ -1496,7 +1496,7 @@
         "Action",
         "Drama"
       ],
-      "views": 1871,
+      "views": 1874,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Pallichattambi (2026)/Pallichattambi.mp4",
@@ -1525,7 +1525,7 @@
         "Comedy",
         "Thriller"
       ],
-      "views": 788,
+      "views": 795,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mohiniyattam (2026)/Mohiniyattam.mkv",
@@ -1555,7 +1555,7 @@
         "Science Fiction",
         "Comedy"
       ],
-      "views": 2751,
+      "views": 2760,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Love Insurance Kompany (2026)/Love Insurance Kompany (2026).mkv",
@@ -1584,7 +1584,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 195,
+      "views": 198,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/TN 2026 (2026)/TN 2026.mkv",
@@ -1613,7 +1613,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 397,
+      "views": 411,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Boulevard (2026)/Boulevard.mkv",
@@ -1643,7 +1643,7 @@
         "Romance",
         "Thriller"
       ],
-      "views": 8872,
+      "views": 8880,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Dacoit (2026)/Dacoit.mp4",
@@ -1673,7 +1673,7 @@
         "Drama",
         "Action"
       ],
-      "views": 619,
+      "views": 623,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kaalidas 2 (2026)/Kaalidas 2.mkv",
@@ -1702,7 +1702,7 @@
         "Adventure",
         "Drama"
       ],
-      "views": 691,
+      "views": 692,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Biker (2026)/Biker.mkv",
@@ -1731,7 +1731,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 569,
+      "views": 574,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Vaazha II (2026)/Vaazha II (2026).mp4",
@@ -1761,7 +1761,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 797,
+      "views": 806,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Happy Raj (2026)/Happy Raj.mp4",
@@ -1790,7 +1790,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 798,
+      "views": 802,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Nee Forever (2026)/Nee Forever.mp4",
@@ -1819,7 +1819,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 95,
+      "views": 96,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Lechindi Mahila Lokam (2026)/Lechindi Mahila Lokam (2026).mp4",
@@ -1876,7 +1876,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 606,
+      "views": 609,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Zeta (2026)/Zeta.mp4",
@@ -1905,7 +1905,7 @@
         "Comedy",
         "Fantasy"
       ],
-      "views": 355,
+      "views": 369,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Aadu 3 (2026)/Aadu 3.mkv",
@@ -1935,7 +1935,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 1310,
+      "views": 1311,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Youth (2026)/Youth.mp4",
@@ -1965,7 +1965,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 4420,
+      "views": 4448,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Ustaad Bhagat Singh (2026)/Ustaad Bhagat Singh.mp4",
@@ -1994,7 +1994,7 @@
         "Science Fiction",
         "Adventure"
       ],
-      "views": 3534,
+      "views": 3610,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Project Hail Mary (2026)/Project Hail Mary.mp4",
@@ -2022,7 +2022,7 @@
       "genre": [
         "Thriller"
       ],
-      "views": 532,
+      "views": 534,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Repu Udayam 10 Gantalaku (2026)/Repu Udayam 10 Gantalaku.mp4",
@@ -2051,7 +2051,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 38,
+      "views": 47,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sniper No Nation (2026)/Sniper No Nation.mkv",
@@ -2081,7 +2081,7 @@
         "Drama",
         "Family"
       ],
-      "views": 93,
+      "views": 95,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kenatha Kanom (2026)/Kenatha Kanom.mkv",
@@ -2109,7 +2109,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 1023,
+      "views": 1026,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Made in Korea (2026)/Made in Korea.mp4",
@@ -2138,7 +2138,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 406,
+      "views": 408,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Reminders of Him (2026)/Reminders of Him.mp4",
@@ -2168,7 +2168,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 1827,
+      "views": 1842,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sambhavam Adhyayam Onnu (2026)/Sambhavam Adhyayam Onnu.mkv",
@@ -2197,7 +2197,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 352,
+      "views": 353,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Thaai Kizhavi (2026)/Thaai Kizhavi.mp4",
@@ -2255,7 +2255,7 @@
         "Thriller",
         "Crime"
       ],
-      "views": 1281,
+      "views": 1284,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Second Case of Seetharam (2026)/Second Case of Seetharam.mp4",
@@ -2284,7 +2284,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 2028,
+      "views": 2032,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Bluff (2026)/The Bluff.mp4",
@@ -2344,7 +2344,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 675,
+      "views": 677,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Funky (2026)/Funky.mp4",
@@ -2373,7 +2373,7 @@
         "Action",
         "Drama"
       ],
-      "views": 1364,
+      "views": 1370,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Vanaveera (2026)/Vanaveera.mp4",
@@ -2402,7 +2402,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 363,
+      "views": 365,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Pennum Porattum (2026)/Pennum Porattum.mp4",
@@ -2460,7 +2460,7 @@
         "Action",
         "Comedy"
       ],
-      "views": 206,
+      "views": 207,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Karikaada (2026)/Karikaada.mkv",
@@ -2489,7 +2489,7 @@
         "Romance",
         "Comedy"
       ],
-      "views": 1553,
+      "views": 1562,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/With Love (2026)/With Love.mp4",
@@ -2518,7 +2518,7 @@
         "Horror",
         "Thriller"
       ],
-      "views": 1197,
+      "views": 1199,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Honey (2026)/Honey (2026).mp4",
@@ -2546,7 +2546,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 667,
+      "views": 678,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Euphoria (2026)/Euphoria.mkv",
@@ -2576,7 +2576,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 676,
+      "views": 679,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Valathu Vashathe Kallan (2026)/Valathu Vashathe Kallan.mp4",
@@ -2604,7 +2604,7 @@
       "genre": [
         "Comedy"
       ],
-      "views": 3334,
+      "views": 3337,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Gandhi Talks (2026)/Gandhi Talks.mp4",
@@ -2635,7 +2635,7 @@
         "Crime",
         "Mystery"
       ],
-      "views": 1918,
+      "views": 1919,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Wrecking Crew (2026)/The Wrecking Crew.mp4",
@@ -2666,7 +2666,7 @@
         "Science Fiction",
         "Thriller"
       ],
-      "views": 30,
+      "views": 31,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Honey Bunch (2026)/Honey Bunch.mkv",
@@ -2694,7 +2694,7 @@
       "genre": [
         "Thriller"
       ],
-      "views": 1485,
+      "views": 1487,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Cheekati Lo (2026)/Cheekati Lo.mp4",
@@ -2752,7 +2752,7 @@
         "Romance",
         "Comedy"
       ],
-      "views": 869,
+      "views": 870,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Anaganaga Oka Raju (2026)/Anaganaga Oka Raju.mp4",
@@ -2782,7 +2782,7 @@
         "Romance",
         "Action"
       ],
-      "views": 968,
+      "views": 970,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Vaa Vaathiyaar (2026)/Vaa Vaathiyaar.mp4",
@@ -2812,7 +2812,7 @@
         "Thriller",
         "Science Fiction"
       ],
-      "views": 623,
+      "views": 625,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/28 Years Later The Bone Temple (2026)/28 Years Later The Bone Temple.mp4",
@@ -2874,7 +2874,7 @@
         "Drama",
         "Mystery"
       ],
-      "views": 1853,
+      "views": 1854,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Rip (2026)/The Rip.mp4",
@@ -2904,7 +2904,7 @@
         "Drama",
         "Comedy"
       ],
-      "views": 1599,
+      "views": 1614,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Bhartha Mahasayulaku Wignyapthi (2026)/Bhartha Mahasayulaku Wignyapthi.mp4",
@@ -2934,7 +2934,7 @@
         "Comedy",
         "Mystery"
       ],
-      "views": 3086,
+      "views": 3089,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mana ShankaraVaraprasad Garu (2026)/Mana ShankaraVaraprasad Garu.mp4",
@@ -2994,7 +2994,7 @@
         "Fantasy",
         "Crime"
       ],
-      "views": 77,
+      "views": 80,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Bhoothaddam Bhaskar Narayana (2024)/Bhoothaddam Bhaskar Narayana.mp4",
@@ -3082,7 +3082,7 @@
         "Drama",
         "Comedy"
       ],
-      "views": 183,
+      "views": 184,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Through My Window Looking at You (2024)/Through My Window Looking at You.2024.WebRip.1080p.640.KBPS.Hindi.English.DD.5.1.x264.ESubs-GOPIHD.mp4",
@@ -3112,7 +3112,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 155,
+      "views": 159,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Manjummel Boys (2024)/Manjummel Boys (2024) Malayalam 1080p PRE-HDRip x264 ESub -1TB.mp4",
@@ -3200,7 +3200,7 @@
         "Crime",
         "Comedy"
       ],
-      "views": 35,
+      "views": 36,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/BhamaKalapam 2 (2024)/BhamaKalapam 2.mp4",
@@ -3376,7 +3376,7 @@
         "Romance",
         "Comedy"
       ],
-      "views": 239,
+      "views": 244,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Premalu (2024)/Premalu.mp4",
@@ -3406,7 +3406,7 @@
         "War",
         "Thriller"
       ],
-      "views": 128,
+      "views": 129,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Land of Bad (2024)/Land of Bad.mkv",
@@ -3465,7 +3465,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 195,
+      "views": 199,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Eagle (2024)/Eagle.mp4",
@@ -3697,7 +3697,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 48,
+      "views": 49,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Case of Kondana (2024)/Case of Kondana.mp4",
@@ -3726,7 +3726,7 @@
         "Science Fiction",
         "Action"
       ],
-      "views": 74,
+      "views": 75,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Badland Hunters (2024)/Badland Hunters.mp4",
@@ -4231,7 +4231,7 @@
         "Fantasy",
         "Family"
       ],
-      "views": 74,
+      "views": 75,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Noah's Ark (2024)/Noah's Ark.mkv",
@@ -4404,7 +4404,7 @@
         "Music",
         "Horror"
       ],
-      "views": 50,
+      "views": 51,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Siren (2024)/Siren.mkv",
@@ -4547,7 +4547,7 @@
       "genre": [
         "Horror"
       ],
-      "views": 52,
+      "views": 53,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Blink (2024)/Blink.mp4",
@@ -4689,7 +4689,7 @@
       "backdrop": "",
       "rating": 5.0,
       "genre": [],
-      "views": 64,
+      "views": 65,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Guruvayoor Ambalanadayil (2024)/Guruvayoor Ambalanadayil (2024).mp4",
@@ -4797,7 +4797,7 @@
         "Drama",
         "History"
       ],
-      "views": 3430,
+      "views": 3434,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Michael (2023)/Michael (2023).mp4",
@@ -4996,7 +4996,7 @@
       "backdrop": "https://fmftp.net/content-images/movies/backdrops/5S2DETqcLV16sx1gpPKEBnNki5h.jpg",
       "rating": 0.0,
       "genre": [],
-      "views": 16,
+      "views": 18,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mr. Ghost (2023)/Mr. Ghost.mp4",
@@ -5024,7 +5024,7 @@
       "genre": [
         "Documentary"
       ],
-      "views": 68,
+      "views": 69,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kabzaa (2023)/Kabzaa.mp4",
@@ -5082,7 +5082,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 50,
+      "views": 52,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Paradise (2023)/Paradise.mp4",
@@ -5110,7 +5110,7 @@
       "genre": [
         "Documentary"
       ],
-      "views": 25,
+      "views": 26,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Christopher (2023)/Christopher.mp4",
@@ -5337,7 +5337,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 120,
+      "views": 131,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Bubblegum (2023)/Bubblegum.mkv",
@@ -5427,7 +5427,7 @@
         "Crime",
         "Drama"
       ],
-      "views": 1137,
+      "views": 1160,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Salaar (2023)/Salaar.mp4",
@@ -5456,7 +5456,7 @@
         "History",
         "Drama"
       ],
-      "views": 10,
+      "views": 11,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Iron Claw (2023)/The Iron Claw.mp4",
@@ -5575,7 +5575,7 @@
         "Action",
         "Adventure"
       ],
-      "views": 105,
+      "views": 107,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Rebel Moon Part One - A Child of Fire (2023)/Rebel Moon Part One - A Child of Fire.mp4",
@@ -5722,7 +5722,7 @@
         "Family",
         "Romance"
       ],
-      "views": 538,
+      "views": 540,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Hi Nanna (2023)/Hi Nanna.mp4",
@@ -5753,7 +5753,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 22,
+      "views": 23,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Joram (2023)/Joram.mp4",
@@ -5782,7 +5782,7 @@
         "Action",
         "Drama"
       ],
-      "views": 242,
+      "views": 243,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Extra Ordinary Man (2023)/Extra Ordinary Man.mkv",
@@ -5811,7 +5811,7 @@
         "Thriller",
         "Crime"
       ],
-      "views": 24,
+      "views": 25,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Atharva (2023)/Atharva.mp4",
@@ -6163,7 +6163,7 @@
         "Drama",
         "History"
       ],
-      "views": 41,
+      "views": 43,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Unstoppable (2025)/Unstoppable.mp4",
@@ -6221,7 +6221,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 1246,
+      "views": 1252,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Others (2025)/Others.mp4",
@@ -6279,7 +6279,7 @@
         "Documentary",
         "Music"
       ],
-      "views": 23,
+      "views": 24,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Moonwalk (2025)/Moonwalk.mp4",
@@ -6425,7 +6425,7 @@
         "Comedy",
         "Romance"
       ],
-      "views": 15,
+      "views": 19,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Royal (2025)/Royal.mkv",
@@ -6564,7 +6564,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 91,
+      "views": 93,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/5D (2024)/5D.mp4",
@@ -6592,7 +6592,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 368,
+      "views": 370,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Saali Mohabbat (2024)/Saali Mohabbat.mp4",
@@ -6649,7 +6649,7 @@
       "genre": [
         "Thriller"
       ],
-      "views": 43,
+      "views": 45,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Relay (2024)/Relay.mp4",
@@ -6678,7 +6678,7 @@
         "Thriller",
         "Mystery"
       ],
-      "views": 52,
+      "views": 53,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Game On (2024)/Game On.mp4",
@@ -6764,7 +6764,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 12,
+      "views": 13,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Pepe (2024)/Pepe.mp4",
@@ -6847,7 +6847,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 118,
+      "views": 120,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Bougainvillea (2024)/Bougainvillea.mp4",
@@ -6936,7 +6936,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 30,
+      "views": 31,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Winter Spring Summer or Fall (2024)/Winter Spring Summer or Fall.mp4",
@@ -6996,7 +6996,7 @@
         "Fantasy",
         "Thriller"
       ],
-      "views": 95,
+      "views": 97,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Barroz Guardian of Treasures (2024)/Barroz Guardian of Treasures.mp4",
@@ -7111,7 +7111,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 655,
+      "views": 662,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Marco (2024)/Marco.mp4",
@@ -7290,7 +7290,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 158,
+      "views": 159,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Prosecutor (2024)/The Prosecutor.mp4",
@@ -7350,7 +7350,7 @@
         "Thriller",
         "Crime"
       ],
-      "views": 1401,
+      "views": 1403,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Pushpa The Rule - Part 2 (2024)/Pushpa The Rule - Part 2.mp4",
@@ -7468,7 +7468,7 @@
       "genre": [
         "Action"
       ],
-      "views": 29,
+      "views": 30,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/SDI Secret Department of Interventio (2024)/SDI Secret Department of Interventio.mp4",
@@ -7556,7 +7556,7 @@
       "genre": [
         "Thriller"
       ],
-      "views": 35,
+      "views": 36,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Nirangal Moondru (2024)/Nirangal Moondru.mp4",
@@ -7703,7 +7703,7 @@
         "Action",
         "Crime"
       ],
-      "views": 209,
+      "views": 212,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Matka (2024)/Matka.mp4",
@@ -7733,7 +7733,7 @@
         "Adventure",
         "Drama"
       ],
-      "views": 191,
+      "views": 192,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Gladiator II (2024)/Gladiator II.mp4",
@@ -7910,7 +7910,7 @@
         "Thriller",
         "Crime"
       ],
-      "views": 518,
+      "views": 522,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Lucky Baskhar (2024)/Lucky Baskhar (2024) 1080p WEBRip x264 AAC ESub.mp4",
@@ -7940,7 +7940,7 @@
         "Science Fiction",
         "Thriller"
       ],
-      "views": 21,
+      "views": 22,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Time Cut (2024)/Time Cut.mp4",
@@ -7970,7 +7970,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 86,
+      "views": 87,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Gangster (2024)/Gangster.mp4",
@@ -8026,7 +8026,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 133,
+      "views": 134,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Parthenope (2024)/Parthenope.mp4",
@@ -8052,7 +8052,7 @@
       "backdrop": "https://fmftp.net/content-images/movies/backdrops/f8GufOROgZYDRncHWI3Uc8m6i7T.jpg",
       "rating": 0.0,
       "genre": [],
-      "views": 148,
+      "views": 150,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Pani (2024)/Pani.mp4",
@@ -8139,7 +8139,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 216,
+      "views": 225,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Martin (2024)/Martin.mp4",
@@ -8287,7 +8287,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 72,
+      "views": 73,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Swag (2024)/Swag.mp4",
@@ -8346,7 +8346,7 @@
         "Action",
         "Comedy"
       ],
-      "views": 93,
+      "views": 95,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Panda Plan (2024)/Panda Plan.mp4",
@@ -8404,7 +8404,7 @@
         "Family",
         "Drama"
       ],
-      "views": 325,
+      "views": 326,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Meiyazhagan (2024)/Meiyazhagan.mp4",
@@ -8433,7 +8433,7 @@
         "Action",
         "Drama"
       ],
-      "views": 351,
+      "views": 355,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Devara Part 1 (2024)/Devara Part 1.mp4",
@@ -8577,7 +8577,7 @@
         "Action",
         "Drama"
       ],
-      "views": 17,
+      "views": 18,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kondal (2024)/Kondal.mp4",
@@ -8607,7 +8607,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 72,
+      "views": 73,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mathu Vadalara 2 (2024)/Mathu Vadalara 2.mp4",
@@ -8695,7 +8695,7 @@
       "genre": [
         "Horror"
       ],
-      "views": 84,
+      "views": 85,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kalinga (2024)/Kalinga.mp4",
@@ -8787,7 +8787,7 @@
         "Drama",
         "Family"
       ],
-      "views": 409,
+      "views": 413,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Junior (2025)/Junior.mkv",
@@ -8877,7 +8877,7 @@
         "Comedy",
         "Romance"
       ],
-      "views": 142,
+      "views": 143,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Virgin Boys (2025)/Virgin Boys.mp4",
@@ -8934,7 +8934,7 @@
       "genre": [
         "Romance"
       ],
-      "views": 162,
+      "views": 163,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Oho Enthan Baby (2025)/Oho Enthan Baby.mp4",
@@ -8963,7 +8963,7 @@
         "Science Fiction",
         "Thriller"
       ],
-      "views": 99,
+      "views": 105,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Brick (2025)/Brick.mp4",
@@ -8993,7 +8993,7 @@
         "Adventure",
         "Action"
       ],
-      "views": 756,
+      "views": 758,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Superman (2025)/Superman.mp4",
@@ -9022,7 +9022,7 @@
         "Family",
         "Drama"
       ],
-      "views": 258,
+      "views": 259,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/3BHK (2025)/3BHK.mp4",
@@ -9169,7 +9169,7 @@
         "Adventure",
         "Action"
       ],
-      "views": 420,
+      "views": 422,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Jurassic World Rebirth (2025)/Jurassic World Rebirth.mp4",
@@ -9198,7 +9198,7 @@
         "Thriller",
         "Crime"
       ],
-      "views": 547,
+      "views": 551,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Maargan (2025)/Maargan.mp4",
@@ -9228,7 +9228,7 @@
         "History",
         "Drama"
       ],
-      "views": 315,
+      "views": 316,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kannappa (2025)/Kannappa.mp4",
@@ -9376,7 +9376,7 @@
         "Crime",
         "Drama"
       ],
-      "views": 240,
+      "views": 241,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Ronth (2025)/Ronth.mp4",
@@ -9406,7 +9406,7 @@
         "Drama",
         "Horror"
       ],
-      "views": 180,
+      "views": 181,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Bou Buttu Bhuta (2025)/Bou Buttu Bhuta.mp4",
@@ -9554,7 +9554,7 @@
         "Crime",
         "Drama"
       ],
-      "views": 279,
+      "views": 280,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Thug Life (2025)/Thug Life.mp4",
@@ -9672,7 +9672,7 @@
         "Comedy",
         "Action"
       ],
-      "views": 379,
+      "views": 381,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Ace (2025)/Ace.mp4",
@@ -9701,7 +9701,7 @@
         "Mystery",
         "Crime"
       ],
-      "views": 144,
+      "views": 146,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Detective Ujjwalan (2025)/Detective Ujjwalan.mp4",
@@ -9759,7 +9759,7 @@
         "Drama",
         "Action"
       ],
-      "views": 144,
+      "views": 145,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Narivetta (2025)/Narivetta.mp4",
@@ -9816,7 +9816,7 @@
         "Drama",
         "Family"
       ],
-      "views": 22,
+      "views": 23,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Anaganaga  (2025)/Anaganaga.mp4",
@@ -9906,7 +9906,7 @@
         "Comedy",
         "Fantasy"
       ],
-      "views": 167,
+      "views": 168,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Padakkalam (2025)/Padakkalam.mp4",
@@ -10024,7 +10024,7 @@
         "Drama",
         "Crime"
       ],
-      "views": 638,
+      "views": 641,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Retro (2025)/Retro.mp4",
@@ -10115,7 +10115,7 @@
         "Science Fiction",
         "Adventure"
       ],
-      "views": 308,
+      "views": 315,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Thunderbolts (2025)/Thunderbolts (2025).mp4",
@@ -10145,7 +10145,7 @@
         "Thriller",
         "Action"
       ],
-      "views": 1171,
+      "views": 1176,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/HIT The 3rd Case (2025)/HIT The 3rd Case.mp4",
@@ -10262,7 +10262,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 72,
+      "views": 73,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sarangapani Jathakam (2025)/Sarangapani Jathakam.mp4",
@@ -10435,7 +10435,7 @@
       "backdrop": "https://fmftp.net/content-images/movies/backdrops/4D7vkNkdDnAxYkmvpRaSO9diqhq.jpg",
       "rating": 5.6,
       "genre": [],
-      "views": 341,
+      "views": 352,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Odela 2 (2025)/Odela 2.mp4",
@@ -10495,7 +10495,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 114,
+      "views": 115,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Marana Mass (2025)/Marana Mass.mp4",
@@ -10525,7 +10525,7 @@
         "History",
         "Drama"
       ],
-      "views": 122,
+      "views": 123,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Akaal The Unconquered (2025)/Akaal The Unconquered.mp4",
@@ -10555,7 +10555,7 @@
         "Mystery",
         "Drama"
       ],
-      "views": 94,
+      "views": 96,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/G20 (2025)/G20.mp4",
@@ -10615,7 +10615,7 @@
         "Crime",
         "Drama"
       ],
-      "views": 186,
+      "views": 189,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Jaat (2025)/Jaat.mp4",
@@ -10645,7 +10645,7 @@
         "Crime",
         "Comedy"
       ],
-      "views": 515,
+      "views": 517,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Good Bad Ugly (2025)/Good Bad Ugly.mp4",
@@ -10704,7 +10704,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 79,
+      "views": 82,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Test (2025)/Test.mp4",
@@ -10762,7 +10762,7 @@
       "genre": [
         "Action"
       ],
-      "views": 303,
+      "views": 304,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Robinhood (2025)/Robinhood.mp4",
@@ -10821,7 +10821,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 382,
+      "views": 384,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/L2 Empuraan (2025)/L2 Empuraan.mp4",
@@ -10880,7 +10880,7 @@
         "Romance",
         "Comedy"
       ],
-      "views": 89,
+      "views": 90,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mad Square (2025)/Mad Square.mp4",
@@ -10911,7 +10911,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 446,
+      "views": 447,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Veera Dheera Sooran Part 2 (2025)/Veera Dheera Sooran Part 2.mp4",
@@ -11052,7 +11052,7 @@
         "Romance",
         "Crime"
       ],
-      "views": 331,
+      "views": 337,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Court - State Vs. A Nobody (2025)/Court - State Vs. A Nobody.mp4",
@@ -11082,7 +11082,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 42,
+      "views": 44,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sweetheart! (2025)/Sweetheart!.mp4",
@@ -11166,7 +11166,7 @@
       "backdrop": "https://fmftp.net/content-images/movies/backdrops/hZjYbRQhAYKGxdIGAlpaCyBdQNn.jpg",
       "rating": 0.0,
       "genre": [],
-      "views": 39,
+      "views": 41,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Baapu (2025)/Baapu.mp4",
@@ -11285,7 +11285,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 373,
+      "views": 377,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Dragon (2025)/Dragon.mp4",
@@ -11314,7 +11314,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 320,
+      "views": 341,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Officer on Duty (2025)/Officer on Duty.mp4",
@@ -11373,7 +11373,7 @@
         "Thriller",
         "Science Fiction"
       ],
-      "views": 143,
+      "views": 150,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Captain America-Brave New World (2025)/Captain America Brave New World (2025) 720p PRE-HD x264 [Dual Audio][Hindi (Clean)+English CAM] -HDHub.mkv",
@@ -11404,7 +11404,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 162,
+      "views": 163,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Thandel (2025)/Thandel.mp4",
@@ -11494,7 +11494,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 85,
+      "views": 86,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Ponman (2025)/Ponman.mp4",
@@ -11553,7 +11553,7 @@
         "Adventure",
         "Action"
       ],
-      "views": 948,
+      "views": 962,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Ne Zha II (2025)/Ne Zha II.mp4",
@@ -11639,7 +11639,7 @@
         "Thriller",
         "Mystery"
       ],
-      "views": 95,
+      "views": 98,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Rudra Garuda Purana (2025)/Rudra Garuda Purana.mp4",
@@ -11727,7 +11727,7 @@
         "Drama",
         "Adventure"
       ],
-      "views": 251,
+      "views": 255,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kishkindha Kaandam (2024)/Kishkindha Kaandam (2024).mp4",
@@ -11787,7 +11787,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 465,
+      "views": 466,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Greatest of All Time (2024)/The Greatest of All Time.mp4",
@@ -11845,7 +11845,7 @@
         "Drama",
         "Family"
       ],
-      "views": 127,
+      "views": 128,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Vaazhai (2024)/Vaazhai (2024) UNCUT 1080p DS4K WEBRip x264 ESub [Dual Audio][Hindi 5.1+Tamil 5.1] -mkvC.mkv",
@@ -11875,7 +11875,7 @@
         "Crime",
         "Action"
       ],
-      "views": 12,
+      "views": 13,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Nice Girls (2024)/Nice Girls.mp4",
@@ -11904,7 +11904,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 353,
+      "views": 354,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Vaazha Biopic of a Billion Boys (2024)/Vaazha Biopic of a Billion Boys.mp4",
@@ -12053,7 +12053,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 115,
+      "views": 117,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mr. Bachchan (2024)/Mr. Bachchan.mp4",
@@ -12227,7 +12227,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 145,
+      "views": 148,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Raayan (2024)/Raayan.2024.1080p.HEVC.AMZN.WEB-DL.DesireMovies.Boston (1).mkv",
@@ -12316,7 +12316,7 @@
         "Comedy",
         "Science Fiction"
       ],
-      "views": 198,
+      "views": 210,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Deadpool And Wolverine (2024)/Deadpool And Wolverine (2024) 720p BluRay x264 MSubs [Dual Audio][Hindi 5.1+English 5.1] -mkvC.mkv",
@@ -12376,7 +12376,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 100,
+      "views": 101,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Indian 2 (2024)/Indian 2.mp4",
@@ -12494,7 +12494,7 @@
         "Fantasy",
         "Science Fiction"
       ],
-      "views": 277,
+      "views": 280,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kalki 2898 AD (2024)/Kalki 2898 AD (2024) Hindi Dubbed 1080p PreDVDRip x264 AAC - CineVood.mkv",
@@ -12817,7 +12817,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 130,
+      "views": 134,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Golam (2024)/Golam.mp4",
@@ -12847,7 +12847,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 78,
+      "views": 81,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Satyabhama (2024)/Satyabhama.mp4",
@@ -12876,7 +12876,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 46,
+      "views": 47,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Rakshana (2024)/Rakshana.mp4",
@@ -13343,7 +13343,7 @@
         "Thriller",
         "Mystery"
       ],
-      "views": 59,
+      "views": 62,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/S.I.T (2024)/S.I.T (2024) Zee 5 720p WEBRip x264 AAC [ Hin, Tel ] ESub.mp4",
@@ -13463,7 +13463,7 @@
         "Drama",
         "Comedy"
       ],
-      "views": 146,
+      "views": 147,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Idea of You (2024)/The Idea of You.mp4",
@@ -13491,7 +13491,7 @@
       "genre": [
         "Horror"
       ],
-      "views": 44,
+      "views": 48,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Tarot (2024)/Tarot.mkv",
@@ -13550,7 +13550,7 @@
         "Comedy",
         "History"
       ],
-      "views": 27,
+      "views": 28,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Unfrosted (2024)/Unfrosted.mp4",
@@ -13581,7 +13581,7 @@
         "Adventure",
         "Animation"
       ],
-      "views": 99,
+      "views": 100,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Garfield Movie (2024)/The Garfield Movie.mp4",
@@ -13696,7 +13696,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 6100,
+      "views": 6106,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sugar Baby (2024)/Sugar Baby.mp4",
@@ -13758,7 +13758,7 @@
         "Action",
         "Adventure"
       ],
-      "views": 104,
+      "views": 110,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Rebel Moon - Part Two The Scargiver (2024)/Rebel Moon Part Two The Scargiver (2024) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5.1+English 5.1] -mkvC.mkv",
@@ -13815,7 +13815,7 @@
         "Comedy",
         "Action"
       ],
-      "views": 549,
+      "views": 552,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Aavesham (2024)/Aavesham.mp4",
@@ -14054,7 +14054,7 @@
         "Drama",
         "Action"
       ],
-      "views": 401,
+      "views": 404,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Family Star (2024)/The Family Star.mp4",
@@ -14082,7 +14082,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 51,
+      "views": 52,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kalvan (2024)/Kalvan.mp4",
@@ -14110,7 +14110,7 @@
       "genre": [
         "Action"
       ],
-      "views": 15,
+      "views": 21,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Wanted Man (2024)/Wanted Man.mkv",
@@ -14250,7 +14250,7 @@
         "Drama",
         "Adventure"
       ],
-      "views": 79,
+      "views": 82,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Goat Life (2024)/The Goat Life.mp4",
@@ -14308,7 +14308,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 100,
+      "views": 102,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Yuva (2024)/Yuva.mp4",
@@ -14509,7 +14509,7 @@
         "Comedy",
         "Music"
       ],
-      "views": 27,
+      "views": 28,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Música (2024)/Música.mp4",
@@ -14596,7 +14596,7 @@
         "Action",
         "Fantasy"
       ],
-      "views": 91,
+      "views": 92,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Bhimaa (2024)/Bhimaa.mp4",
@@ -14627,7 +14627,7 @@
         "Action",
         "Romance"
       ],
-      "views": 523,
+      "views": 524,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Parasakthi (2026)/Parasakthi.mkv",
@@ -14657,7 +14657,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 699,
+      "views": 701,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/People We Meet on Vacation (2026)/People We Meet on Vacation.mp4",
@@ -14714,7 +14714,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 42,
+      "views": 43,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Anali (2026)/Anali.mkv",
@@ -14743,7 +14743,7 @@
         "Family",
         "Drama"
       ],
-      "views": 97,
+      "views": 98,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Laalo Krishna Sada Sahaayate (2026)/Laalo Krishna Sada Sahaayate.mp4",
@@ -14803,7 +14803,7 @@
         "Crime",
         "Drama"
       ],
-      "views": 51,
+      "views": 52,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Jockey (2026)/Jockey.mp4",
@@ -14859,7 +14859,7 @@
         "Drama",
         "Science Fiction"
       ],
-      "views": 11242,
+      "views": 11297,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Jana Nayagan (2026)/Jana Nayagan.mp4",
@@ -14922,7 +14922,7 @@
         "Fantasy",
         "Animation"
       ],
-      "views": 56,
+      "views": 58,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mario (2025)/Mario.mkv",
@@ -14952,7 +14952,7 @@
         "Science Fiction",
         "Thriller"
       ],
-      "views": 1644,
+      "views": 1651,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/War Machine  (2025)/War Machine.mp4",
@@ -14982,7 +14982,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 170,
+      "views": 171,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kraken (2025)/Kraken.mkv",
@@ -15011,7 +15011,7 @@
         "Crime",
         "Drama"
       ],
-      "views": 161,
+      "views": 162,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Project Y (2025)/Project Y.mkv",
@@ -15040,7 +15040,7 @@
         "Comedy",
         "Horror"
       ],
-      "views": 1107,
+      "views": 1118,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sarvam Maya (2025)/Sarvam Maya.mp4",
@@ -15069,7 +15069,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 1199,
+      "views": 1204,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Retta Thala (2025)/Retta Thala.mp4",
@@ -15098,7 +15098,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 425,
+      "views": 428,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Dhandoraa (2025)/Dhandoraa.mp4",
@@ -15128,7 +15128,7 @@
         "Comedy",
         "Horror"
       ],
-      "views": 1465,
+      "views": 1471,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Anaconda (2025)/Anaconda.mp4",
@@ -15185,7 +15185,7 @@
       "genre": [
         "Action"
       ],
-      "views": 2552,
+      "views": 2557,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Akhanda 2 (2025)/Akhanda 2.mp4",
@@ -15214,7 +15214,7 @@
         "Adventure",
         "Action"
       ],
-      "views": 152,
+      "views": 154,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mahasenha (2025)/Mahasenha.mkv",
@@ -15302,7 +15302,7 @@
         "Fantasy",
         "Thriller"
       ],
-      "views": 2152,
+      "views": 2159,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Troll 2 (2025)/Troll 2.mp4",
@@ -15332,7 +15332,7 @@
         "Action",
         "Crime"
       ],
-      "views": 258,
+      "views": 259,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Revolver Rita (2025)/Revolver Rita.mp4",
@@ -15363,7 +15363,7 @@
         "Romance",
         "Family"
       ],
-      "views": 1852,
+      "views": 1853,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Andhra King Taluka (2025)/Andhra King Taluka.mp4",
@@ -15394,7 +15394,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 615,
+      "views": 618,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Bank of Bhagyalakshmi (2025)/Bank of Bhagyalakshmi.mp4",
@@ -15453,7 +15453,7 @@
         "Drama",
         "Mystery"
       ],
-      "views": 1529,
+      "views": 1534,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Eko (2025)/Eko.mp4",
@@ -15512,7 +15512,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 408,
+      "views": 411,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Theeyavar Kulaigal Nadunga (2025)/Theeyavar Kulaigal Nadunga.mp4",
@@ -15600,7 +15600,7 @@
         "Crime",
         "Drama"
       ],
-      "views": 2250,
+      "views": 2255,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kaantha (2025)/Kaantha.mp4",
@@ -15630,7 +15630,7 @@
         "Thriller",
         "Science Fiction"
       ],
-      "views": 353,
+      "views": 354,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Running Man (2025)/The Running Man.mp4",
@@ -15689,7 +15689,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 469,
+      "views": 470,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Aaromaley (2025)/Aaromaley.mp4",
@@ -15748,7 +15748,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 807,
+      "views": 808,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Aan Paavam Pollathathu (2025)/Aan Paavam Pollathathu.mkv",
@@ -15778,7 +15778,7 @@
         "Thriller",
         "Crime"
       ],
-      "views": 2803,
+      "views": 2807,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Aaryan (2025)/Aaryan.mkv",
@@ -15838,7 +15838,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 3081,
+      "views": 3085,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mass Jathara (2025)/Mass Jathara.mp4",
@@ -15896,7 +15896,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 85,
+      "views": 86,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Safe House (2025)/Safe House.mkv",
@@ -15925,7 +15925,7 @@
         "Action",
         "War"
       ],
-      "views": 1187,
+      "views": 1188,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sisu Road to Revenge (2025)/Sisu Road to Revenge.mp4",
@@ -15985,7 +15985,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 838,
+      "views": 845,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Telusu Kada (2025)/Telusu Kada.mp4",
@@ -16044,7 +16044,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 1226,
+      "views": 1227,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Diesel (2025)/Diesel.mp4",
@@ -16102,7 +16102,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 1299,
+      "views": 1303,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Our Fault (2025)/Our Fault (2025).mp4",
@@ -16190,7 +16190,7 @@
         "Adventure",
         "Action"
       ],
-      "views": 1015,
+      "views": 1017,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Tron Ares (2025)/Tron Ares (2025).mp4",
@@ -16220,7 +16220,7 @@
         "Drama",
         "Comedy"
       ],
-      "views": 881,
+      "views": 884,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Idly Kadai (2025)/Idly Kadai (2025) 1080p WEBDL.mp4",
@@ -16249,7 +16249,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 1836,
+      "views": 1848,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kantara A Legend Chapter 1 (2025)/Kantara A Legend Chapter 1.mp4",
@@ -16335,7 +16335,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 142,
+      "views": 145,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Balti (2025)/Balti.mkv",
@@ -16422,7 +16422,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 970,
+      "views": 972,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/They Call Him OG (2025)/They Call Him OG.mp4",
@@ -16452,7 +16452,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 666,
+      "views": 667,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Shakthi Thirumagan (2025)/Shakthi Thirumagan.mp4",
@@ -16511,7 +16511,7 @@
         "Action",
         "Adventure"
       ],
-      "views": 546,
+      "views": 553,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Great Flood (2025)/The Great Flood.mp4",
@@ -16542,7 +16542,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 1081,
+      "views": 1082,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kishkindhapuri (2025)/Kishkindhapuri.mp4",
@@ -16601,7 +16601,7 @@
         "Comedy",
         "Crime"
       ],
-      "views": 353,
+      "views": 355,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Ek Chatur Naar (2025)/Ek Chatur Naar.mp4",
@@ -16631,7 +16631,7 @@
         "Action",
         "Adventure"
       ],
-      "views": 821,
+      "views": 823,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mirai (2025)/Mirai.mp4",
@@ -16660,7 +16660,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 574,
+      "views": 575,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Bad Girl (2025)/Bad Girl.mp4",
@@ -16776,7 +16776,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 399,
+      "views": 402,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Daksha The Deadly Conspiracy (2025)/Daksha The Deadly Conspiracy.mp4",
@@ -16804,7 +16804,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 346,
+      "views": 347,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Arjun Chakravarthy (2025)/Arjun Chakravarthy.mp4",
@@ -16894,7 +16894,7 @@
         "Drama",
         "Family"
       ],
-      "views": 329,
+      "views": 330,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Hridayapoorvam (2025)/Hridayapoorvam.mp4",
@@ -16924,7 +16924,7 @@
         "Adventure",
         "Fantasy"
       ],
-      "views": 1426,
+      "views": 1427,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Lokah Chapter One Chandra (2025)/Lokah Chapter One Chandra.mp4",
@@ -16983,7 +16983,7 @@
         "Thriller",
         "Horror"
       ],
-      "views": 358,
+      "views": 360,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Vash Level 2 (2025)/Vash Level 2.mp4",
@@ -17012,7 +17012,7 @@
         "Romance",
         "Comedy"
       ],
-      "views": 160,
+      "views": 161,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sundarakanda (2025)/Sundarakanda.mp4",
@@ -17044,7 +17044,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 79,
+      "views": 80,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Thursday Murder Club (2025)/The Thursday Murder Club.mp4",
@@ -17072,7 +17072,7 @@
       "genre": [
         "Action"
       ],
-      "views": 62,
+      "views": 64,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Gladiator Underground (2025)/Gladiator Underground.mkv",
@@ -17101,7 +17101,7 @@
         "Romance",
         "Thriller"
       ],
-      "views": 869,
+      "views": 879,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Fall for Me (2025)/Fall for Me.mp4",
@@ -17131,7 +17131,7 @@
         "Thriller",
         "Crime"
       ],
-      "views": 1663,
+      "views": 1675,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Coolie (2025)/Coolie.mp4",
@@ -17190,7 +17190,7 @@
         "Comedy",
         "Horror"
       ],
-      "views": 354,
+      "views": 356,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Bakasura Restaurant (2025)/Bakasura Restaurant.mp4",
@@ -17337,7 +17337,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 641,
+      "views": 642,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kingdom (2025)/Kingdom.mp4",
@@ -17367,7 +17367,7 @@
         "Comedy",
         "Crime"
       ],
-      "views": 192,
+      "views": 193,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Naked Gun (2025)/The Naked Gun.mp4",
@@ -17428,7 +17428,7 @@
         "Fantasy",
         "Drama"
       ],
-      "views": 814,
+      "views": 817,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mahavatar Narsimha (2025)/Mahavatar Narsimha.mp4",
@@ -17458,7 +17458,7 @@
         "Drama",
         "Action"
       ],
-      "views": 315,
+      "views": 319,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Maareesan (2025)/Maareesan.mp4",
@@ -17488,7 +17488,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 349,
+      "views": 352,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Thalaivan Thalaivii (2025)/Thalaivan Thalaivii.mp4",
@@ -17518,7 +17518,7 @@
         "Adventure",
         "Drama"
       ],
-      "views": 612,
+      "views": 615,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Hari Hara Veera Mallu (2025)/Hari Hara Veera Mallu.mp4",
@@ -17960,7 +17960,7 @@
       "genre": [
         "Western"
       ],
-      "views": 15,
+      "views": 16,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Bounty Men (2022)/The Bounty Men (2022) 720p WEB-DL x264 Eng Subs [Dual Audio] [Hindi DD 2.0 - English 2.0].mp4",
@@ -17990,7 +17990,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 537,
+      "views": 538,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Vikram (2022)/Vikram (2022).mp4",
@@ -18197,7 +18197,7 @@
         "Action",
         "Adventure"
       ],
-      "views": 457,
+      "views": 466,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Doctor Strange in the Multiverse of Madness (2022)/Doctor Strange in the Multiverse of Madness.mp4",
@@ -18256,7 +18256,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 867,
+      "views": 880,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/365 Days This Day (2022)/365 Days This Day (2022).mp4",
@@ -18317,7 +18317,7 @@
         "Adventure",
         "Crime"
       ],
-      "views": 1625,
+      "views": 1631,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/K.G.F Chapter 2 (2022)/K.G.F Chapter 2 2022 1080p Hindi WEBRip AAC5.1 x264-DesiThor~1.mp4",
@@ -18439,7 +18439,7 @@
         "Family",
         "Comedy"
       ],
-      "views": 78,
+      "views": 80,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sonic the Hedgehog 2 (2022)/Sonic the Hedgehog 2 (2022) 720p BluRay x264 ESub [Dual Audio][Hindi 5.1+English 5.1] -mkvC.mkv",
@@ -18737,7 +18737,7 @@
         "Comedy",
         "Fantasy"
       ],
-      "views": 46,
+      "views": 47,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Turning Red (2022)/Turning Red (2022).mp4",
@@ -18886,7 +18886,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 324,
+      "views": 325,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Hey Sinamika (2022)/Hey Sinamika (2022).mp4",
@@ -18974,7 +18974,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 98,
+      "views": 99,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Batman (2022) Hindi Dubbed/The Batman (2022) 720p HMAX-WEB x264 MSubs Dual Audio.mp4",
@@ -19034,7 +19034,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 20,
+      "views": 22,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Valimai (2022)/Valimai (2022).mp4",
@@ -19124,7 +19124,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 27,
+      "views": 29,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Texas Chainsaw Massacre (2022)/Texas Chainsaw Massacre (2022).mp4",
@@ -19360,7 +19360,7 @@
         "Action",
         "Adventure"
       ],
-      "views": 154,
+      "views": 160,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Uncharted (2022)/Uncharted (2022) 720p BluRay Dual Audio Hindi-Eng x264 - ProLover.mp4",
@@ -19589,7 +19589,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 371,
+      "views": 373,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Hridayam (2022)/Hridayam (2022) [Hindi Dubbed].mkv",
@@ -20014,7 +20014,7 @@
       "genre": [
         "Documentary"
       ],
-      "views": 85,
+      "views": 86,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Salute (2022)/Salute (2022).mp4",
@@ -20215,7 +20215,7 @@
         "Action",
         "Crime"
       ],
-      "views": 28,
+      "views": 29,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Xtreme (2021) Hindi Dubbed/Xtreme (2021) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5.1+English 5.1] -mkvC.mp4",
@@ -20356,7 +20356,7 @@
         "Action",
         "Drama"
       ],
-      "views": 81,
+      "views": 84,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Malik (2021)/Malik 2021 Malayalam 1080p AMZN WEBRip DDP5.1 x264 Esubs ~ BLOX.mkv",
@@ -20676,7 +20676,7 @@
         "War",
         "Romance"
       ],
-      "views": 134,
+      "views": 135,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Napoleon (2023)/Napoleon.mp4",
@@ -20736,7 +20736,7 @@
         "Comedy",
         "Family"
       ],
-      "views": 197,
+      "views": 198,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Leo (2023)/Leo.mp4",
@@ -20765,7 +20765,7 @@
         "Thriller",
         "Mystery"
       ],
-      "views": 108,
+      "views": 110,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mangalavaaram (2023)/Mangalavaaram.mp4",
@@ -20851,7 +20851,7 @@
       "genre": [
         "Thriller"
       ],
-      "views": 29,
+      "views": 30,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Anveshi (2023)/Anveshi.mp4",
@@ -21030,7 +21030,7 @@
         "Romance",
         "Thriller"
       ],
-      "views": 523,
+      "views": 528,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Girls on Film (2023)/Girls on Film.mp4",
@@ -21090,7 +21090,7 @@
         "Horror",
         "Action"
       ],
-      "views": 129,
+      "views": 131,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Godzilla Minus One (2023)/Godzilla Minus One (2023) 720p 10bit BluRay Org [Hindi +English] AAC.5.1 Dual Audio x265 HEVC ~SHADOW [ProtonMovies].mkv",
@@ -21178,7 +21178,7 @@
         "Action",
         "War"
       ],
-      "views": 27,
+      "views": 28,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Boudica Queen of War (2023)/Boudica Queen of War.mp4",
@@ -21237,7 +21237,7 @@
         "Mystery",
         "Romance"
       ],
-      "views": 463,
+      "views": 465,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Burning Betrayal (2023)/Burning.Betrayal.2023.1080p.NF.WEB-DL.HINDI.ENGLISH.DD5.1.H.264-GOPIHD.mp4",
@@ -21267,7 +21267,7 @@
         "Drama",
         "Comedy"
       ],
-      "views": 10,
+      "views": 12,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Brave Citizen (2023)/Brave.Citizen.2023.1080p.AMZN.WEB-DL.MULTI.HINDI.TAMIL.KOREAN.DDP2.0.H.265-GOPIHD.mkv",
@@ -21619,7 +21619,7 @@
         "Drama",
         "History"
       ],
-      "views": 19,
+      "views": 21,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Promised Land (2023)/The Promised Land.mp4",
@@ -22151,7 +22151,7 @@
         "History",
         "Drama"
       ],
-      "views": 11,
+      "views": 12,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Harkara (2023)/Harkara.mp4",
@@ -22268,7 +22268,7 @@
         "Action",
         "Drama"
       ],
-      "views": 18,
+      "views": 19,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/RDX Robert Dony Xavier (2023)/RDX Robert Dony Xavier.mp4",
@@ -22298,7 +22298,7 @@
         "Drama",
         "Crime"
       ],
-      "views": 209,
+      "views": 210,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/King of Kotha (2023)/King of Kotha.mp4",
@@ -22389,7 +22389,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 30,
+      "views": 31,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Bholaa Shankar (2023)/Bhola Shankar (2023).mp4",
@@ -22418,7 +22418,7 @@
         "Action",
         "Drama"
       ],
-      "views": 22,
+      "views": 23,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Jagun Jagun (2023)/Jagun Jagun.mp4",
@@ -22450,7 +22450,7 @@
         "Comedy",
         "Adventure"
       ],
-      "views": 283,
+      "views": 296,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Jailer (2023)/Jailer.mp4",
@@ -22481,7 +22481,7 @@
         "Adventure",
         "Action"
       ],
-      "views": 21,
+      "views": 22,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Concrete Utopia (2023)/Concrete Utopia.mkv",
@@ -22628,7 +22628,7 @@
         "Comedy",
         "Horror"
       ],
-      "views": 17,
+      "views": 18,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/DD Returns (2023)/DD Returns (2023).mp4",
@@ -22748,7 +22748,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 59,
+      "views": 61,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Valatty (2023)/Valatty.mp4",
@@ -22778,7 +22778,7 @@
         "Crime",
         "Action"
       ],
-      "views": 74,
+      "views": 76,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Hidimbha (2023)/Hidimbha (2023) 720p WEBRip x264 AAC [ Hin,Tel,Tam ] ESub~3.mp4",
@@ -23378,7 +23378,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 885,
+      "views": 901,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/My Fault (2023)/My Fault (2023).mkv",
@@ -23555,7 +23555,7 @@
         "Fantasy",
         "Adventure"
       ],
-      "views": 30,
+      "views": 31,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Underground Monster (2022)/Underground Monster (2022) 1080p WEB-DL x264 HC Subs [Dual Audio] [Hindi DD 2.0 - Chinese 2.0].mp4",
@@ -23643,7 +23643,7 @@
         "Drama",
         "Fantasy"
       ],
-      "views": 54,
+      "views": 55,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Nanpakal Nerathu Mayakkam (2022)/Nanpakal Nerathu Mayakkam.mp4",
@@ -23760,7 +23760,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 23,
+      "views": 29,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sembi (2022)/Sembi (2022) 720p WEBRip x264 AAC Dual Audio [ Hin,Tam ] ESub.mp4",
@@ -23905,7 +23905,7 @@
         "Romance",
         "Comedy"
       ],
-      "views": 56,
+      "views": 58,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Varalaru Mukkiyam (2022)/Varalaru Mukkiyam 2022.mp4",
@@ -24049,7 +24049,7 @@
         "Thriller",
         "Action"
       ],
-      "views": 243,
+      "views": 244,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/HIT The 2nd Case (2022)/HIT The 2nd Case.mp4",
@@ -24224,7 +24224,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 18,
+      "views": 19,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Joyland 2022)/Joyland.2023.Urdu.720p.AMZN.WEB-DL.DD+2.0.H.265-BLissViLLe.mkv",
@@ -24253,7 +24253,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 15,
+      "views": 16,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Adrishyam (2022)/Adrishyam.mp4",
@@ -24284,7 +24284,7 @@
         "Science Fiction",
         "Fantasy"
       ],
-      "views": 53,
+      "views": 54,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sri Asih (2022)/Sri Asih.mp4",
@@ -24404,7 +24404,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 104,
+      "views": 105,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Yashoda (2022)/Yashoda (2022).mp4",
@@ -24732,7 +24732,7 @@
         "Fantasy",
         "Action"
       ],
-      "views": 13,
+      "views": 14,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Legend of Maula Jatt (2022)/The Legend of Maula Jatt.mkv",
@@ -24790,7 +24790,7 @@
         "Horror",
         "Mystery"
       ],
-      "views": 12,
+      "views": 13,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Inhabitant (2022)/The Inhabitant.mp4",
@@ -24820,7 +24820,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 100,
+      "views": 114,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Ghost (2022)/The Ghost (2022).mp4",
@@ -24909,7 +24909,7 @@
         "Adventure",
         "Thriller"
       ],
-      "views": 415,
+      "views": 417,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kantara (2022)/Kantara.mp4",
@@ -25322,7 +25322,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 157,
+      "views": 159,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Ranga Ranga Vaibhavanga (2022)/Ranga Ranga Vaibhavanga.mkv",
@@ -25351,7 +25351,7 @@
         "Romance",
         "Comedy"
       ],
-      "views": 13,
+      "views": 14,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Love in the Villa (2022)/Love in the Villa (2022).mp4",
@@ -25557,7 +25557,7 @@
         "Action",
         "Romance"
       ],
-      "views": 197,
+      "views": 198,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Liger (2022)/Liger (2022).mp4",
@@ -25675,7 +25675,7 @@
         "Thriller",
         "Horror"
       ],
-      "views": 23,
+      "views": 24,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Girl at the Window (2022)/Girl At The Window (2022)  720p WEBRip x264 AAC Dual Aud [ Hin,Eng ] ESub.mp4",
@@ -25704,7 +25704,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 142,
+      "views": 145,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Next 365 Days (2022)/The.Next.365.Days.2022..mp4",
@@ -25735,7 +25735,7 @@
         "Thriller",
         "Action"
       ],
-      "views": 61,
+      "views": 62,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Karthikeya 2 (2022)/Karthikeya.2.mp4",
@@ -26484,7 +26484,7 @@
         "Adventure",
         "Science Fiction"
       ],
-      "views": 254,
+      "views": 255,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Spider-Man Across the Spider-Verse (2023)/Spider-Man Across the Spider-Verse (2023) 720p WEBRip x264 AAC [ Hin,Eng ] ESub.mp4",
@@ -26542,7 +26542,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 38,
+      "views": 39,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kandahar (2023)/Kandahar.mp4",
@@ -26628,7 +26628,7 @@
         "Drama",
         "Science Fiction"
       ],
-      "views": 65,
+      "views": 66,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Pichaikkaran 2 (2023)/Pichaikkaran 2.mp4",
@@ -26745,7 +26745,7 @@
         "Action",
         "Drama"
       ],
-      "views": 56,
+      "views": 59,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Chatrapathi (2023)/Chatrapathi.mp4",
@@ -26803,7 +26803,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 38,
+      "views": 40,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Good Night (2023)/Good Night.mp4",
@@ -26892,7 +26892,7 @@
         "Action",
         "Adventure"
       ],
-      "views": 99,
+      "views": 100,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/2018 (2023)/2018.mp4",
@@ -27006,7 +27006,7 @@
       "genre": [
         "Action"
       ],
-      "views": 89,
+      "views": 90,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/AKA (2023)/Aka (2023).mp4",
@@ -27098,7 +27098,7 @@
         "Fantasy",
         "Horror"
       ],
-      "views": 50,
+      "views": 51,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Abyss Rescue (2023)/The Abyss Rescue.mp4",
@@ -27187,7 +27187,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 278,
+      "views": 279,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Virupaksha (2023)/Virupaksha (2023).mp4",
@@ -27246,7 +27246,7 @@
         "Comedy",
         "Romance"
       ],
-      "views": 382,
+      "views": 384,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Target (2023)/Target.mkv",
@@ -27334,7 +27334,7 @@
         "Adventure",
         "War"
       ],
-      "views": 101,
+      "views": 102,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Last Kingdom Seven Kings Must Die (2023)/The Last Kingdom Seven Kings Must Die (2023).mp4",
@@ -27394,7 +27394,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 13,
+      "views": 15,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Corona Papers (2023)/Corona Papers (2023).mp4",
@@ -27481,7 +27481,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 89,
+      "views": 90,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Dasara (2023)/Dasara (2023).mp4",
@@ -27803,7 +27803,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 43,
+      "views": 44,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Scream VI (2023)/Scream VI (2023).mp4",
@@ -27832,7 +27832,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 94,
+      "views": 97,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Bagheera (2023)/Bagheera.mp4",
@@ -27891,7 +27891,7 @@
         "Thriller",
         "Romance"
       ],
-      "views": 328,
+      "views": 329,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Darker Shades of Summer (2023)/Darker Shades of Summer.mp4",
@@ -28621,7 +28621,7 @@
         "Action",
         "Adventure"
       ],
-      "views": 383,
+      "views": 385,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Varisu (2023)/Varisu.mp4",
@@ -28682,7 +28682,7 @@
         "Drama",
         "Action"
       ],
-      "views": 24,
+      "views": 25,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Gangnam Zombie (2023)/Gangnam Zombie (2023).mp4",
@@ -28770,7 +28770,7 @@
         "Drama",
         "Comedy"
       ],
-      "views": 28,
+      "views": 29,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Japan (2023)/Japan.mp4",
@@ -28886,7 +28886,7 @@
       "genre": [
         "Science Fiction"
       ],
-      "views": 20,
+      "views": 21,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mercy Land (2023)/Mercy Land.mp4",
@@ -28999,7 +28999,7 @@
       "genre": [
         "Documentary"
       ],
-      "views": 17,
+      "views": 20,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Spy (2023)/Spy.mp4",
@@ -29110,7 +29110,7 @@
       "backdrop": "",
       "rating": 0.0,
       "genre": [],
-      "views": 26,
+      "views": 27,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/King Xian's Worm Valley of Ghost Blowing Lamp (2023)/The Worm Valley (2023).mp4",
@@ -29139,7 +29139,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 98,
+      "views": 100,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Rorschach (2022)/Rorschach (2022) 720p WEBRip x264 AAC Dual Aud [ Hin,Malayalam ] ESub.mp4",
@@ -29254,7 +29254,7 @@
       "genre": [
         "Documentary"
       ],
-      "views": 106,
+      "views": 107,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Cadaver (2022)/Cadaver.(2022).mp4",
@@ -29432,7 +29432,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 502,
+      "views": 505,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Pushpa The Rise - Part 1 (2021)/Pushpa the Rise 2021 Hindi 720p AMZN WEBRip AAC 5.1 ESubs x264 - LOKiHD.mp4",
@@ -29491,7 +29491,7 @@
         "War",
         "Action"
       ],
-      "views": 40,
+      "views": 42,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Marakkar Lion of the Arabian Sea (2021)/Marakkar - Lion of The Arabian Sea (2021) Hin 720P WEBRip x264 AAC ESub.mp4",
@@ -29698,7 +29698,7 @@
         "Thriller",
         "Crime"
       ],
-      "views": 175,
+      "views": 182,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kurup (2021)/Kurup (2021) Hindi 720p WEBDL x264 AAC ESub.mp4",
@@ -29902,7 +29902,7 @@
         "Action",
         "Family"
       ],
-      "views": 80,
+      "views": 90,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Tuck Jagadish (2021)/Tuck Jagadish.mp4",
@@ -29992,7 +29992,7 @@
         "Adventure",
         "Fantasy"
       ],
-      "views": 240,
+      "views": 245,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Shang-Chi and the Legend of the Ten Rings (2021)/Shang Chi (2021) 720p BluRay x264 ESub [Dual Audio][Hindi 5.1+English 5.1] -mkvC.mkv",
@@ -30255,7 +30255,7 @@
         "Comedy",
         "Adventure"
       ],
-      "views": 100,
+      "views": 101,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Suicide Squad (2021) Hindi Dubbed/The Suicide Squad (2021) 720p HMAX-WEB x264 ESub [Dual Audio][Hindi CAM+English 5.1] -mkvC.mp4",
@@ -30284,7 +30284,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 22,
+      "views": 23,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Last Letter from Your Lover (2021) Hindi Dubbed/The Last Letter from Your Lover (2021) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5.1+English 5.1] -mkvC.mp4",
@@ -30700,7 +30700,7 @@
         "Adventure",
         "Science Fiction"
       ],
-      "views": 11,
+      "views": 13,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Thunder Force (2021) Hindi Dubbed/Thunder Force (2021) 720p NF-WEB x264 MSubs [Dual Audio][Hindi 5.1+English 5.1] -mkvC.mp4",
@@ -30789,7 +30789,7 @@
         "Thriller",
         "Romance"
       ],
-      "views": 318,
+      "views": 319,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sulthan (2021)/Sulthan.2021.10Bit.1080p.HD.UNCUT.DesireMovies.MY (1).mkv",
@@ -31053,7 +31053,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 60,
+      "views": 61,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Uppena (2021)/Uppena.mp4",
@@ -31141,7 +31141,7 @@
         "Horror",
         "Thriller"
       ],
-      "views": 91,
+      "views": 92,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Wrong Turn (2021)/Wrong Turn (2021) Bluray 720p Dual Audio [Hindi 2.0 English 5.1] x264 ESub 1.1GB [HDWebMovies].mp4",
@@ -31427,7 +31427,7 @@
         "Thriller",
         "Horror"
       ],
-      "views": 16,
+      "views": 17,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Nishabdham (2020)/Nishabdham.mp4",
@@ -31514,7 +31514,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 28,
+      "views": 30,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sufiyum Sujatayum (2020)/Sufiyum Sujatayum (2020) UNCUT 720p AMZN WEBRip x264 MSubs [Dual Audio][Hindi 2.0+Malayalam 5.1] -mkvC.mkv",
@@ -31752,7 +31752,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 347,
+      "views": 355,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Ala Vaikunthapurramuloo (2020)/Ala Vaikunthapurramuloo (2020).mp4",
@@ -31780,7 +31780,7 @@
       "genre": [
         "Action"
       ],
-      "views": 187,
+      "views": 188,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sarileru Neekevvaru (2020)/Sarileru Neekevvaru (2020) [HQ Hindi Dubbed] 720p WEBRip - Shieldli - LHM123.mp4",
@@ -32153,7 +32153,7 @@
         "Action",
         "Drama"
       ],
-      "views": 58,
+      "views": 61,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Asuran (2019)/Asuran (2019) 720p WEBRip x264 AAC Multi [Hin,Tam,Mal] Esub.mkv",
@@ -32300,7 +32300,7 @@
         "Fantasy",
         "Adventure"
       ],
-      "views": 361,
+      "views": 362,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Ne Zha (2019)/Ne Zha 2019.mp4",
@@ -32387,7 +32387,7 @@
         "Romance",
         "Family"
       ],
-      "views": 473,
+      "views": 484,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Aladdin (2019)/Aladdin (2019) 720p BluRay x264 ESub [Dual Audio][Hindi 2.0+English 5.1] -mkvC.mkv",
@@ -32416,7 +32416,7 @@
         "Drama",
         "Action"
       ],
-      "views": 141,
+      "views": 149,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Maharshi (2019)/Maharshi.mp4",
@@ -32475,7 +32475,7 @@
         "Science Fiction",
         "Action"
       ],
-      "views": 860,
+      "views": 889,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Avengers Endgame (2019)/Avengers Endgame (2019).mp4",
@@ -32622,7 +32622,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 102,
+      "views": 103,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kumbalangi Nights (2019)/Kumbalangi Nights (2019) Malayalam Proper 1080p WEBRip x265 HEVC 10bit ESub -2MRulz.mkv",
@@ -32680,7 +32680,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 40,
+      "views": 42,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kavacha (2019)/Kavacha.mp4",
@@ -32766,7 +32766,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 28,
+      "views": 29,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kaafir (2019)/Kaafir (2025) Hin 720p WEBRip x264 AAC ESub.mkv",
@@ -32944,7 +32944,7 @@
         "Adventure",
         "Crime"
       ],
-      "views": 147,
+      "views": 153,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/K.G.F. Chapter 1 (2018)/K.G.F. Chapter 1 (2018) [Hindi Dubbed] [1080p] WEBRip.mp4",
@@ -33173,7 +33173,7 @@
       "genre": [
         "Romance"
       ],
-      "views": 185,
+      "views": 190,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Geetha Govindam (2018)/Geetha Govindam (2018).mkv",
@@ -33408,7 +33408,7 @@
         "Action",
         "Science Fiction"
       ],
-      "views": 740,
+      "views": 757,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Avengers Infinity War (2018)/Avengers Infinity War (2018).mp4",
@@ -33467,7 +33467,7 @@
         "Action",
         "Drama"
       ],
-      "views": 12,
+      "views": 13,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Night of 7 Years (2018)/Night of 7 Years.mp4",
@@ -33586,7 +33586,7 @@
         "Comedy",
         "Family"
       ],
-      "views": 34,
+      "views": 35,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Pil's Adventures (2017)/Pil's Adventures.mp4",
@@ -33647,7 +33647,7 @@
         "History",
         "Adventure"
       ],
-      "views": 41,
+      "views": 42,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Last Warrior (2017)/The Last Warrior.mkv",
@@ -33739,7 +33739,7 @@
         "Action",
         "Crime"
       ],
-      "views": 193,
+      "views": 194,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Mersal (2017)/Mersal (2017) UNCUT 720p 10bit NF WEBRip x265 HEVC [Org TV-DL Hindi AAC 2.0 ~192Kbps + Tamil AAC 2.0] ESub ~ Immortal.mkv",
@@ -33828,7 +33828,7 @@
         "Science Fiction",
         "Action"
       ],
-      "views": 59,
+      "views": 66,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Valerian and the City of a Thousand Planets (2017)/Valerian and the City of a Thousand Planets.mp4",
@@ -33857,7 +33857,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 124,
+      "views": 125,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Darker Shades of Elise (2017)/Darker Shades of Elise.mp4",
@@ -33975,7 +33975,7 @@
         "Crime",
         "Action"
       ],
-      "views": 103,
+      "views": 104,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Singam 3 (2017)/Singam 3 (2017) Hindi Dubbed 1080p WEBRip x264 AAC 2.0 ESub - mkvCinemas.mkv",
@@ -34035,7 +34035,7 @@
         "Action",
         "Science Fiction"
       ],
-      "views": 16,
+      "views": 17,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Fortress (2017)/The Fortress.mkv",
@@ -34176,7 +34176,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 90,
+      "views": 91,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Your Name (2016)/Your Name (2016).mp4",
@@ -34525,7 +34525,7 @@
         "Adventure",
         "Science Fiction"
       ],
-      "views": 250,
+      "views": 252,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Avengers Age of Ultron (2015)/Avengers Age of Ultron (2015).mp4",
@@ -34699,7 +34699,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 20,
+      "views": 23,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Karthikeya (2014)/Karthikeya (2014) x264 720p HDRiP {Dual Audio} [Hindi 2.0 + Telugu 2.0] Exclusive By DREDD.mp4",
@@ -34760,7 +34760,7 @@
         "Thriller",
         "Science Fiction"
       ],
-      "views": 37,
+      "views": 38,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Automata (2014)/Automata.mkv",
@@ -34964,7 +34964,7 @@
         "Adventure",
         "Fantasy"
       ],
-      "views": 116,
+      "views": 123,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Thor The Dark World (2013)/Thor The Dark World.mp4",
@@ -35348,7 +35348,7 @@
         "Horror",
         "Mystery"
       ],
-      "views": 22,
+      "views": 23,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Grabbers (2012)/Grabbers.mp4",
@@ -35978,7 +35978,7 @@
         "Action",
         "Mystery"
       ],
-      "views": 26,
+      "views": 27,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Extraordinary Adventures of Adèle Blanc-Sec (2010)/The Extraordinary Adventures of Adèle Blanc-Sec (2010) 720p BluRay x264 Eng Subs [Dual Audio] [Hindi DD 2.0 - French 2.0] -=!Dr.STAR!=-.mkv",
@@ -36283,7 +36283,7 @@
         "Science Fiction",
         "Thriller"
       ],
-      "views": 146,
+      "views": 147,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Knowing (2009)/Knowing (2009) 720p BluRay x264 ESub [Dual Audio][Hindi 2.0+English 5.1] -mkvC.mkv",
@@ -36431,7 +36431,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 8,
+      "views": 9,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Legendary Assassin (2008)/Legendary Assassin.mp4",
@@ -36758,7 +36758,7 @@
         "Comedy",
         "Crime"
       ],
-      "views": 76,
+      "views": 78,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Rush Hour 3 (2007)/Rush Hour 3 (2007).mp4",
@@ -36819,7 +36819,7 @@
         "Adventure",
         "Science Fiction"
       ],
-      "views": 127,
+      "views": 135,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Spider-Man 3 (2007)/Spider-Man 3 (2007) 720p BluRay x264 ESub [Dual Audio][Hindi 5.1+English 5.1] - mkvC.mkv",
@@ -37025,7 +37025,7 @@
       "genre": [
         "Horror"
       ],
-      "views": 41,
+      "views": 42,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Axegrinder (2006)/Axegrinder.mp4",
@@ -37293,7 +37293,7 @@
         "Adventure",
         "Horror"
       ],
-      "views": 47,
+      "views": 48,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Frankenfish (2004)/Frankenfish.mp4",
@@ -37324,7 +37324,7 @@
         "Romance",
         "Thriller"
       ],
-      "views": 47,
+      "views": 48,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Wicker Park (2004)/Wicker Park.mp4",
@@ -37506,7 +37506,7 @@
         "Crime",
         "Fantasy"
       ],
-      "views": 166,
+      "views": 167,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kung Fu Hustle (2004)/Kung Fu Hustle.mkv",
@@ -37625,7 +37625,7 @@
         "Romance",
         "TV Movie"
       ],
-      "views": 2331,
+      "views": 2336,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Sex & the Single Mom (2003)/Sex & the Single Mom.mkv",
@@ -38044,7 +38044,7 @@
         "Comedy",
         "Crime"
       ],
-      "views": 106,
+      "views": 107,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Rush Hour 2 (2001)/Rush Hour 2.mkv",
@@ -38162,7 +38162,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 14,
+      "views": 15,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Vertical Limit (2000)/Vertical Limit.mp4",
@@ -38279,7 +38279,7 @@
         "Drama",
         "Crime"
       ],
-      "views": 67,
+      "views": 70,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Green Mile (1999)/The Green Mile.mkv",
@@ -38339,7 +38339,7 @@
         "Comedy",
         "Crime"
       ],
-      "views": 123,
+      "views": 124,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Rush Hour (1998)/Rush Hour.mp4",
@@ -38457,7 +38457,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 148,
+      "views": 149,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Se7en (1995)/Se7en.mp4",
@@ -38606,7 +38606,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 23,
+      "views": 24,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Blade Runner (1982)/Blade Runner (1982) 720p BluRay x264 ESub [Dual Audio][Hindi 2.0+English 5.1] -mkvC.mkv",
@@ -38635,7 +38635,7 @@
         "War",
         "Thriller"
       ],
-      "views": 44,
+      "views": 45,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/A House of Dynamite/A House of Dynamite.mp4",
@@ -38722,7 +38722,7 @@
         "Action",
         "Adventure"
       ],
-      "views": 15727,
+      "views": 16360,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Spider-Man Brand New Day (2026)/Spider-Man Brand New Day.mp4",
@@ -38751,7 +38751,7 @@
         "Horror",
         "Thriller"
       ],
-      "views": 1171,
+      "views": 1218,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Devil's Mouth (2026)/The Devil's Mouth.mkv",
@@ -38781,7 +38781,7 @@
         "Drama",
         "Mystery"
       ],
-      "views": 203,
+      "views": 209,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Truthers (2026)/The Truthers.mkv",
@@ -38810,7 +38810,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 5077,
+      "views": 5267,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Gatta Kusthi 2 (2026)/Gatta Kusthi 2.mkv",
@@ -38840,7 +38840,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 79,
+      "views": 92,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Rao Bahadur (2026)/Rao Bahadur.mp4",
@@ -38870,7 +38870,7 @@
         "Fantasy",
         "Action"
       ],
-      "views": 2591,
+      "views": 2721,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Nagabandham - The Secret Treasure (2026)/Nagabandham - The Secret Treasure.mkv",
@@ -38900,7 +38900,7 @@
         "Adventure",
         "Science Fiction"
       ],
-      "views": 667,
+      "views": 693,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Supergirl (2026)/Supergirl.mkv",
@@ -38928,7 +38928,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 121,
+      "views": 135,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Chinna Chinna Aasai (2026)/Chinna Chinna Aasai.mkv",
@@ -38958,7 +38958,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 1420,
+      "views": 1451,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Maa Inti Bangaram (2026)/Maa Inti Bangaram.mkv",
@@ -38987,7 +38987,7 @@
         "Action",
         "Drama"
       ],
-      "views": 71,
+      "views": 72,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Rise of Ashoka (2026)/The Rise of Ashoka.mkv",
@@ -39132,7 +39132,7 @@
         "Comedy",
         "Thriller"
       ],
-      "views": 220,
+      "views": 249,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/M.R.P - Neekentha Naakentha (2026)/M.R.P - Neekentha Naakentha.mkv",
@@ -39162,7 +39162,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 587,
+      "views": 660,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Idhayam Murali  (2026)/Idhayam Murali.mkv",
@@ -39192,7 +39192,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 294,
+      "views": 303,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Rao Bahadur (2026)/Rao Bahadur.mkv",
@@ -39221,7 +39221,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 513,
+      "views": 590,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Uyir (2026)/Uyir.mp4",
@@ -39250,7 +39250,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 136,
+      "views": 148,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Balan The Boy (2026)/Balan The Boy.mkv",
@@ -39279,7 +39279,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 27,
+      "views": 32,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Loved One (2026)/The Loved One.mp4",
@@ -39307,7 +39307,7 @@
       "genre": [
         "Action"
       ],
-      "views": 72,
+      "views": 78,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/45 (2025)/45.mkv",
@@ -39338,7 +39338,7 @@
         "Comedy",
         "Romance"
       ],
-      "views": 47,
+      "views": 50,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Devil (2025)/The Devil.mkv",
@@ -39370,7 +39370,7 @@
         "Mystery",
         "Family"
       ],
-      "views": 16,
+      "views": 21,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Zootopia 2 (2025)/Zootopia 2.mp4",
@@ -39398,7 +39398,7 @@
       "genre": [
         "Thriller"
       ],
-      "views": 296,
+      "views": 450,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Johnny Jumper (2026)/Johnny Jumper.mp4",
@@ -39428,7 +39428,7 @@
         "Action",
         "Drama"
       ],
-      "views": 1740,
+      "views": 2385,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/DC (2026)/DC The Bloody Valentine.mp4",
@@ -39458,7 +39458,7 @@
         "Science Fiction",
         "Thriller"
       ],
-      "views": 133,
+      "views": 195,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/The Last House (2026)/The Last House.mp4",
@@ -39487,7 +39487,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 104,
+      "views": 145,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Achyuta Avataaram (2026)/Achyuta Avataaram.mp4",
@@ -39516,7 +39516,7 @@
         "Horror",
         "Thriller"
       ],
-      "views": 165,
+      "views": 240,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Aroopi (2026)/Aroopi.mp4",
@@ -39548,7 +39548,7 @@
         "Family",
         "Fantasy"
       ],
-      "views": 69,
+      "views": 99,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Minions & Monsters (2026)/Minions & Monsters.mp4",
@@ -39577,7 +39577,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 306,
+      "views": 460,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Kattalan (2026)/Kattalan.mp4",
@@ -39605,7 +39605,7 @@
       "genre": [
         "Thriller"
       ],
-      "views": 13,
+      "views": 16,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Wrangler (2026)/Wrangler (2026).mp4",
@@ -39635,7 +39635,7 @@
         "Romance",
         "Family"
       ],
-      "views": 14,
+      "views": 29,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Godari Gattupaina (2026)/Godari Gattupaina.mp4",
@@ -39664,7 +39664,7 @@
         "Comedy",
         "Thriller"
       ],
-      "views": 17,
+      "views": 22,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Oru Durooha Saahacharyathil (2026)/Oru Durooha Saahacharyathil.mp4",
@@ -39693,7 +39693,7 @@
         "Comedy",
         "Horror"
       ],
-      "views": 1,
+      "views": 4,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Vampires of the Velvet Lounge (2026)/Vampires of the Velvet Lounge.mp4",
@@ -39722,7 +39722,7 @@
         "Crime",
         "Mystery"
       ],
-      "views": 8,
+      "views": 10,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Unidentified (2025)/Unidentified.mp4",
@@ -39751,7 +39751,7 @@
         "Action",
         "Drama"
       ],
-      "views": 1,
+      "views": 2,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Pongala (2025)/Pongala.mp4",
@@ -39781,7 +39781,7 @@
         "Science Fiction",
         "Horror"
       ],
-      "views": 4,
+      "views": 8,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/hindidub/Island Python (2025)/Island Python.mp4",
@@ -39799,7 +39799,67 @@
       "runtime": 0,
       "watch_page": "https://fmftp.net/watch?type=MOVIE&id=21126",
       "stream_url": "https://fmftp.net/data/disk-1/movies/hindidub/Island Python (2025)/Island Python.mp4"
+    },
+    "Lenin": {
+      "id": "21138",
+      "year": "2026",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+      "backdrop": "https://fmftp.net/content-images/movies/backdrops/5P6jYac8MjxyIh0m9JO4K7MUeUc.jpg",
+      "rating": 6.4,
+      "genre": [
+        "Action",
+        "Drama",
+        "Romance"
+      ],
+      "views": 474,
+      "links": [
+        {
+          "url": "https://fmftp.net/data/disk-1/movies/hindidub/Lenin (2026)/Lenin.mkv",
+          "language": "Hindi dubbed",
+          "quality": "",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=21138",
+          "type": "stream"
+        }
+      ],
+      "overview": "In a village trapped by generations of bloodshed, a determined young man dares to challenge the traditions fueling an endless cycle of violence.",
+      "casts": "Akhil Akkineni, Bhagyashri Borse, Sivaji Sontineni, Easwari Rao, Brahmaji, Sunil Varma, N.T. Rama Rao Jr., Pavani Karanam, Getup Srinu, Saranya Pradeep, Pramod Panju, Ramesh Indira, Ramki, Shatru, Praveen, Vadlamani Srinivas",
+      "imdb_id": "tt5256640",
+      "tmdb_id": "1408170",
+      "trailers": "_d8Gw4ZkEqs",
+      "runtime": 0,
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=21138",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/hindidub/Lenin (2026)/Lenin.mkv"
+    },
+    "Heartin": {
+      "id": "21137",
+      "year": "2026",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/7xvMocNLZov64aOU1X3BRWawjD7.jpg",
+      "backdrop": "https://fmftp.net/content-images/movies/backdrops/ufVCGoqEHOCahpXwDguGIq8CxAP.jpg",
+      "rating": 6.0,
+      "genre": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "views": 15,
+      "links": [
+        {
+          "url": "https://fmftp.net/data/disk-1/movies/hindidub/Heartin (2026)/Heartin.mkv",
+          "language": "Hindi dubbed",
+          "quality": "",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=21137",
+          "type": "stream"
+        }
+      ],
+      "overview": "Fate tosses a couple into an unexpected situation with an ex-girlfriend in the mix.",
+      "casts": "Madonna Sebastian, Sananth, Emaya T, Whatsapp Mani, Debnita Kar, Pragathi Mahavadi, Uma Padmanabhan, Ajit Koshy, Mathew Varghese",
+      "imdb_id": "tt35741123",
+      "tmdb_id": "1434102",
+      "trailers": "",
+      "runtime": 0,
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=21137",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/hindidub/Heartin (2026)/Heartin.mkv"
     }
   },
-  "last_updated": "2026-08-19T01:42:30.792149Z"
+  "last_updated": "2026-08-21T01:52:33.087894Z"
 }
