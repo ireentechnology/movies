@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-21T01:36:27.842741Z",
-  "total_movies": 21075,
-  "total_series": 1313,
-  "total_episodes": 22535,
-  "grand_total": 22388,
+  "generated_at": "2026-08-23T01:39:12.362139Z",
+  "total_movies": 21091,
+  "total_series": 1314,
+  "total_episodes": 22642,
+  "grand_total": 22405,
   "movies": {
-    "total": 21075,
+    "total": 21091,
     "categories": [
       {
         "label": "Bollywood",
         "category_id": "1",
         "file": "movies/Bollywood.json",
-        "count": 2924,
-        "new": 0,
-        "updated": 2924,
+        "count": 2926,
+        "new": 3,
+        "updated": 2923,
         "total_episodes": null,
-        "expected_total": 2925
+        "expected_total": 2927
       },
       {
         "label": "Hollywood",
         "category_id": "2",
         "file": "movies/Hollywood.json",
-        "count": 14122,
-        "new": 1,
-        "updated": 14121,
+        "count": 14127,
+        "new": 11,
+        "updated": 14116,
         "total_episodes": null,
-        "expected_total": 14125
+        "expected_total": 14130
       },
       {
         "label": "Animation",
@@ -51,11 +51,11 @@
         "label": "Hindi Dubbed",
         "category_id": "5",
         "file": "movies/Hindi_dubbed.json",
-        "count": 1354,
-        "new": 2,
-        "updated": 1352,
+        "count": 1363,
+        "new": 10,
+        "updated": 1353,
         "total_episodes": null,
-        "expected_total": 1356
+        "expected_total": 1365
       },
       {
         "label": "Horror",
@@ -100,17 +100,17 @@
     ]
   },
   "series": {
-    "total": 1313,
+    "total": 1314,
     "categories": [
       {
         "label": "English TV Series",
         "category_id": "9",
         "file": "series/English_Tv_Series.json",
-        "count": 908,
-        "new": 0,
+        "count": 909,
+        "new": 1,
         "updated": 908,
-        "total_episodes": 18350,
-        "expected_total": 909
+        "total_episodes": 18457,
+        "expected_total": 910
       },
       {
         "label": "Indian TV Series",
