@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-23T01:39:12.362139Z",
+  "generated_at": "2026-08-25T01:26:51.075723Z",
   "total_movies": 21091,
-  "total_series": 1314,
-  "total_episodes": 22642,
-  "grand_total": 22405,
+  "total_series": 1316,
+  "total_episodes": 22799,
+  "grand_total": 22407,
   "movies": {
     "total": 21091,
     "categories": [
@@ -12,8 +12,8 @@
         "category_id": "1",
         "file": "movies/Bollywood.json",
         "count": 2926,
-        "new": 3,
-        "updated": 2923,
+        "new": 0,
+        "updated": 2926,
         "total_episodes": null,
         "expected_total": 2927
       },
@@ -22,8 +22,8 @@
         "category_id": "2",
         "file": "movies/Hollywood.json",
         "count": 14127,
-        "new": 11,
-        "updated": 14116,
+        "new": 3,
+        "updated": 14124,
         "total_episodes": null,
         "expected_total": 14130
       },
@@ -52,8 +52,8 @@
         "category_id": "5",
         "file": "movies/Hindi_dubbed.json",
         "count": 1363,
-        "new": 10,
-        "updated": 1353,
+        "new": 0,
+        "updated": 1363,
         "total_episodes": null,
         "expected_total": 1365
       },
@@ -100,17 +100,17 @@
     ]
   },
   "series": {
-    "total": 1314,
+    "total": 1316,
     "categories": [
       {
         "label": "English TV Series",
         "category_id": "9",
         "file": "series/English_Tv_Series.json",
-        "count": 909,
+        "count": 910,
         "new": 1,
-        "updated": 908,
-        "total_episodes": 18457,
-        "expected_total": 910
+        "updated": 909,
+        "total_episodes": 18598,
+        "expected_total": 911
       },
       {
         "label": "Indian TV Series",
@@ -126,11 +126,11 @@
         "label": "Korean TV Series",
         "category_id": "11",
         "file": "series/Korean_Tv_Series.json",
-        "count": 98,
-        "new": 0,
+        "count": 99,
+        "new": 1,
         "updated": 98,
-        "total_episodes": 1510,
-        "expected_total": 98
+        "total_episodes": 1526,
+        "expected_total": 99
       },
       {
         "label": "Bangla TV Series",
