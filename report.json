@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-25T01:26:51.075723Z",
-  "total_movies": 21091,
+  "generated_at": "2026-08-27T08:25:58.897539Z",
+  "total_movies": 21094,
   "total_series": 1316,
-  "total_episodes": 22799,
-  "grand_total": 22407,
+  "total_episodes": 22807,
+  "grand_total": 22410,
   "movies": {
-    "total": 21091,
+    "total": 21094,
     "categories": [
       {
         "label": "Bollywood",
         "category_id": "1",
         "file": "movies/Bollywood.json",
-        "count": 2926,
-        "new": 0,
-        "updated": 2926,
+        "count": 2928,
+        "new": 1,
+        "updated": 2927,
         "total_episodes": null,
-        "expected_total": 2927
+        "expected_total": 2928
       },
       {
         "label": "Hollywood",
         "category_id": "2",
         "file": "movies/Hollywood.json",
-        "count": 14127,
-        "new": 3,
-        "updated": 14124,
+        "count": 14128,
+        "new": 2,
+        "updated": 14126,
         "total_episodes": null,
-        "expected_total": 14130
+        "expected_total": 14131
       },
       {
         "label": "Animation",
@@ -107,9 +107,9 @@
         "category_id": "9",
         "file": "series/English_Tv_Series.json",
         "count": 910,
-        "new": 1,
-        "updated": 909,
-        "total_episodes": 18598,
+        "new": 0,
+        "updated": 910,
+        "total_episodes": 18606,
         "expected_total": 911
       },
       {
@@ -127,8 +127,8 @@
         "category_id": "11",
         "file": "series/Korean_Tv_Series.json",
         "count": 99,
-        "new": 1,
-        "updated": 98,
+        "new": 0,
+        "updated": 99,
         "total_episodes": 1526,
         "expected_total": 99
       },
