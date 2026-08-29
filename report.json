@@ -1,156 +1,128 @@
 {
-  "generated_at": "2026-08-27T08:25:58.897539Z",
-  "total_movies": 21094,
-  "total_series": 1316,
-  "total_episodes": 22807,
-  "grand_total": 22410,
+  "generated_at": "2026-08-29T06:31:06.656762Z",
+  "total_movies": 0,
+  "total_series": 0,
+  "total_episodes": 0,
+  "grand_total": 0,
   "movies": {
-    "total": 21094,
+    "total": 0,
     "categories": [
       {
         "label": "Bollywood",
         "category_id": "1",
         "file": "movies/Bollywood.json",
-        "count": 2928,
-        "new": 1,
-        "updated": 2927,
-        "total_episodes": null,
-        "expected_total": 2928
+        "count": 0,
+        "new": 0,
+        "error": "Bollywood page 1 permanently failed after 5 attempts: HTTPSConnectionPool(host='fmftp.net', port=443): Max retries exceeded with url: /api/movies?limit=100&fields=id,title,genre,year,views,online_rating,release_date,poster_path,backdrop_path&library=1&page=1&sort=release_date (Caused by ConnectTimeoutError(<HTTPSConnection(host='fmftp.net', port=443) at 0x7f5f07710d10>, 'Connection to fmftp.net timed out. (connect timeout=30)'))"
       },
       {
         "label": "Hollywood",
         "category_id": "2",
         "file": "movies/Hollywood.json",
-        "count": 14128,
-        "new": 2,
-        "updated": 14126,
-        "total_episodes": null,
-        "expected_total": 14131
+        "count": 0,
+        "new": 0,
+        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
       },
       {
         "label": "Animation",
         "category_id": "3",
         "file": "movies/Animation.json",
-        "count": 440,
+        "count": 0,
         "new": 0,
-        "updated": 440,
-        "total_episodes": null,
-        "expected_total": 440
+        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
       },
       {
         "label": "Korean Movies",
         "category_id": "4",
         "file": "movies/Korean.json",
-        "count": 377,
+        "count": 0,
         "new": 0,
-        "updated": 377,
-        "total_episodes": null,
-        "expected_total": 377
+        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
       },
       {
         "label": "Hindi Dubbed",
         "category_id": "5",
         "file": "movies/Hindi_dubbed.json",
-        "count": 1363,
+        "count": 0,
         "new": 0,
-        "updated": 1363,
-        "total_episodes": null,
-        "expected_total": 1365
+        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
       },
       {
         "label": "Horror",
         "category_id": "6",
         "file": "movies/Horror.json",
-        "count": 49,
+        "count": 0,
         "new": 0,
-        "updated": 49,
-        "total_episodes": null,
-        "expected_total": 49
+        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
       },
       {
         "label": "Indian Bangla",
         "category_id": "7",
         "file": "movies/Indian_Bangla.json",
-        "count": 667,
+        "count": 0,
         "new": 0,
-        "updated": 667,
-        "total_episodes": null,
-        "expected_total": 668
+        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
       },
       {
         "label": "Tamil",
         "category_id": "8",
         "file": "movies/Tamil.json",
-        "count": 1135,
+        "count": 0,
         "new": 0,
-        "updated": 1135,
-        "total_episodes": null,
-        "expected_total": 1136
+        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
       },
       {
         "label": "Foreign",
         "category_id": "14",
         "file": "movies/foreign.json",
-        "count": 7,
+        "count": 0,
         "new": 0,
-        "updated": 7,
-        "total_episodes": null,
-        "expected_total": 7
+        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
       }
     ]
   },
   "series": {
-    "total": 1316,
+    "total": 0,
     "categories": [
       {
         "label": "English TV Series",
         "category_id": "9",
         "file": "series/English_Tv_Series.json",
-        "count": 910,
+        "count": 0,
         "new": 0,
-        "updated": 910,
-        "total_episodes": 18606,
-        "expected_total": 911
+        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
       },
       {
         "label": "Indian TV Series",
         "category_id": "10",
         "file": "series/Indian_Tv_Series.json",
-        "count": 218,
+        "count": 0,
         "new": 0,
-        "updated": 218,
-        "total_episodes": 2036,
-        "expected_total": 218
+        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
       },
       {
         "label": "Korean TV Series",
         "category_id": "11",
         "file": "series/Korean_Tv_Series.json",
-        "count": 99,
+        "count": 0,
         "new": 0,
-        "updated": 99,
-        "total_episodes": 1526,
-        "expected_total": 99
+        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
       },
       {
         "label": "Bangla TV Series",
         "category_id": "12",
         "file": "series/Bangla_Tv_Series.json",
-        "count": 87,
+        "count": 0,
         "new": 0,
-        "updated": 87,
-        "total_episodes": 608,
-        "expected_total": 87
+        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
       },
       {
         "label": "Turkish TV Series",
         "category_id": "13",
         "file": "series/Turkish_Tv_Series.json",
-        "count": 2,
+        "count": 0,
         "new": 0,
-        "updated": 2,
-        "total_episodes": 31,
-        "expected_total": 2
+        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
       }
     ]
   }
