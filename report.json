@@ -1,128 +1,156 @@
 {
-  "generated_at": "2026-11-13T05:55:53.052399Z",
-  "total_movies": 0,
-  "total_series": 0,
-  "total_episodes": 0,
-  "grand_total": 0,
+  "generated_at": "2026-11-15T05:40:19.126034Z",
+  "total_movies": 21356,
+  "total_series": 1355,
+  "total_episodes": 23329,
+  "grand_total": 22711,
   "movies": {
-    "total": 0,
+    "total": 21356,
     "categories": [
       {
         "label": "Bollywood",
         "category_id": "1",
         "file": "movies/Bollywood.json",
-        "count": 0,
-        "new": 0,
-        "error": "Bollywood page 1 permanently failed after 5 attempts: HTTPSConnectionPool(host='fmftp.net', port=443): Max retries exceeded with url: /api/movies?limit=100&fields=id,title,genre,year,views,online_rating,release_date,poster_path,backdrop_path&library=1&page=1&sort=release_date (Caused by ConnectTimeoutError(<HTTPSConnection(host='fmftp.net', port=443) at 0x794507be8410>, 'Connection to fmftp.net timed out. (connect timeout=30)'))"
+        "count": 2961,
+        "new": 37,
+        "updated": 2924,
+        "total_episodes": null,
+        "expected_total": 2963
       },
       {
         "label": "Hollywood",
         "category_id": "2",
         "file": "movies/Hollywood.json",
-        "count": 0,
-        "new": 0,
-        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
+        "count": 14226,
+        "new": 104,
+        "updated": 14122,
+        "total_episodes": null,
+        "expected_total": 14227
       },
       {
         "label": "Animation",
         "category_id": "3",
         "file": "movies/Animation.json",
-        "count": 0,
-        "new": 0,
-        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
+        "count": 440,
+        "new": 1,
+        "updated": 439,
+        "total_episodes": null,
+        "expected_total": 441
       },
       {
         "label": "Korean Movies",
         "category_id": "4",
         "file": "movies/Korean.json",
-        "count": 0,
+        "count": 377,
         "new": 0,
-        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
+        "updated": 377,
+        "total_episodes": null,
+        "expected_total": 377
       },
       {
         "label": "Hindi Dubbed",
         "category_id": "5",
         "file": "movies/Hindi_dubbed.json",
-        "count": 0,
-        "new": 0,
-        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
+        "count": 1472,
+        "new": 109,
+        "updated": 1363,
+        "total_episodes": null,
+        "expected_total": 1475
       },
       {
         "label": "Horror",
         "category_id": "6",
         "file": "movies/Horror.json",
-        "count": 0,
+        "count": 49,
         "new": 0,
-        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
+        "updated": 49,
+        "total_episodes": null,
+        "expected_total": 49
       },
       {
         "label": "Indian Bangla",
         "category_id": "7",
         "file": "movies/Indian_Bangla.json",
-        "count": 0,
-        "new": 0,
-        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
+        "count": 688,
+        "new": 24,
+        "updated": 664,
+        "total_episodes": null,
+        "expected_total": 688
       },
       {
         "label": "Tamil",
         "category_id": "8",
         "file": "movies/Tamil.json",
-        "count": 0,
-        "new": 0,
-        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
+        "count": 1136,
+        "new": 5,
+        "updated": 1131,
+        "total_episodes": null,
+        "expected_total": 1138
       },
       {
         "label": "Foreign",
         "category_id": "14",
         "file": "movies/foreign.json",
-        "count": 0,
+        "count": 7,
         "new": 0,
-        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
+        "updated": 7,
+        "total_episodes": null,
+        "expected_total": 7
       }
     ]
   },
   "series": {
-    "total": 0,
+    "total": 1355,
     "categories": [
       {
         "label": "English TV Series",
         "category_id": "9",
         "file": "series/English_Tv_Series.json",
-        "count": 0,
-        "new": 0,
-        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
+        "count": 924,
+        "new": 13,
+        "updated": 911,
+        "total_episodes": 19012,
+        "expected_total": 924
       },
       {
         "label": "Indian TV Series",
         "category_id": "10",
         "file": "series/Indian_Tv_Series.json",
-        "count": 0,
-        "new": 0,
-        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
+        "count": 234,
+        "new": 17,
+        "updated": 217,
+        "total_episodes": 2092,
+        "expected_total": 235
       },
       {
         "label": "Korean TV Series",
         "category_id": "11",
         "file": "series/Korean_Tv_Series.json",
-        "count": 0,
-        "new": 0,
-        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
+        "count": 104,
+        "new": 5,
+        "updated": 99,
+        "total_episodes": 1582,
+        "expected_total": 104
       },
       {
         "label": "Bangla TV Series",
         "category_id": "12",
         "file": "series/Bangla_Tv_Series.json",
-        "count": 0,
-        "new": 0,
-        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
+        "count": 91,
+        "new": 4,
+        "updated": 87,
+        "total_episodes": 612,
+        "expected_total": 91
       },
       {
         "label": "Turkish TV Series",
         "category_id": "13",
         "file": "series/Turkish_Tv_Series.json",
-        "count": 0,
+        "count": 2,
         "new": 0,
-        "error": "Circuit breaker active — too many consecutive failures. Will retry after 10s"
+        "updated": 2,
+        "total_episodes": 31,
+        "expected_total": 2
       }
     ]
   }

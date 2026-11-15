@@ -3,8 +3,8 @@
   "source_url": "https://fmftp.net/movies?category=8",
   "category_id": "8",
   "category_name": "Tamil",
-  "total_items": 1147,
-  "expected_total": 1136,
+  "total_items": 1152,
+  "expected_total": 1138,
   "failed_pages": null,
   "collected_at": "2026-07-27T19:45:17.180645Z",
   "items": {
@@ -18,7 +18,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 332,
+      "views": 339,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Couple Friendly (2026)/Couple Friendly.mkv",
@@ -48,7 +48,7 @@
         "Romance",
         "Thriller"
       ],
-      "views": 804,
+      "views": 814,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Madharasi (2025)/Madharaasi.2025.1080p.WEB-DL.AAC.x264-skyflickz.mp4",
@@ -77,7 +77,7 @@
         "Thriller",
         "Crime"
       ],
-      "views": 421,
+      "views": 433,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Maargan (2025)/Maargan.mkv",
@@ -106,7 +106,7 @@
         "Drama",
         "Horror"
       ],
-      "views": 232,
+      "views": 236,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Jarann (2025)/Jarann (2025) 1080p WEBDL.mp4",
@@ -135,7 +135,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 331,
+      "views": 344,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Thudarum (2025)/Thudarum 2025 Malayalam CAM 1080p x264 AAC HC-ESub CineVood.mkv",
@@ -165,7 +165,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 435,
+      "views": 438,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Arjun SO Vyjayanthi (2025)/Arjun S O Vyjayanthi (2025) 1080p WEBRip.mp4",
@@ -223,7 +223,7 @@
         "Fantasy",
         "Thriller"
       ],
-      "views": 130,
+      "views": 131,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Vadakkan (2025)/Vadakkan.mkv",
@@ -281,7 +281,7 @@
         "Action",
         "Drama"
       ],
-      "views": 149,
+      "views": 151,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Thammudu (2024)/Thammudu (2024) 1080p WEBDL.mp4",
@@ -340,7 +340,7 @@
         "Romance",
         "Comedy"
       ],
-      "views": 164,
+      "views": 167,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Miss You (2024)/Miss.You.2024.1080p.AMZN.WEBRip.AAC2.0.x264-AcknowledgeMe.mkv",
@@ -369,7 +369,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 101,
+      "views": 107,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/I Am Kathalan (2024)/I.Am.Kathalan.2024.1080p.AMZN.WEB-DL.DD2.0.H.264-PMI.mkv",
@@ -399,7 +399,7 @@
         "Thriller",
         "Crime"
       ],
-      "views": 136,
+      "views": 140,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Lucky Baskhar (2024)/Lucky Baskhar.mp4",
@@ -428,7 +428,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 89,
+      "views": 90,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Swag (2024)/Swag.2024.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
@@ -486,7 +486,7 @@
         "Drama",
         "Family"
       ],
-      "views": 25,
+      "views": 26,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Gharat Ganpati (2024)/Gharat Ganpati (2024) 1080p WEBRip.mp4",
@@ -514,7 +514,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 43,
+      "views": 44,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Ullozhukku (2024)/Ullozhukku (2024) Malayalam 720p WEBRip x264 DD5.1 ESub -1TMV.mkv",
@@ -543,7 +543,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 60,
+      "views": 62,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Golam (2024)/Golam.2024.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
@@ -572,7 +572,7 @@
         "Drama",
         "Family"
       ],
-      "views": 146,
+      "views": 148,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Manamey (2024)/MANAMEY (2024) 1080p WEBRip.mp4",
@@ -634,7 +634,7 @@
         "Drama",
         "Action"
       ],
-      "views": 131,
+      "views": 132,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Family Star (2024)/Family Star.mkv",
@@ -663,7 +663,7 @@
         "Action",
         "Fantasy"
       ],
-      "views": 82,
+      "views": 83,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Bhimaa (2024)/Bhimaa (2024) Telugu 1080p WEBRip x265 HEVC 10bit DD5.1 ESub -1TMV.mkv",
@@ -721,7 +721,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 150,
+      "views": 155,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Siddharth Roy (2024)/Siddharth Roy (2024) Telugu 720p WEBRip x264 DD5.1 ESub -1TMV.mkv",
@@ -751,7 +751,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 63,
+      "views": 65,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Manjummel Boys (2024)/Manjummel Boys (2024) Malayalam 1080p PRE-HDRip x264 ESub -1TB.mkv",
@@ -808,7 +808,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 57,
+      "views": 58,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Case Of Kondana (2024)/Case.Of.Kondana.2024.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
@@ -837,7 +837,7 @@
         "Action",
         "Crime"
       ],
-      "views": 69,
+      "views": 70,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Saindhav (2024)/Saindhav (2024) Telugu 1080p HDTS x264 ESub -DLHub.mkv",
@@ -925,7 +925,7 @@
         "Drama",
         "Crime"
       ],
-      "views": 28,
+      "views": 29,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Garudan (2024)/Garudan (2024) Tamil (Eng Subs) 1080p WEBDL [ProtonMovies].mkv",
@@ -954,7 +954,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 45,
+      "views": 48,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Bagheera (2024)/Bagheera.2024.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
@@ -984,7 +984,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 65,
+      "views": 72,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Rebel (2024)/Rebel.2024.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
@@ -1040,7 +1040,7 @@
         "Drama",
         "History"
       ],
-      "views": 2145,
+      "views": 2148,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Michael (2023)/Michael 2023.mp4",
@@ -1070,7 +1070,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 23,
+      "views": 24,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Regina (2023)/Regina.mp4",
@@ -1156,7 +1156,7 @@
         "Thriller",
         "Action"
       ],
-      "views": 22,
+      "views": 24,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Hunt (2023)/Hunt.2023.1080p.AHA.WEB-DL.Telugu.DDP5.1.H.264-iNFiNiT3.mp4",
@@ -1242,7 +1242,7 @@
         "Action",
         "Drama"
       ],
-      "views": 78,
+      "views": 80,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Agent (2023)/Agent (2023).mkv",
@@ -1300,7 +1300,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 54,
+      "views": 57,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Sapta Sagaradaache Ello Side B (2023)/Sapta Sagaradaache Ello Side B (2023) Kannada 1080p WEBRip x265 HEVC 10bit DD5.1 ESub -1TMV.mkv",
@@ -1387,7 +1387,7 @@
         "Fantasy",
         "Mystery"
       ],
-      "views": 44,
+      "views": 45,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Tantiram (2023)/Tantiram.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
@@ -1475,7 +1475,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 13,
+      "views": 16,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Vaathi (2023)/Vaathi 2023.mp4",
@@ -1501,7 +1501,7 @@
       "backdrop": "",
       "rating": 6.5,
       "genre": [],
-      "views": 24,
+      "views": 25,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Tatsama Tadbhava (2023)/Tatsama.Tadbhava.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
@@ -1530,7 +1530,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 101,
+      "views": 107,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Saptha Sagaradaache Ello - Side A (2023)/Sapta Sagaradaache Ello Side B.mkv",
@@ -1559,7 +1559,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 147,
+      "views": 149,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Gandeevadhari Arjuna (2023)/Gandeevadhari.Arjuna.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
@@ -1787,7 +1787,7 @@
         "Comedy",
         "Horror"
       ],
-      "views": 23,
+      "views": 24,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/DD Returns (2023)/DD Returns.mkv",
@@ -1874,7 +1874,7 @@
       "genre": [
         "Horror"
       ],
-      "views": 110,
+      "views": 112,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Vash (2023)/Vash (2023) Gujarati 1080p SM WEBRip x264 AAC 2.0 ESub - mkvCinemas.mkv",
@@ -1903,7 +1903,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 78,
+      "views": 81,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Aneethi (2023)/Aneethi.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
@@ -1962,7 +1962,7 @@
         "Comedy",
         "Thriller"
       ],
-      "views": 5,
+      "views": 7,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Mayapetika (2023)/Mayapetika.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
@@ -2022,7 +2022,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 89,
+      "views": 90,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Asvins (2023)/Asvins.mkv",
@@ -2080,7 +2080,7 @@
         "Action",
         "Romance"
       ],
-      "views": 36,
+      "views": 37,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Takkar (2023)/Takkar (2023).mp4",
@@ -2257,7 +2257,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 64,
+      "views": 65,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Maruthi Nagar Police Station (2023)/Maruthi Nagar Police Station.mp4",
@@ -2287,7 +2287,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 38,
+      "views": 42,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Karungaapiyam (2023)/Karungaapiyam.mp4",
@@ -2579,7 +2579,7 @@
         "History",
         "Action"
       ],
-      "views": 60,
+      "views": 61,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Yaathisai (2023)/Yaathisai (2023).mp4",
@@ -2637,7 +2637,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 13,
+      "views": 16,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Kadina Kadoramee Andakadaham (2023)/Kadina.Kadoramee.Andakadaham.2023.mp4",
@@ -2723,7 +2723,7 @@
         "Action",
         "Drama"
       ],
-      "views": 42,
+      "views": 43,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Rudhran (2023)/www.1TamilMV.help - Rudhran (2023) Tamil HQ HDRip - 1080p - x264 - AAC - 2.6GB - HC-ESub.mp4",
@@ -2896,7 +2896,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 18,
+      "views": 19,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Jawanum Mullappoovum (2023)/Jawanum.Mullappoovum.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
@@ -2985,7 +2985,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 15,
+      "views": 16,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/N4 (2023)/N4.2023.1080p.AMZN.WEB-DL.DDP5.1.HEVC-Telly.mp4",
@@ -3219,7 +3219,7 @@
         "Romance",
         "Comedy"
       ],
-      "views": 30,
+      "views": 33,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Pranaya Vilasam (2023)/Pranaya.Vilasam.2023.1080p.ZEE5.WEB-DL.Malayalam.AAC2.0.H.264.ESub-R3TiR3D.mp4",
@@ -3248,7 +3248,7 @@
         "Romance",
         "Comedy"
       ],
-      "views": 14,
+      "views": 15,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Ntikkakkakkoru Premondarnn (2023)/Ntikkakkakkoru Premondarnn.mp4",
@@ -3278,7 +3278,7 @@
         "Romance",
         "Thriller"
       ],
-      "views": 16,
+      "views": 17,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Mr. King (2023)/Mr. King (2023).mp4",
@@ -3453,7 +3453,7 @@
         "Thriller",
         "Mystery"
       ],
-      "views": 18,
+      "views": 19,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Vasantha Kokila (2023)/Vasantha.Kokila.2023.mp4",
@@ -3482,7 +3482,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 131,
+      "views": 133,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Iratta (2023)/Iratta (2023) Malayalam 1080p WEBRip x264 DD5.1 ESub -1TMV.mkv",
@@ -3627,7 +3627,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 18,
+      "views": 19,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Butta Bomma (2023)/Butta.Bomma.2023.mp4",
@@ -3687,7 +3687,7 @@
         "Thriller",
         "Comedy"
       ],
-      "views": 44,
+      "views": 46,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Thunivu (2023)/Thunivu.mkv",
@@ -3773,7 +3773,7 @@
         "Action",
         "Romance"
       ],
-      "views": 12,
+      "views": 13,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Sattur Railway Station (2023)/Sattur Railway Station (2023) Tamil 720p WEBRip x264 DD5.1 ESub -1TMV.mkv",
@@ -3916,7 +3916,7 @@
         "Romance",
         "Comedy"
       ],
-      "views": 20,
+      "views": 21,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Geetha (2022)/Geetha.mkv",
@@ -3942,7 +3942,7 @@
       "backdrop": "https://fmftp.net/content-images/movies/backdrops/6CSdlHQyGJlQMVb8X0ugkEBwcFu.jpg",
       "rating": 0.0,
       "genre": [],
-      "views": 40,
+      "views": 41,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Raajahyogam (2022)/Raajahyogam.2022..mp4",
@@ -3970,7 +3970,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 10,
+      "views": 12,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Once Upon a Time in Jamaligudda (2022)/Once Upon A Time In Jamaaligudda (2023).mp4",
@@ -4028,7 +4028,7 @@
         "Thriller",
         "Action"
       ],
-      "views": 41,
+      "views": 43,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Sasanasabha (2022)/Sasanasabha (2023).mp4",
@@ -4116,7 +4116,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 61,
+      "views": 63,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Kooman (2022)/Kooman (2022) Malayalam 1080p WEBRip x264 DD5.1 ESub -1TMV.mkv",
@@ -4177,7 +4177,7 @@
         "Adventure",
         "Comedy"
       ],
-      "views": 32,
+      "views": 33,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Saakini Daakini (2022)/Saakini Daakini (2022) Telugu 720p WEBRip x264 DD5.1 ESub -5MRulz.mkv",
@@ -4264,7 +4264,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 139,
+      "views": 141,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Udal (2022)/Udal.2022.1080p.Saina.Play.WEB-DL.AAC2.0.H.264-PmBaVA.mkv",
@@ -4290,7 +4290,7 @@
       "backdrop": "",
       "rating": 0.0,
       "genre": [],
-      "views": 57,
+      "views": 58,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Diary (2022)/Diary (2022).mp4",
@@ -4320,7 +4320,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 181,
+      "views": 183,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Jana Gana Mana (2022)/Jana Gana Mana.mkv",
@@ -4350,7 +4350,7 @@
         "Mystery",
         "Horror"
       ],
-      "views": 98,
+      "views": 99,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Bhoothakaalam (2022)/Bhoothakaalam (2022) Malayalam 1080p WEB-DL AVC UNTOUCHED x264 AC3 5.1 ESub -1TMV.mkv",
@@ -4376,7 +4376,7 @@
       "backdrop": "",
       "rating": 0.0,
       "genre": [],
-      "views": 61,
+      "views": 65,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2023/Perfume (2022)/Perfume (2022).mp4",
@@ -4461,7 +4461,7 @@
         "Action",
         "Science Fiction"
       ],
-      "views": 51,
+      "views": 52,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Maanaadu (2021)/Maanaadu.mkv",
@@ -4510,7 +4510,7 @@
       "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Kaanekkaane (2021)/Kaanekkaane (2021) Malayalam 720p HDRip x264 AAC ESub -1TMV.mkv"
     },
     "Kuruthi": {
-      "id": "19753",
+      "id": "19512",
       "year": "2021",
       "tvg_logo": "https://fmftp.net/content-images/movies/posters/ArCY77ZQOrzW44OzPmYP99piiFW.jpg",
       "backdrop": "https://fmftp.net/content-images/movies/backdrops/1rJTuRzWWqSB953Iqo4BrxgZe77.jpg",
@@ -4519,13 +4519,13 @@
         "Thriller",
         "Action"
       ],
-      "views": 32,
+      "views": 24,
       "links": [
         {
-          "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Kuruthi (2021)/Kuruthi (2021) Malayalam 1080p AMZN WEB-DL AVC UNTOUCHED x264 DD5.1 ESub -1TMV.mkv",
+          "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Kuruthi (2021)/Kuruthi 2021 Malayalam 1080p AMZN WEB-DL x264 DDP5.1 ESubs ~ BLOX.mp4",
           "language": "Tamil",
           "quality": "1080p",
-          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19753",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19512",
           "type": "stream"
         }
       ],
@@ -4535,8 +4535,8 @@
       "tmdb_id": "813808",
       "trailers": "",
       "runtime": 0,
-      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19753",
-      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Kuruthi (2021)/Kuruthi (2021) Malayalam 1080p AMZN WEB-DL AVC UNTOUCHED x264 DD5.1 ESub -1TMV.mkv"
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19512",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Kuruthi (2021)/Kuruthi 2021 Malayalam 1080p AMZN WEB-DL x264 DDP5.1 ESubs ~ BLOX.mp4"
     },
     "Kuruthi [19512]": {
       "id": "19512",
@@ -4577,7 +4577,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 86,
+      "views": 94,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Nayattu (2021)/Nayattu (2021) Malayalam DS4K (1080p WEBRip x265 10bit DolbyAtmos) - [Musafirboy].mkv",
@@ -4605,7 +4605,7 @@
       "genre": [
         "Documentary"
       ],
-      "views": 28,
+      "views": 29,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Guardian (2021)/Guardian.(2021).720p.Malayalam.WEB-DL.AVC.AAC.2.0-DusIcTv.mp4",
@@ -4662,7 +4662,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 36,
+      "views": 45,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Forensic (2020)/[MovCr]  -Forensic  (2020) 720p Malayalam HDRip - x264 - AAC - 1.3GB [MOVCR].mp4",
@@ -4753,7 +4753,7 @@
         "Drama",
         "Crime"
       ],
-      "views": 22,
+      "views": 23,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Dhamaka (2020)/www.TamilRockers.ws - Dhamaka (2020)[Proper Malayalam - 1080p HDRip - x264 - DD 5.1 - 2.4GB - ESubs].mp4",
@@ -5010,7 +5010,7 @@
         "Comedy",
         "Fantasy"
       ],
-      "views": 17,
+      "views": 18,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Mookuthi Amman (2020)/Mookuthi Amman (2020) Tamil (1080p WEBRip x265 10bit) - [Musafirboy].mp4",
@@ -5039,7 +5039,7 @@
         "Drama",
         "Action"
       ],
-      "views": 52,
+      "views": 56,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Soorarai Pottru (2020)/Soorarai Pottru (2020) Tamil (1080p WEBRip x265 10bit Chapters) - [Musafirboy].mp4",
@@ -5070,7 +5070,7 @@
         "Crime",
         "Drama"
       ],
-      "views": 21,
+      "views": 22,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Mafia (2020)/Mafia (2020) Tamil HDRip - 1080p - x264 - AAC - 2.2GB.mkv",
@@ -5153,7 +5153,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 36,
+      "views": 37,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Colour Photo (2020)/COLOUR PHOTO (2020) Telugu WEB-DL 720p AVC UNTOUCHED  1.3GB  ESub[MB].mp4",
@@ -5211,7 +5211,7 @@
         "Comedy",
         "Romance"
       ],
-      "views": 32,
+      "views": 33,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/God Father (2020)/GodFather (2020) Tamil Proper WEB-DL - 1080p - AVC - DD5.1 - 2.5GB.mkv",
@@ -5239,7 +5239,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 12,
+      "views": 13,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Miss India (2020)/Miss India (2020) Multi [Tamil+Telugu+Malayalam] (1080p WEBRip x265 10bit) - [Musafirboy].mp4",
@@ -5296,7 +5296,7 @@
         "Thriller",
         "Horror"
       ],
-      "views": 10,
+      "views": 11,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Nishabdham (2020)/Nishabdham (2020) 720p WEBRip x264 AAC Multi Aud [ Tel+ Kan + Mal ] ESub.mp4",
@@ -5355,7 +5355,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 65,
+      "views": 69,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/V (2020)/V.2020.WEB.H264-BabyTorrent.mp4",
@@ -5385,7 +5385,7 @@
         "Mystery",
         "Drama"
       ],
-      "views": 57,
+      "views": 59,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/C U Soon (2020)/C.U.Soon.720p.AMZN.WEB-Rip.AAC.5.1.x264.Esub-BonsaiHD.mp4",
@@ -5414,7 +5414,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 33,
+      "views": 34,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Lockup (2020)/Lockup (2020) [TAMIL - 720p - WEB HDRip - x264 - AAC 2.1 - ESub - 2GB] - MAZE.mp4",
@@ -5589,7 +5589,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 18,
+      "views": 19,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Sufiyum Sujatayum (2020)/Sufiyum Sujatayum (2020) 720p HD - Bolly2Tolly.tv.mp4",
@@ -5702,7 +5702,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 11,
+      "views": 12,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Ponmagal Vandhal (2020)/www.TamilRockers.ws - Ponmagal Vandhal (2020)[Proper Tamil - 720p HQ UHD - UNTOUCHED - x265 - HEVC - DDP 5.1 - 1.4GB - ESubs].mp4",
@@ -5789,7 +5789,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 20,
+      "views": 21,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Madha (2020)/Madha.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-BonsaiHD.mkv",
@@ -5819,7 +5819,7 @@
         "Thriller",
         "Crime"
       ],
-      "views": 112,
+      "views": 124,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Kaithi (2019) /Kaithi (2019) Tamil 1080P WEBRiP x265 HEVC AAC BSUB [shadow].mp4",
@@ -5849,7 +5849,7 @@
         "Family",
         "Drama"
       ],
-      "views": 133,
+      "views": 135,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Bigil (2019)/Bigil 2019 Tamil 1080P Amzn WEBRiP x265 DD 5.1 HEVC BSUB [shadow].mp4",
@@ -5878,7 +5878,7 @@
         "Comedy",
         "Horror"
       ],
-      "views": 16,
+      "views": 17,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Petromax (2019)/PETROMAX (2019).mp4",
@@ -6054,7 +6054,7 @@
         "History",
         "War"
       ],
-      "views": 18,
+      "views": 19,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Sye Raa Narasimha Reddy (2019)/Sye.Raa.Narasimha.Reddy.(2019).mp4",
@@ -6084,7 +6084,7 @@
         "History",
         "War"
       ],
-      "views": 6,
+      "views": 7,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Raa Raa (2019)/Raa Raa 2019 [ Bolly4u.pro ] HDRip Hindi Dubbed 720p 850MB.mkv",
@@ -6114,7 +6114,7 @@
         "Adventure",
         "Thriller"
       ],
-      "views": 165,
+      "views": 166,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Saaho (2019)/www.3MovieRulz.tv - Saaho (2019) 1080p Hindi DVDScr x264 MP3 2.5GB.mp4",
@@ -6143,7 +6143,7 @@
         "Action",
         "Crime"
       ],
-      "views": 57,
+      "views": 58,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Kalki (2019)/Kalki (Hogenakkal) (2019) 720p Hindi Dubbed HDRip x264 AAC 850MB - MovCr.mp4",
@@ -6172,7 +6172,7 @@
         "Romance",
         "Comedy"
       ],
-      "views": 64,
+      "views": 65,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Thanneer Mathan Dinangal (2019)/www.MovCr.to - Thanneer Mathan Dinangal (2019) Malayalam - HDTV - x264 - 700MB - Mp3 - MovCr.mkv",
@@ -6321,7 +6321,7 @@
         "Science Fiction",
         "Thriller"
       ],
-      "views": 39,
+      "views": 41,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/iSmart Shankar (2019)/iSmart Shankar.mp4",
@@ -6438,7 +6438,7 @@
         "Comedy",
         "Mystery"
       ],
-      "views": 38,
+      "views": 44,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Agent Sai Srinivasa Athreya (2019)/Agent Sai Srinivasa Athreya (2019).mp4",
@@ -6466,7 +6466,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 42,
+      "views": 43,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/NGK (2019)/NGK (2019) Telugu DVDScr x264 MP3 250MB.mkv",
@@ -6523,7 +6523,7 @@
         "Drama",
         "Action"
       ],
-      "views": 79,
+      "views": 80,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Maharshi (2019) 1080p/Maharshi (2019) 1080p.mkv",
@@ -7182,7 +7182,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 63,
+      "views": 70,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Thadam (2019)/Thadam (2019).mp4",
@@ -7211,7 +7211,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 18,
+      "views": 20,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/118 (2019)/118 (2019) Telugu DVDScr x264 MP3 700MB.mkv",
@@ -7412,7 +7412,7 @@
       "genre": [
         "Action"
       ],
-      "views": 15,
+      "views": 16,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Kantharam (2019)/Kantharam (2019) Malayalam Proper HDRip x264 MP3 700MB ESub - MovCr.mp4",
@@ -7927,7 +7927,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 34,
+      "views": 35,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Mr. Majnu (2019)/Mr. Majnu (2019) Telugu HQ Proper PreDVD - 1080p - x264 - HQ Line Aud - 2.2GB.mkv",
@@ -8190,7 +8190,7 @@
         "Action",
         "Drama"
       ],
-      "views": 79,
+      "views": 88,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Viswasam (2019)/Viswasam (2019) Tamil HQ Proper PreDVD - 720p - x264 - Proper Original Aud - 1.4GB - TMV.mkv",
@@ -8250,7 +8250,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 26,
+      "views": 29,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Bluff Master (2019)/Bluff Master.2019.1080p.WEB-HD.AVC.AAC-DDR.mp4",
@@ -8425,7 +8425,7 @@
         "Thriller",
         "Horror"
       ],
-      "views": 84,
+      "views": 87,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Evaru (2019)/Evaru (2019) Telugu 720p HDRip x264 DD5.1 ESub - MovCr.mkv",
@@ -8454,7 +8454,7 @@
         "Thriller",
         "Horror"
       ],
-      "views": 118,
+      "views": 119,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Evaru (2019)/Evaru (2019).mkv",
@@ -8646,7 +8646,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 42,
+      "views": 43,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Boomerang (2019)/www.TamilRockerrs.pl - Boomerang (2019) [4K - Untouched - UHD - MP4 - 10.8GB - ESubs - Tamil].mp4",
@@ -8730,7 +8730,7 @@
         "Thriller",
         "Action"
       ],
-      "views": 63,
+      "views": 65,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Maayavan (2019)/Maayavan (2019).mp4",
@@ -8897,8 +8897,8 @@
       "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Lovers Day (2019)/Lovers Day (2019) Telugu DVDScr x264 MP3 700MB.mkv"
     },
     "Kavan": {
-      "id": "19410",
-      "year": "2019",
+      "id": "18976",
+      "year": "2017",
       "tvg_logo": "https://fmftp.net/content-images/movies/posters/hqePCECNlXBRMAJz9cd5VoP25Lf.jpg",
       "backdrop": "https://fmftp.net/content-images/movies/backdrops/hidddIpkh1oIE57ECaJ19VPYxI7.jpg",
       "rating": 7.2,
@@ -8906,13 +8906,13 @@
         "Thriller",
         "Drama"
       ],
-      "views": 0,
+      "views": 9,
       "links": [
         {
-          "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Kavan (2019)/Kavan (2019) 720p Hindi Dubbed HDRip x264 AAC by Full4movies.mkv",
+          "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Kavan (2017)/Kavan (2017)[Proper 720p HDRip - x264 - AC3 5.1 - 1.4GB - Tamil].mkv",
           "language": "Tamil",
           "quality": "720p",
-          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19410",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18976",
           "type": "stream"
         }
       ],
@@ -8922,8 +8922,8 @@
       "tmdb_id": "449742",
       "trailers": "",
       "runtime": 0,
-      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19410",
-      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Kavan (2019)/Kavan (2019) 720p Hindi Dubbed HDRip x264 AAC by Full4movies.mkv"
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18976",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Kavan (2017)/Kavan (2017)[Proper 720p HDRip - x264 - AC3 5.1 - 1.4GB - Tamil].mkv"
     },
     "Ishq": {
       "id": "19508",
@@ -9387,7 +9387,7 @@
       "backdrop": "",
       "rating": 0.0,
       "genre": [],
-      "views": 10,
+      "views": 11,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Fraud Saiyyan (2019)/Fraud Saiyyan (2019) Hindi 720p HQ pDVDRip x264 AAC - MovCr.mkv",
@@ -9569,7 +9569,7 @@
       "backdrop": "",
       "rating": 0.0,
       "genre": [],
-      "views": 26,
+      "views": 27,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Rowdy Raja (Raju Gadu) (2019)/Rowdy Raja (Raju Gadu) (2019) 720p HDRip x264 AAC Hindi Dubbed -UnknownStAr [Telly].mkv",
@@ -9725,7 +9725,7 @@
       "backdrop": "",
       "rating": 0.0,
       "genre": [],
-      "views": 8,
+      "views": 9,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Wardiwali Sherni (2019)/Wardiwali Sherni (Gharshane) (2019) Hindi Dubbed 720p x264 AAC [Team DRSD].mkv",
@@ -9745,33 +9745,33 @@
       "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Wardiwali Sherni (2019)/Wardiwali Sherni (Gharshane) (2019) Hindi Dubbed 720p x264 AAC [Team DRSD].mkv"
     },
     "Guru": {
-      "id": "19299",
-      "year": "2018",
-      "tvg_logo": "https://fmftp.net/content-images/movies/posters/4qzgxaWtAtl19YwHvtQ1E8Kju6P.jpg",
-      "backdrop": "https://fmftp.net/content-images/movies/backdrops/gwksBTz60lVeGWKqDr0n8ij0hfp.jpg",
-      "rating": 6.258,
+      "id": "18933",
+      "year": "2016",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/5VqWbyN1EmzvqpFNSzGN7sLJRTj.jpg",
+      "backdrop": "https://fmftp.net/content-images/movies/backdrops/hCm8C6GRM0mGAd2A9qQoYq8vGW1.jpg",
+      "rating": 6.353,
       "genre": [
-        "Documentary",
-        "Crime"
+        "Romance",
+        "Family"
       ],
-      "views": 3,
+      "views": 5,
       "links": [
         {
-          "url": "https://fmftp.net/data/disk-1/movies/tamil/2018/Guru (2018)/Guru (2018).mp4",
+          "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Guru (2016)/Guru 2016 Marathi 720p HDRip.mkv",
           "language": "Tamil",
-          "quality": "",
-          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19299",
+          "quality": "720p",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18933",
           "type": "stream"
         }
       ],
-      "overview": "The spectacular rise and scandalous fall of hot-yoga evangelist Bikram Choudhury is chronicled through archival footage and extensive insider interviews.",
-      "casts": "Larissa Anderson, Francesca Asumah, Sarah Baughn, Bikram Choudhury, John Dowd, Mukul Dutta, Jafa-Bodden Micki, Carla Minnard, Richard Nixon, Mark Quigley, Val Sklar Robinson, Mandeep Kaur Sandhu, Jakob Schanzer, Patrice Simon, Liz Winfield",
-      "imdb_id": "tt10883004",
-      "tmdb_id": "621753",
-      "trailers": "AbsaUHdxGHg",
+      "overview": "After a rocky start, a friendship develops between a happy-go-lucky youth and a girl from the city.",
+      "casts": "Ram Pothineni, Anupama Parameswaran, Prakash Raj, Pranitha Subhash, Posani Krishna Murali, Sithara, Jayaprakash, Noel Sean, Sayaji Shinde, Suresh, Saptagiri, Praveen, Satya",
+      "imdb_id": "tt8072400",
+      "tmdb_id": "517508",
+      "trailers": "8Q4o87KPInY",
       "runtime": 0,
-      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19299",
-      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2018/Guru (2018)/Guru (2018).mp4"
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18933",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Guru (2016)/Guru 2016 Marathi 720p HDRip.mkv"
     },
     "Wanted": {
       "id": "19324",
@@ -9784,7 +9784,7 @@
         "Western",
         "Animation"
       ],
-      "views": 36,
+      "views": 37,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2018/Wanted (2018)/Wanted (2018).mp4",
@@ -9873,7 +9873,7 @@
         "Adventure",
         "Crime"
       ],
-      "views": 602,
+      "views": 626,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2018/K.G.F Chapter 1 (2018)/KGF Chapter 1 2018 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas.mkv",
@@ -9991,7 +9991,7 @@
         "Crime",
         "Mystery"
       ],
-      "views": 238,
+      "views": 254,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2018/Ratsasan (2018)/Ratsasan (2018).mp4",
@@ -10050,7 +10050,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 15,
+      "views": 16,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2018/Pariyerum Perumal (2018)/Pariyerum Perumal (2018).mp4",
@@ -10158,8 +10158,8 @@
       "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2018/U TURN (2018)/U TURN (2018).mp4"
     },
     "U Turn": {
-      "id": "19321",
-      "year": "2018",
+      "id": "18817",
+      "year": "2016",
       "tvg_logo": "https://fmftp.net/content-images/movies/posters/d5wL2axBtieecnAD6X4HMgrkXGp.jpg",
       "backdrop": "https://fmftp.net/content-images/movies/backdrops/8aXfZK2KJggOQhUhmrYaULvwF3L.jpg",
       "rating": 6.873,
@@ -10168,13 +10168,13 @@
         "Horror",
         "Crime"
       ],
-      "views": 25,
+      "views": 18,
       "links": [
         {
-          "url": "https://fmftp.net/data/disk-1/movies/tamil/2018/U Turn (2018)/U Turn (2019) New Released Hindi Dubbed Full Movie _ Samantha, Aadhi Pinisetty, Bhumika Chawla.mp4",
+          "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/U Turn (2016)/U Turn [2016] Kannada 720p HD AVC x264 2.1GB ESubs.mp4",
           "language": "Tamil",
-          "quality": "",
-          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19321",
+          "quality": "720p",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18817",
           "type": "stream"
         }
       ],
@@ -10184,8 +10184,8 @@
       "tmdb_id": "535657",
       "trailers": "HG7Lv384yTU",
       "runtime": 0,
-      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19321",
-      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2018/U Turn (2018)/U Turn (2019) New Released Hindi Dubbed Full Movie _ Samantha, Aadhi Pinisetty, Bhumika Chawla.mp4"
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18817",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/U Turn (2016)/U Turn [2016] Kannada 720p HD AVC x264 2.1GB ESubs.mp4"
     },
     "Hunt For The Skinwalker": {
       "id": "19301",
@@ -10273,7 +10273,7 @@
       "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2018/Vishwaroopam 2(2018)/Vishwaroopam 2(2018).mp4"
     },
     "Saakshyam": {
-      "id": "19543",
+      "id": "19311",
       "year": "2018",
       "tvg_logo": "https://fmftp.net/content-images/movies/posters/spIPo5iq5Z0ZAfwylX51Re2HuP4.jpg",
       "backdrop": "https://fmftp.net/content-images/movies/backdrops/bDXCWQ4pAOzRqdbU2oKpa59t8ns.jpg",
@@ -10283,13 +10283,13 @@
         "Romance",
         "Fantasy"
       ],
-      "views": 9,
+      "views": 15,
       "links": [
         {
-          "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Saakshyam (2018)/Saaksh3ym Uncut 720p Hd Desiremovies.uno-1 (1) (1).mp4",
+          "url": "https://fmftp.net/data/disk-1/movies/tamil/2018/Saakshyam (2018)/Saakshyam (2018).mp4",
           "language": "Tamil",
-          "quality": "720p",
-          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19543",
+          "quality": "",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19311",
           "type": "stream"
         }
       ],
@@ -10299,8 +10299,8 @@
       "tmdb_id": "505908",
       "trailers": "VEEWvlCvLNY",
       "runtime": 0,
-      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19543",
-      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Saakshyam (2018)/Saaksh3ym Uncut 720p Hd Desiremovies.uno-1 (1) (1).mp4"
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19311",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2018/Saakshyam (2018)/Saakshyam (2018).mp4"
     },
     "Saakshyam [19311]": {
       "id": "19311",
@@ -10343,7 +10343,7 @@
         "Drama",
         "Comedy"
       ],
-      "views": 26,
+      "views": 27,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2018/Dhadak (2018)/Dhadak (2018).mp4",
@@ -10460,7 +10460,7 @@
         "Adventure",
         "Drama"
       ],
-      "views": 25,
+      "views": 26,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2018/The Extraordinary Journey of the Fakir (2018)/The Extraordinary Journey of the Fakir (2018).mp4",
@@ -10548,7 +10548,7 @@
         "Drama",
         "Action"
       ],
-      "views": 69,
+      "views": 70,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Bharat Ane Nenu (2018)/Dashing CM Bharat (Bharat Ane Nenu) 720p WEBrip - HINDI.mp4",
@@ -11009,8 +11009,8 @@
       "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2018/Meow (2018)/Meow (2018).mp4"
     },
     "Aanandam": {
-      "id": "19291",
-      "year": "2018",
+      "id": "18844",
+      "year": "2016",
       "tvg_logo": "https://fmftp.net/content-images/movies/posters/lf6uk5ukEhULKS4M386ah9Tv1Fz.jpg",
       "backdrop": "https://fmftp.net/content-images/movies/backdrops/nm01vAcpeduK6K1HtRaHyTzpvFY.jpg",
       "rating": 7.303,
@@ -11019,13 +11019,13 @@
         "Comedy",
         "Romance"
       ],
-      "views": 19,
+      "views": 13,
       "links": [
         {
-          "url": "https://fmftp.net/data/disk-1/movies/tamil/2018/Aanandam (2018)/Aanandam (2018).mp4",
+          "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Aanandam (2016)/Aanandam (2016) Malayalam DVDRip 720p x264 AAC 5.1 E-Sub-MBRHDRG.mkv",
           "language": "Tamil",
-          "quality": "",
-          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19291",
+          "quality": "720p",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18844",
           "type": "stream"
         }
       ],
@@ -11035,8 +11035,8 @@
       "tmdb_id": "422603",
       "trailers": "9B1SDMwQRXk",
       "runtime": 0,
-      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19291",
-      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2018/Aanandam (2018)/Aanandam (2018).mp4"
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18844",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Aanandam (2016)/Aanandam (2016) Malayalam DVDRip 720p x264 AAC 5.1 E-Sub-MBRHDRG.mkv"
     },
     "Time Machine": {
       "id": "19318",
@@ -11190,7 +11190,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 7,
+      "views": 10,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Village Rockstars (2017)/Village Rockstars (2018) Assamese 720p WEB-DL x264 AC3 ESub-SunGeorge.mkv",
@@ -11513,7 +11513,7 @@
         "Action",
         "Crime"
       ],
-      "views": 102,
+      "views": 107,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Mersal (2017)/Mersal (2017) [720p - Proper HDRip (Final Version) - x264 - 1.4GB - Tamil].mkv",
@@ -11806,7 +11806,7 @@
         "Comedy",
         "Romance"
       ],
-      "views": 3,
+      "views": 4,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Irumbu Manithan (2020)/Irumbu Manithan (2020) Tamil TRUE WEB-DL - 1080p - AVC - (DD5.1 - 256Kbps) - 2.6GB - ESub.mkv",
@@ -11836,7 +11836,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 15,
+      "views": 16,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Kanulanu Dochayante (2020)/www.TamilRockers.ws - Kanulu Kanulanu Dochayante (2020) Telugu 1080p HD AVC UNTOUCHED X264 2.6GB.mkv",
@@ -11895,7 +11895,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 10,
+      "views": 11,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Paapam Cheyyathavar Kalleriyatte (2020)/www.8MovieRulz.com - Paapam Cheyyathavar Kalleriyatte (2020) 720p Malayalam TRUE WEB-DL - AVC - UNTOUCHED - AAC - 1.4GB.mp4",
@@ -12299,7 +12299,7 @@
         "Comedy",
         "Thriller"
       ],
-      "views": 36,
+      "views": 37,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Ayyappanum Koshiyum (2020)/AK Ayyappanum Koshiyum (2020) Malayalam TRUE WEB-DL - 1080p - HEVC - UNTOUCHED - (DD+5.1 - 640Kbps) - 2.6GB - ESub .mkv",
@@ -12329,7 +12329,7 @@
         "Family",
         "Romance"
       ],
-      "views": 97,
+      "views": 98,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Varane Avashyamund (2020)/Varane Avashyamund (2020) Malayalam 720p Pre-DVDRip x264 HQ Line Audio -TR.mkv",
@@ -12942,7 +12942,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 16,
+      "views": 17,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Entha Manchivaadavuraa (2020)/Entha Manchivaadavuraa (2020) Telugu TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1.3GB - ESub.mp4",
@@ -12971,7 +12971,7 @@
         "Action",
         "Comedy"
       ],
-      "views": 20,
+      "views": 22,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Pattas (2020)/PATTAS (2020) Tamil TRUE WEB-DL - 1080p - AVC - (DD+5.1 - 640Kbps) -3.5GB - ESub.mkv",
@@ -13001,7 +13001,7 @@
         "Thriller",
         "Mystery"
       ],
-      "views": 135,
+      "views": 141,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Anjaam Pathiraa (2020)/www.TamilRockers.ws - Anjaam Pathiraa (2020)[Malayalam 1080p HD AVC - DD5.1 & DD 2.0 x264 - 8.3GB - ESubs].mp4",
@@ -13029,7 +13029,7 @@
       "genre": [
         "Action"
       ],
-      "views": 62,
+      "views": 63,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Sarileru Neekevvaru (2020)/Sarileru.Neekevvaru.2020.1080p.AMZN.WEB-Rip.DDP.5.1.HEVC-DDR.mp4",
@@ -13059,7 +13059,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 129,
+      "views": 130,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Darbar (2020)/Darbar 2020 AMZN WebRip UNCUT 1080p Hindi DTH DD 2.0 x264 MSubs - mkvCinemas [Telly].mp4",
@@ -13147,7 +13147,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 20,
+      "views": 21,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Thoota (2020)/Thoota (2020) Telugu Vers TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+2.0 - 224Kbps) - 2.6GB - ESub.mkv",
@@ -13173,7 +13173,7 @@
       "backdrop": "",
       "rating": 0.0,
       "genre": [],
-      "views": 80,
+      "views": 82,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Cocktail (2020)/Cocktail (2020) 720p HD - Bolly2Tolly.tv.mp4",
@@ -13344,7 +13344,7 @@
       "backdrop": "",
       "rating": 5.0,
       "genre": [],
-      "views": 50,
+      "views": 51,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Psycho (2020)/Psycho (2020) Tamil 720p ESub.mp4",
@@ -13370,7 +13370,7 @@
       "backdrop": "",
       "rating": 5.0,
       "genre": [],
-      "views": 81,
+      "views": 83,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Psycho (2020)/Psycho.mkv",
@@ -13390,33 +13390,33 @@
       "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Psycho (2020)/Psycho.mkv"
     },
     "Gentleman": {
-      "id": "19500",
-      "year": "2020",
-      "tvg_logo": "https://fmftp.net/content-images/movies/posters/vOAo0uUByWynfMTq88tu6Ibf5AM.jpg",
-      "backdrop": "https://fmftp.net/content-images/movies/backdrops/qcPbOEKp4iraB8qJ0B0SklQ9mpt.jpg",
-      "rating": 6.5,
+      "id": "18922",
+      "year": "2016",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/r7mxbYNdkoa4Mm0d6RVG9JjGaNg.jpg",
+      "backdrop": "https://fmftp.net/content-images/movies/backdrops/4uX3jcLGYlI1k2UdDnPmR6w9LJ1.jpg",
+      "rating": 6.1,
       "genre": [
-        "Comedy",
-        "Romance"
+        "Action",
+        "Comedy"
       ],
-      "views": 28,
+      "views": 20,
       "links": [
         {
-          "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Gentleman (2020)/Gentleman (2020) 720p HDTV - Bolly2Tolly.tv.mp4",
+          "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Gentleman (2016)/Gentleman (2016) Telugu 720P HDRip X264 AC3 5.1 1.4GB.mkv",
           "language": "Tamil",
           "quality": "720p",
-          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19500",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18922",
           "type": "stream"
         }
       ],
-      "overview": "Anna spends every summer with her husband in a neighborhood a few dozen kilometers outside Prague. They've been together for ages, so their marriage, as is so often the case, has become routine and stereotyped. For a long time, the man has divided his time fairly between drinking with friends in the pub and making ship models of matches in bottles; His wife is virtually invisible to him. Anna spends several days each summer and enjoys regular meetings with her friends and colleagues who visit her in picturesque Central Bohemia on bike tours around Kamýk Castle.",
-      "casts": "Jaromír Hanzlík, Alena Antalová, Igor Bareš, Lucie Vondráčková, Miroslav Šimůnek, Tereza Kostková, Ivana Chýlková, Jana Boušková, Jan Vlasák, Arnošt Goldflam, Miroslav Etzler, Dana Batulková, Yvetta Blanarovičová, Petra Jungmanová, Jan Čenský, Zdeněk Žák, Pavel Soukup, Mariana Franclová, Tobiáš Freja, Vlado Čema, Ladislav Ladomirjak, Lumír Olšovský, Barbora Mottlová, Martin Kraus, Jaromír Dulava, Filip Čapka, Rudolf Hrušínský, Zdeněk Dušek, Miriam Kantorková, Iva Hüttnerová, Uršula Kluková, Petr Konáš, Norbert Lichý, Jiří Sequens, Jiří Novotný, Ladislav Županič, Radim Schwab, Ivan Jiřík, David Sir, Miroslav Hrabě, Denisa Pfauserová, Adéla Jiříková, Bára Grafftneterová, Jiří Adamec, František Kollman, Jiří Ambrož, Aleš Krulich, Jiří Řehoř, Barbara Hassová",
-      "imdb_id": "tt8724244",
-      "tmdb_id": "575329",
+      "overview": "Gaurav dreams of settling down with Kavya, the woman of his dreams, but she prefers a man who's more adventurous and willing to take risks. He soon stands to lose everything when a case of mistaken identity rocks his once-happy life.",
+      "casts": "Sidharth Malhotra, Jacqueline Fernandez, Suniel Shetty, Darshan Kumaar, Kushal Punjabi, Rajit Kapoor, Amit Mistry, Hussain Dalal, Supriya Pilgaonkar, Shaheed K. Woods, Anastasia Maslova, Cyril Raffaelli, Nicholas Ryan Hernandez, Govind Namdeo",
+      "imdb_id": "tt5613834",
+      "tmdb_id": "469872",
       "trailers": "",
       "runtime": 0,
-      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19500",
-      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Gentleman (2020)/Gentleman (2020) 720p HDTV - Bolly2Tolly.tv.mp4"
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18922",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Gentleman (2016)/Gentleman (2016) Telugu 720P HDRip X264 AC3 5.1 1.4GB.mkv"
     },
     "Operation": {
       "id": "19528",
@@ -13430,7 +13430,7 @@
         "History",
         "War"
       ],
-      "views": 9,
+      "views": 10,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Operation (2020)/Operation (2019) HDRip x264 HiNdi Dubb AAC[MovCr].mp4",
@@ -13543,7 +13543,7 @@
         "Romance",
         "Thriller"
       ],
-      "views": 94,
+      "views": 98,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Dia (Kannada) (2020)/Dia (2020) Kannada TRUE WEB-DL - 720p - AVC - UNTOUCHED - (DD+5.1 - 640Kbps) - 1.8GB - ESub.mkv",
@@ -13572,7 +13572,7 @@
         "Action",
         "Drama"
       ],
-      "views": 168,
+      "views": 176,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Rangasthalam (2020)/www.1TamilMV.org - Rangasthalam (2020) WEB-DL - 1080p - [Kannada + Telugu (DD5.1) + Malayalam].mp4",
@@ -13711,7 +13711,7 @@
       "backdrop": "",
       "rating": 0.0,
       "genre": [],
-      "views": 108,
+      "views": 109,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Janaki Nayakan (2020)/Janaki Nayakan (2020) HDRip 720p Malayalam + Telugu + Tamil[MB].mp4",
@@ -13867,7 +13867,7 @@
       "backdrop": "",
       "rating": 0.0,
       "genre": [],
-      "views": 24,
+      "views": 25,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Varane Avashymunda (2020)/Varane Avashymunda.mkv",
@@ -13947,7 +13947,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 29,
+      "views": 30,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Sarkaar (2019)/Sarkaar 2019 [ Bolly4u.pro ] HDRip Hindi Dubbed 750MB 720p.mkv",
@@ -14090,7 +14090,7 @@
       "genre": [
         "Documentary"
       ],
-      "views": 63,
+      "views": 64,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Petta (2019)/Petta (2019) 720p HQ PRERip [Dual Audio][Hindi Line+Telugu] [MovCr].mkv",
@@ -14148,7 +14148,7 @@
       "genre": [
         "Comedy"
       ],
-      "views": 10,
+      "views": 11,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2019/Jersey (2019)/Jersey 2019 1080p Telugu WEB-DL AVC AAC 2.4GB[MB].mp4",
@@ -14501,7 +14501,7 @@
       "genre": [
         "Thriller"
       ],
-      "views": 16,
+      "views": 17,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Ramaleela (2017)/Ramaleela (2017)--Moviedom-TamilMovie.mp4",
@@ -14530,7 +14530,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 126,
+      "views": 130,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Spyder (2017)/Spyder (2017) Tamil 720p HDRip x264 5.1 2GB ESubs.mkv",
@@ -14766,7 +14766,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 65,
+      "views": 66,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Arjun Reddy (2017)/Arjun Reddy (2017) Telugu HDRip - 720p - x264 - 5.1 - 1.4GB.mkv",
@@ -14883,7 +14883,7 @@
         "Romance",
         "Thriller"
       ],
-      "views": 16,
+      "views": 18,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Nene Raju Nene Mantri (2017)/Nene Raju Nene Mantri (2017) Telugu HDRip - 720p - x264 - 5.1 - 1.6GB.mkv",
@@ -15001,7 +15001,7 @@
         "Crime",
         "Adventure"
       ],
-      "views": 33,
+      "views": 34,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Vikram Vedha (2017)/Vikram Vedha (2017) Tamil 720p HDRip x264 5.1 1.4GB ESubs.mkv",
@@ -15031,7 +15031,7 @@
         "Romance",
         "Comedy"
       ],
-      "views": 54,
+      "views": 55,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Fidaa (2017)/Fidaa (2017) Telugu HDRip - 720p - x264 - 5.1 - 1.4GB.mkv",
@@ -15062,7 +15062,7 @@
         "Horror",
         "Mystery"
       ],
-      "views": 7,
+      "views": 8,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2018/Lapachhapi (2017)/Lapachhapi (2017) Marathi 720p WEBRip x264 AAC 800MB - MovCr.mkv",
@@ -15238,7 +15238,7 @@
         "Comedy",
         "Crime"
       ],
-      "views": 69,
+      "views": 71,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/DJ-Duvvada Jagannadham (2017)/DJ Dhruvaraja Jagannadham (2017) [Malayalam - 720p HDRip - x264 - 1.1GB - ESubs].mkv",
@@ -15267,7 +15267,7 @@
         "Action",
         "Adventure"
       ],
-      "views": 11,
+      "views": 12,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Vanamagan (2017)/Vanamagan (2017)[720p HDRip - x264 - AC3 5.1 - 1.4GB - ESubs - Tamil].mkv",
@@ -15384,7 +15384,7 @@
         "Adventure",
         "Romance"
       ],
-      "views": 30,
+      "views": 32,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/CIA-Comrade in America (2017)/CIA-Comrade in America (2017) Malayalam 720p BDRip x264 5.1 1.4GB ESubs.mkv",
@@ -15414,7 +15414,7 @@
         "Adventure",
         "Fantasy"
       ],
-      "views": 75,
+      "views": 77,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Baahubali 2-The Conclusion (2017)/Baahubali 2 (2017) DVD-Scr - 720p - x264 - [Tamil + Telugu + Hindi + Malayalam] - 1.5GB.mkv",
@@ -15529,7 +15529,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 0,
+      "views": 1,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Sakhavu (2017)/Sakhavu (2017) Malayalam 720P DVDRip x264 AAC 5.1 ESub 1GB ZippyMovieZ.mkv",
@@ -15941,7 +15941,7 @@
         "Drama",
         "Family"
       ],
-      "views": 11,
+      "views": 12,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Shatamanam Bhavati (2017)/Shathamanam Bhavathi (2017) Telugu WEBHD - 720p - AVC - AAC - 1.3GB.mp4",
@@ -16398,7 +16398,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 24,
+      "views": 25,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Devi (2016)/Devi (2016)[720p v2 HD - 5.1 - AVC - MP4 - 2GB - ESubs - Tamil].mp4",
@@ -16458,7 +16458,7 @@
         "Crime",
         "Mystery"
       ],
-      "views": 107,
+      "views": 110,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Dhuruvangal Pathinaaru (2016)/Dhuruvangal Pathinaaru (2016)[720p v2 HD - 5.1 - AVC - MP4 - 1.6GB - Tamil].mp4",
@@ -16488,7 +16488,7 @@
         "Romance",
         "Comedy"
       ],
-      "views": 5,
+      "views": 6,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Veera Sivaji (2016)/Veera Sivaji (2016) Tamil HDRip - 720p - x264 - 5.1 - 1.1GB Tamilmv.mkv",
@@ -16635,7 +16635,7 @@
         "Horror",
         "Comedy"
       ],
-      "views": 13,
+      "views": 14,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Kaashmora (2016)/Kaashmora (2016) [HDRip - 720p - 5.1 - x264 - 1.4GB - Tamil].mkv",
@@ -17103,7 +17103,7 @@
         "Thriller",
         "Mystery"
       ],
-      "views": 16,
+      "views": 17,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Iru Mugan (2016)/Iru Mugan (2016) - 720p WEBRip - x264 - AAC 5.1 - ESubs [Team ExDR].mkv",
@@ -17161,7 +17161,7 @@
         "Thriller",
         "Drama"
       ],
-      "views": 23,
+      "views": 24,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Kuttrame Thandanai (2016)/Kuttrame Thandanai (2016)[720p v2 HD - 5.1 - AVC - MP4 - 1.4GB - ESubs - Tamil].mp4",
@@ -17190,7 +17190,7 @@
         "Action",
         "Drama"
       ],
-      "views": 33,
+      "views": 34,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Janatha Garage (2016)/Janatha Garage (2016) 720p Untouched WEBHD AVC AAC [DDR].mkv",
@@ -17517,7 +17517,7 @@
         "Romance",
         "Thriller"
       ],
-      "views": 12,
+      "views": 13,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Anegan (2015)/Anegan (2015) [DVDRip - x264 - 1CD - 700MB - ESubs - Tamil].mkv",
@@ -17920,7 +17920,7 @@
         "Comedy",
         "Action"
       ],
-      "views": 23,
+      "views": 24,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Raghuvaran B.Tech (2015)/Raghuvaran B.Tech (2015) Telugu 950MB 720p DVDRip 5.1 ESubs x264.mp4",
@@ -17974,7 +17974,7 @@
       "backdrop": "https://fmftp.net/content-images/movies/backdrops/k1vbIjpHUJgvQEZWa6ybRE4jBNB.jpg",
       "rating": 0.0,
       "genre": [],
-      "views": 31,
+      "views": 32,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Romeo Juliet (2015)/Romeo Juliet (2015) - 2CDRip - WEBRip - x264 - AC3 - [DDR].mkv",
@@ -18020,32 +18020,33 @@
       "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Dr. Saleem (2015)/Dr.Saleem (2015) 720P - AVC - AAC 2.0 - 1.70 GB - KPM.mkv"
     },
     "Paisa": {
-      "id": "19050",
-      "year": "2013",
-      "tvg_logo": "https://fmftp.net/content-images/movies/posters/kCm9mXecWdWMOGGUNGR91mTj9Oo.jpg",
-      "backdrop": "https://fmftp.net/content-images/movies/backdrops/cSytYYbo0vy5yYWKPYLCvSmD36Y.jpg",
-      "rating": 4.8,
+      "id": "18768",
+      "year": "2014",
+      "tvg_logo": "",
+      "backdrop": "",
+      "rating": 0.0,
       "genre": [
-        "Thriller"
+        "Drama",
+        "Crime"
       ],
       "views": 0,
       "links": [
         {
-          "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Paisa (2013)/Paisa(2014)Telugu 720P DvDRip X264 ESubs Team DDH~RG.mkv",
+          "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Paisa (2014)/Paisa (2014) CAMrip.mp4",
           "language": "Tamil",
-          "quality": "720p",
-          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19050",
+          "quality": "",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18768",
           "type": "stream"
         }
       ],
-      "overview": "The story unfolds the events happening in just four hours of a day in two cities - Kochi and Chennai. Balu (Aju Varghese) who goes to Chennai to attend an interview falls into a trap in the few minutes he goes out of the call centre office to make a phone call. He contacts his friend Kishore (Indrajith), an ad filmmaker and his friend, to help him with some money. Kishore, who is in Kochi, has an equally crucial day. His wife Surya (Mamta Mohandas) is returning to his life as the couple has been living separate for some time. Kishore sets aside his plans to reconcile with his wife to help his friend. However, he fails to gather enough money to help Balu. How money changes the life of these characters forms the rest of the story.",
-      "casts": "Indrajith Sukumaran, Aju Varghese, Mamta Mohandas, Sandhya, Daniel Balaji, Apoorva Bose, Aparna Nair, Rizabawa, Sasi Kalinga, Anoop Chandran, Kishor Satya",
-      "imdb_id": "tt3259220",
-      "tmdb_id": "224363",
-      "trailers": "mGWGVnqwqiA",
+      "overview": "A rag picker stumbles into a fortune.",
+      "casts": "Sree Raam, Mayilsamy, Nasaar, Madhusudhan Rao, Deepika, Aara, Raja Simman",
+      "imdb_id": "tt22855032",
+      "tmdb_id": "408447",
+      "trailers": "",
       "runtime": 0,
-      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19050",
-      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Paisa (2013)/Paisa(2014)Telugu 720P DvDRip X264 ESubs Team DDH~RG.mkv"
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18768",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Paisa (2014)/Paisa (2014) CAMrip.mp4"
     },
     "Jigarthanda": {
       "id": "18956",
@@ -18057,7 +18058,7 @@
         "Drama",
         "Crime"
       ],
-      "views": 31,
+      "views": 32,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Jigarthanda (2014)/Jigarthanda.2014.Tamil.1080p.x265.HEVC.10bit.6CH.PoOlLa.mkv",
@@ -18086,7 +18087,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 34,
+      "views": 35,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Legend (2014)/Legend(2014) Telugu 720p HD DvdRip X264 Esubs 1Gb.mkv",
@@ -18106,8 +18107,8 @@
       "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Legend (2014)/Legend(2014) Telugu 720p HD DvdRip X264 Esubs 1Gb.mkv"
     },
     "Drishyam": {
-      "id": "18910",
-      "year": "2013",
+      "id": "18911",
+      "year": "2014",
       "tvg_logo": "https://fmftp.net/content-images/movies/posters/gIClWRv5OSe8rl5Koi0AeUcCZ9Z.jpg",
       "backdrop": "https://fmftp.net/content-images/movies/backdrops/8xnjsw3Oh3zrT6Pu1WVp8dQYatT.jpg",
       "rating": 7.619,
@@ -18116,13 +18117,13 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 79,
+      "views": 161,
       "links": [
         {
-          "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Drishyam (2013)/Drishyam (2013) - Malayalam - BRRip - 720p - x264 - AC3 - [Team Jaffa].mkv",
+          "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Drishyam (2014)/Drishyam (2014) Malayalam DVDRip x264 800MB ESubs].mkv",
           "language": "Tamil",
-          "quality": "720p",
-          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18910",
+          "quality": "",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18911",
           "type": "stream"
         }
       ],
@@ -18132,8 +18133,8 @@
       "tmdb_id": "352173",
       "trailers": "AuuX2j14NBg",
       "runtime": 0,
-      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18910",
-      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Drishyam (2013)/Drishyam (2013) - Malayalam - BRRip - 720p - x264 - AC3 - [Team Jaffa].mkv"
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18911",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Drishyam (2014)/Drishyam (2014) Malayalam DVDRip x264 800MB ESubs].mkv"
     },
     "Kaakkaa Muttai": {
       "id": "18715",
@@ -18372,7 +18373,7 @@
         "Thriller",
         "Horror"
       ],
-      "views": 16,
+      "views": 17,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Ice Cream 2 (2014)/Ice Cream 2 (2014) - WebRip - XviD - 1CD.avi",
@@ -18458,7 +18459,7 @@
         "History",
         "Thriller"
       ],
-      "views": 53,
+      "views": 54,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Iyobinte Pusthakam (2014)/Iyobinte Pusthakam(2014) Malayalam DVDRip x264 5.1 Esubs-Razor.mkv",
@@ -18547,7 +18548,7 @@
         "Drama",
         "Action"
       ],
-      "views": 15,
+      "views": 16,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Govindudu Andari Vaadele (2014)/Govindudu Andarivadele (2014) - DvdRip - X264 - AC3 (5.1CH) - ESubs - 720P.mkv",
@@ -18607,7 +18608,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 11,
+      "views": 12,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Aagadu (2014)/Aagadu (2014) DVDRip - XviD - 1CDRip - D3Si MaNiaCs.avi",
@@ -18751,7 +18752,7 @@
         "Thriller",
         "Crime"
       ],
-      "views": 15,
+      "views": 17,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Anjaan (2014)/Anjaan 2014 720p BluRay x264 Tamil AAC - Ozlem.mp4",
@@ -18868,7 +18869,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 106,
+      "views": 107,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Vikramadithyan (2014)/Vikramadithyan (2014) - Blu-Ray - X264 - DTS - ESubs - 720P - 1.6GB [Team Jaffa].mkv",
@@ -18927,7 +18928,7 @@
         "Comedy",
         "Action"
       ],
-      "views": 38,
+      "views": 40,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Velaiyilla Pattathari (2014)/[DVD-RIP]Velaiyilla Pattathari 2014 - Xvid - 700MB - MP3 - TT.avi",
@@ -19104,7 +19105,7 @@
         "Family",
         "Romance"
       ],
-      "views": 68,
+      "views": 71,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Bangalore Days (2014)/Bangalore Days 2014 720p BluRay x264 AAC - Ozlem.mp4",
@@ -19224,7 +19225,7 @@
         "Romance",
         "Comedy"
       ],
-      "views": 18,
+      "views": 20,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Samsaaram Aarogyathinu Haanikaram (2014)/Samsaaram Aarogyathinu Haanikaram (2014)[Malayalam DVDRip - x264 - 800MB.mkv",
@@ -19482,7 +19483,7 @@
         "Drama",
         "Thriller"
       ],
-      "views": 27,
+      "views": 28,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Ugramm (2014)/Ugramm 2014 Kannada 720p DVDRip.mkv",
@@ -19627,7 +19628,7 @@
         "Comedy",
         "Romance"
       ],
-      "views": 26,
+      "views": 27,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Ohm Shanthi Oshaana (2014)/Ohm Shanthi Oshaana (2014) MALAYALAM - 720p - WEB HD - x264 - AAC - ESubs.mp4",
@@ -19885,7 +19886,7 @@
         "Thriller",
         "Romance"
       ],
-      "views": 27,
+      "views": 28,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Nenokkadine (2014)/Nenokkadine (2014).avi",
@@ -19934,21 +19935,21 @@
       "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Veeram (2014)/www.TamilRockers.net - Veeram (2014) LOTUS DVD-Rip - 1CD - XVID - Mp3 - 700MB - Tamil.avi"
     },
     "Uyyala Jampala": {
-      "id": "18818",
-      "year": "2013",
+      "id": "18819",
+      "year": "2014",
       "tvg_logo": "https://fmftp.net/content-images/movies/posters/UFezRzBPX5ciROHLHUqmNDcJIc.jpg",
       "backdrop": "https://fmftp.net/content-images/movies/backdrops/1xmImfPNsiOoO0QMGBgN5FDeMFs.jpg",
       "rating": 5.8,
       "genre": [
         "Romance"
       ],
-      "views": 6,
+      "views": 0,
       "links": [
         {
-          "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Uyyala Jampala (2013)/Uyyala Jampala (2013) Telugu 1CD DvDRip x264 ESubs Team DDH~RG.mp4",
+          "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Uyyala Jampala (2014)/Uyyala Jampala(2014)Telugu 950MB 720P WebRip.mp4",
           "language": "Tamil",
-          "quality": "",
-          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18818",
+          "quality": "720p",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18819",
           "type": "stream"
         }
       ],
@@ -19958,8 +19959,8 @@
       "tmdb_id": "247501",
       "trailers": "vtKxPLsFH-I",
       "runtime": 0,
-      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18818",
-      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Uyyala Jampala (2013)/Uyyala Jampala (2013) Telugu 1CD DvDRip x264 ESubs Team DDH~RG.mp4"
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18819",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Uyyala Jampala (2014)/Uyyala Jampala(2014)Telugu 950MB 720P WebRip.mp4"
     },
     "Oru Indian Pranayakadha": {
       "id": "18764",
@@ -20084,7 +20085,7 @@
       "genre": [
         "Horror"
       ],
-      "views": 30,
+      "views": 31,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/7th Day (2014)/7Th Day (2014) - DvdRip - Xvid - Untouched AC3 DevilMaker.avi",
@@ -20347,7 +20348,7 @@
         "Crime",
         "Drama"
       ],
-      "views": 54,
+      "views": 55,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Kabali (2016)/Kabali (2016) - Tamil - 720p WebRip - x264 - AAC - ESub - ExDR.mkv",
@@ -20556,7 +20557,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 12,
+      "views": 14,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/A Aa (2016)/A Aa 2016 Telugu 720p HDRiP AVC x264 2.1GB.mp4",
@@ -20878,7 +20879,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 21,
+      "views": 24,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Sairat (2016)/Sairat (2016) - 720p - DVDRip - x264 - AC3 - ESub - [DDR].mkv",
@@ -20966,7 +20967,7 @@
         "Crime",
         "Thriller"
       ],
-      "views": 126,
+      "views": 127,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Theri (2016)/Theri (2016) Tamil 720p DVDRip x264 AAC E-Sub.mkv",
@@ -21024,7 +21025,7 @@
         "Action",
         "Drama"
       ],
-      "views": 31,
+      "views": 33,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Sarrainodu (2016)/Sarrainodu (2016) Telugu (TC Audio) 720p HQ HDTVRip x264 1.4GB.mkv",
@@ -21321,7 +21322,7 @@
         "Family",
         "Thriller"
       ],
-      "views": 8,
+      "views": 9,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Puthiya Niyamam (2016)/Puthiya Niyamam (2016) Malayalam 720p WEB-DL x264 AAC.mkv",
@@ -21350,7 +21351,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 35,
+      "views": 36,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Maheshinte Prathikaaram (2016)/Maheshinte Prathikaram (2016) [720p - HDRip - 1.3GB - AAC].mkv",
@@ -21410,7 +21411,7 @@
         "Family",
         "Fantasy"
       ],
-      "views": 5,
+      "views": 8,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Soggade Chinni Nayana (2016)/Soggade Chinni Nayana (2016) 720p - HDRip - x264 - AAC [DDR].mkv",
@@ -21438,7 +21439,7 @@
       "genre": [
         "Action"
       ],
-      "views": 16,
+      "views": 17,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Nannaku Prematho (2016)/Nannaku Prematho (2016)  WEBRIP - AVC - AAC - 720p - 2.8GB.mkv",
@@ -21666,7 +21667,7 @@
       "backdrop": "",
       "rating": 0.0,
       "genre": [],
-      "views": 60,
+      "views": 63,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/3 Wicketina 365 Runs (2016)/3 Wicketina 365 Runs (2016) Malayalam DVDRip x264 1GB.mkv",
@@ -21775,7 +21776,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 88,
+      "views": 92,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Premam (2015)/Premam (2015) Malayalam 720p Bluray x264 AAC RDLinks[1st Anniversary Special].mkv",
@@ -21859,7 +21860,7 @@
         "Crime",
         "Drama"
       ],
-      "views": 62,
+      "views": 63,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Visaaranai (2015)/Visaaranai (2015) 720p HDrip x265 HEVC SUJAIDR.mkv",
@@ -22064,7 +22065,7 @@
       "genre": [
         "Action"
       ],
-      "views": 32,
+      "views": 33,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Vedalam (2015)/Vedhalam (2015) [720p HDRip - 5.1 - x264 - 1.4GB - ESubs - Tamil].mkv",
@@ -22268,7 +22269,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 27,
+      "views": 29,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Maya (2015)/Maya (Mayuri) (2015)[720p HDRip - (Tamil + Telugu) - x264 - 1.5GB].mkv",
@@ -22560,7 +22561,7 @@
       "genre": [
         "Action"
       ],
-      "views": 36,
+      "views": 38,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Maari (2015)/Maari [2015] Tamil 720p HDRip x264 AC3 5.1 1.4GB ESubs.mkv",
@@ -22677,7 +22678,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 4,
+      "views": 5,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Kakka Muttai (2015)/Kaaka Muttai [2015] Tamil 720p HD AVC 5.1 x264 1.6GB.mp4",
@@ -23028,7 +23029,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 40,
+      "views": 44,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/OK Kanmani (2015)/OK Kanmani [2015] Tamil 720p HDRip x264 AC3 5.1 1.4GB ESubs.mkv",
@@ -23194,7 +23195,7 @@
         "Comedy",
         "Romance"
       ],
-      "views": 0,
+      "views": 1,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Ayal (2013)/Ayal (2013)Malayalam DVD Rip x264 5.1-Splash.mkv",
@@ -23224,7 +23225,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 78,
+      "views": 82,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Drishyam (2013)/Drishyam (2013) - Malayalam - BRRip - 720p - x264 - AC3 - [Team Jaffa].mkv",
@@ -23308,7 +23309,7 @@
       "genre": [
         "Science Fiction"
       ],
-      "views": 62,
+      "views": 66,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Memories  (2013)/Memories - 2013 - DVDRip - X264 - AAC - ESubs - Team MovieShareX.mp4",
@@ -23420,7 +23421,7 @@
         "Drama",
         "Comedy"
       ],
-      "views": 12,
+      "views": 13,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Amen (2013)/Amen (2013) - Bluray Rip - 1GB - 720p - X264 - [Team Jaffa].mkv",
@@ -23449,7 +23450,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 42,
+      "views": 43,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Romeo and Juliet (2013)/Romeo and Juliet (2013) DVDrip [FT BD.NET].mp4",
@@ -23593,7 +23594,7 @@
         "Comedy",
         "Romance"
       ],
-      "views": 0,
+      "views": 1,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Kalyana Samayal Saadham (2013)/www.TamilRockers.net - Kalyana Samayal Saadham (2013) [DVDRip ~ x264 - 1CDRip - 700MB - Tamil].mkv",
@@ -23652,7 +23653,7 @@
         "Romance",
         "Fantasy"
       ],
-      "views": 0,
+      "views": 1,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Irandaam Ulagam (2013)/www.TamilRockers.net - Irandaam Ulagam (2013) [New DVDScr - XviD - 1CD - 700MB - HQ].avi",
@@ -23680,7 +23681,7 @@
       "genre": [
         "Action"
       ],
-      "views": 6,
+      "views": 7,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Pandiya Naadu (2013)/Pandiya Naadu (2013) TSK 720p Upscaled x264 AC3 5.1 - Team XDN  .mp4",
@@ -23907,7 +23908,7 @@
         "Comedy",
         "Drama"
       ],
-      "views": 25,
+      "views": 26,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Raja Rani (2013)/Raja Rani (2013) (1080p BluRay x265 HEVC 10bit AAC 5.1 Tamil)[Bandi].mp4",
@@ -25014,7 +25015,7 @@
         "Drama",
         "Horror"
       ],
-      "views": 13,
+      "views": 14,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Prema Katha Chitram (2013)/Prema Katha Chitram (2013) - BDRip - JalsaTime.Com - 1CD - 5.1.mkv",
@@ -25246,7 +25247,7 @@
         "Mystery",
         "Thriller"
       ],
-      "views": 100,
+      "views": 101,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Mumbai Police (2013)/Mumbai Police 2013 BRRip x264 Malayalam ESubs - ViZNU.mp4",
@@ -25816,7 +25817,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 26,
+      "views": 34,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Vishwaroopam (2013)/Vishwaroopam 2013 Tamil BRRip 720p x264 AAC 5.1...Hon3y.mp4",
@@ -25959,7 +25960,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 16,
+      "views": 18,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Badrinath (2011)/BTmoviez.com_Badrinath.2011.DvDRip.TT.mkv",
@@ -25988,7 +25989,7 @@
         "Drama",
         "Family"
       ],
-      "views": 122,
+      "views": 123,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Deiva Thirumagal (2011)/Deiva Thirumagal (2011) - Tamil - 720p HD - AVC - MP4 - 1.9GB.mp4",
@@ -26123,8 +26124,8 @@
       "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Teen Maar (2011)/Teenmaar (2011) Telugu BRRip 720p x264 AAC-Ameet6233.mp4"
     },
     "Ek Tha Soldier": {
-      "id": "18915",
-      "year": "2013",
+      "id": "18914",
+      "year": "2011",
       "tvg_logo": "https://fmftp.net/content-images/movies/posters/eycV5IA0TFc5wHtWmke7SpqXI8u.jpg",
       "backdrop": "https://fmftp.net/content-images/movies/backdrops/hyfpK5UZ4msJwgqGzX1rFB5GPZj.jpg",
       "rating": 3.5,
@@ -26132,13 +26133,13 @@
         "Action",
         "Fantasy"
       ],
-      "views": 9,
+      "views": 3,
       "links": [
         {
-          "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Ek Tha Soldier (2013)/Ek Tha Soldier (2013) WEBrip [FT BD.NET].mkv",
+          "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Ek Tha Soldier (2011)/Ek Tha Soldier (2011) BRrip.mkv",
           "language": "Tamil",
           "quality": "",
-          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18915",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18914",
           "type": "stream"
         }
       ],
@@ -26148,8 +26149,8 @@
       "tmdb_id": "63372",
       "trailers": "C2UkGOWpKas",
       "runtime": 0,
-      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18915",
-      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Ek Tha Soldier (2013)/Ek Tha Soldier (2013) WEBrip [FT BD.NET].mkv"
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18914",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Ek Tha Soldier (2011)/Ek Tha Soldier (2011) BRrip.mkv"
     },
     "Shakti": {
       "id": "19105",
@@ -26218,7 +26219,7 @@
         "Action",
         "Fantasy"
       ],
-      "views": 17,
+      "views": 18,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Shakthi (2011)/Shakthi (2011) DVDrip.avi",
@@ -26753,7 +26754,7 @@
       "backdrop": "",
       "rating": 0.0,
       "genre": [],
-      "views": 29,
+      "views": 31,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Nagavalli - Chandramukhi 2 (2011)/Nagavalli - Chandramukhi 2 (2011) BRrip.avi",
@@ -26949,7 +26950,7 @@
         "Romance",
         "Drama"
       ],
-      "views": 14,
+      "views": 15,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Brindaavanam (2010)/Brindaavanam (2010) BDrip.avi",
@@ -27036,7 +27037,7 @@
         "Drama",
         "Action"
       ],
-      "views": 20,
+      "views": 21,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Vedam (2010)/Vedam (2010) DVDrip.mkv",
@@ -27066,7 +27067,7 @@
         "Comedy",
         "Crime"
       ],
-      "views": 21,
+      "views": 22,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Singam (2010)/BTmoviez.com_Singam.2010.BRRip.TT.mkv",
@@ -27521,7 +27522,7 @@
         "Comedy",
         "Romance"
       ],
-      "views": 34,
+      "views": 36,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Aarya - 2 (2009)/Aarya - 2 (2009) - DVD - Rip [E-SuB] - NeedForSpeed.mp4",
@@ -27637,7 +27638,7 @@
       "genre": [
         "Action"
       ],
-      "views": 47,
+      "views": 49,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Magadheera (2009)/Magadheera (2009) DvdRip.mkv",
@@ -28412,7 +28413,7 @@
         "Drama",
         "Action"
       ],
-      "views": 10,
+      "views": 12,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Chatrapathi (2005)/Chatrapathi (2005) DVDrip.mp4",
@@ -28615,7 +28616,7 @@
       "genre": [
         "Comedy"
       ],
-      "views": 6,
+      "views": 8,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Nala Damayanthi (2003)/[DVD-Rip] Nala Damayanthi (2003) Ayngaran Xvid 1CD ESubs [Team TC].avi",
@@ -28731,7 +28732,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 91,
+      "views": 93,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/King (2002)/King (2002) DVDrip.mkv",
@@ -29210,7 +29211,7 @@
         "Action",
         "Fantasy"
       ],
-      "views": 7,
+      "views": 9,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Ek Tha Soldier (2013)/Ek Tha Soldier (2013) WEBrip [FT BD.NET].mkv",
@@ -29327,7 +29328,7 @@
         "Horror",
         "TV Movie"
       ],
-      "views": 27,
+      "views": 30,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Dracula (2013)/Dracula (2013) Malayalam DVD Rip x264 5.1 Splash.mkv",
@@ -29433,7 +29434,7 @@
       "backdrop": "",
       "rating": 0.0,
       "genre": [],
-      "views": 6,
+      "views": 7,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Jagadguru AadiShankara (2013)/Jagadguru AdiShankara Part 1.mp4",
@@ -29641,7 +29642,7 @@
       "backdrop": "",
       "rating": 0.0,
       "genre": [],
-      "views": 12,
+      "views": 13,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Ramayya Vastavayya (2013)/Ramayya Vastavayya (2013) 1CD DVD Rip AAC By Team TQR.mkv",
@@ -29875,7 +29876,7 @@
       "backdrop": "",
       "rating": 0.0,
       "genre": [],
-      "views": 7,
+      "views": 9,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Udayam NH4 (2013)/NH4 (2013) - DVDRip - XviD - 1CDRip - [DDR] -JalsaTime.Com.avi",
@@ -30017,7 +30018,7 @@
         "Thriller",
         "Horror"
       ],
-      "views": 0,
+      "views": 1,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Akam (2012)/Akam 2012 Malayalam Full Movie [720p].mp4",
@@ -30507,7 +30508,7 @@
         "Drama",
         "Comedy"
       ],
-      "views": 22,
+      "views": 23,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Ustad Hotel (2012)/Ustad Hotel Malayalam BRRip 720p x264 5.1-Splash.mkv",
@@ -30624,7 +30625,7 @@
         "Romance",
         "Thriller"
       ],
-      "views": 14,
+      "views": 15,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/22 Female Kottayam (2012)/22 Female Kottayam (2012) Malayalam Movie DVDRip x264 AAC.mp4",
@@ -30654,7 +30655,7 @@
         "Drama",
         "Romance"
       ],
-      "views": 5,
+      "views": 6,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Rachcha (2012)/Rachcha (2012) BRrip.mkv",
@@ -30766,7 +30767,7 @@
       "backdrop": "",
       "rating": 0.0,
       "genre": [],
-      "views": 14,
+      "views": 15,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Rebel (2012)/Rebel (2012) DVDRip(BDmusic4all.com).mkv",
@@ -30853,7 +30854,7 @@
         "Action",
         "Crime"
       ],
-      "views": 28,
+      "views": 30,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Businessman (2012)/Businessman (2012) BRrip.mkv",
@@ -30969,7 +30970,7 @@
         "Horror",
         "Drama"
       ],
-      "views": 32,
+      "views": 34,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Spirit (2012)/Spirit 2012 Malayalam DVDRip XviD Esubs - Exclusive.avi",
@@ -31027,7 +31028,7 @@
         "Action",
         "Drama"
       ],
-      "views": 25,
+      "views": 26,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Sivaji The Boss (2012)/(www.dustorrents.com) Sivaji The Boss - DVDRip - XviD - 1CDRip - [DDR].avi",
@@ -31187,7 +31188,7 @@
       "genre": [
         "Drama"
       ],
-      "views": 13,
+      "views": 14,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Journey (2011)/Journey (2011) BRrip.mp4",
@@ -31416,7 +31417,7 @@
         "Action",
         "Thriller"
       ],
-      "views": 7,
+      "views": 8,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Oosaravelli (2011)/Oosaravelli (2011) Telugu BRRip 720p x264 AAC-Ameet6233 (SiNiSTER).mp4",
@@ -32394,7 +32395,7 @@
       "backdrop": "",
       "rating": 0.0,
       "genre": [],
-      "views": 5,
+      "views": 6,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/MHJFMZ~I/Mirchi 2013 Telugu DVDRip 720p ~BindassBro's~.mkv",
@@ -32723,7 +32724,7 @@
         "Comedy",
         "Romance"
       ],
-      "views": 27,
+      "views": 29,
       "links": [
         {
           "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Gentleman (2020)/Gentleman (2020) 720p HDTV - Bolly2Tolly.tv.mp4",
@@ -32945,7 +32946,155 @@
       "runtime": 0,
       "watch_page": "https://fmftp.net/watch?type=MOVIE&id=18663",
       "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2000_2017/Aadukalam (2011)/Aadukalam (2011) - Tamil -  1080p  QHD Rip - AVC - x264 - 1.4GB.mp4"
+    },
+    "Pradhama Drishtiya Kuttakkar": {
+      "id": "21307",
+      "year": "2026",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/plDdL5IWMbNOf3ul4Yd34LzOqEs.jpg",
+      "backdrop": "https://fmftp.net/content-images/movies/backdrops/kO7mJQXBaxG2D76TI5MIs9F7Rux.jpg",
+      "rating": 0.0,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "views": 65,
+      "links": [
+        {
+          "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Pradhama Drishtiya Kuttakkar (2026)/Pradhama Drishtiya Kuttakkar.mkv",
+          "language": "Tamil",
+          "quality": "",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=21307",
+          "type": "stream"
+        }
+      ],
+      "overview": "Follows a woman constable who joins the police force through appointment after the death of her husband.",
+      "casts": "Parvathy Thiruvothu,Vijayaraghavan,Unnimaya Prasad,Mathew Thomas,Sidharth Bharathan,Azees Nedumangad,Vinay Forrt,R. Parthiban,Balaji Sarma,Vrindha Menon,Catherine Maria James,Niyas Backer,Sreejith Ravi,Lal Jose,Dinesh Prabhakar,Rini Udayakumar,Jayaraj Calicut,Suparna S,Sirajudheen Nazar,Jayashree Sivadhas,Midhun Venugopal,Jayashankar,Salman Kuttikode,Asif Ali,Jayaraj Kozhikode",
+      "imdb_id": "tt38265603",
+      "tmdb_id": "1544847",
+      "trailers": "hf96obsJIGU",
+      "runtime": 0,
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=21307",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Pradhama Drishtiya Kuttakkar (2026)/Pradhama Drishtiya Kuttakkar.mkv"
+    },
+    "Saakshyam [19543]": {
+      "id": "19543",
+      "year": "2018",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/spIPo5iq5Z0ZAfwylX51Re2HuP4.jpg",
+      "backdrop": "https://fmftp.net/content-images/movies/backdrops/bDXCWQ4pAOzRqdbU2oKpa59t8ns.jpg",
+      "rating": 6.2,
+      "genre": [
+        "Action",
+        "Romance",
+        "Fantasy"
+      ],
+      "views": 10,
+      "links": [
+        {
+          "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Saakshyam (2018)/Saaksh3ym Uncut 720p Hd Desiremovies.uno-1 (1) (1).mp4",
+          "language": "Tamil",
+          "quality": "720p",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19543",
+          "type": "stream"
+        }
+      ],
+      "overview": "A group of people commit unspeakable crimes and are confident of getting away with it since there are no witnesses. But nature is witness to their crimes and when all five elements of nature combine to take revenge, can they survive against its wrath?",
+      "casts": "Bellamkonda Srinivas, Pooja Hegde, R. Sarathkumar, Meena, Jagapati Babu, Ravi Kishan, Vennela Kishore, Ashutosh Rana, Brahmaji, Pavitra Lokesh, Madhu Guruswamy, Rao Ramesh, Prakash Raj, Pithamagan Mahadevan, Anand Ramaraju",
+      "imdb_id": "tt7757972",
+      "tmdb_id": "505908",
+      "trailers": "VEEWvlCvLNY",
+      "runtime": 0,
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19543",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Saakshyam (2018)/Saaksh3ym Uncut 720p Hd Desiremovies.uno-1 (1) (1).mp4"
+    },
+    "12th Man": {
+      "id": "21177",
+      "year": "2022",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/pnhyt3MJ0XO9g1BnoILQaHYZmeZ.jpg",
+      "backdrop": "https://fmftp.net/content-images/movies/backdrops/8k7bZUwqEhWQYJ93NfJ4coJYV1D.jpg",
+      "rating": 0.0,
+      "genre": [
+        "Thriller",
+        "Mystery",
+        "Crime"
+      ],
+      "views": 0,
+      "links": [
+        {
+          "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/12th Man (2022)/12th Man (2022) Malayalam 720p WEBRip x264 DD5.1 ESub -1TMV.mkv",
+          "language": "Tamil",
+          "quality": "720p",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=21177",
+          "type": "stream"
+        }
+      ],
+      "overview": "A group of 11 friends go away to a resort for a weekend bachelor party, but the day ends in a death.",
+      "casts": "Mohanlal,Unni Mukundan,Saiju Kurup,Anusree Nair,Anu Sithara,Priyanka Nair,Sshivada,Aditi Ravi,Leona Lishoy,Chandhunadh,Rahul Madhav,Anu Mohan,Nandhu,Pradeep Chandran,Chali Pala,Siddique,Mallika Sukumaran,Pradeep Kottayam,Gibin Gopinath",
+      "imdb_id": "tt14986012",
+      "tmdb_id": "847726",
+      "trailers": "",
+      "runtime": 0,
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=21177",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2024/12th Man (2022)/12th Man (2022) Malayalam 720p WEBRip x264 DD5.1 ESub -1TMV.mkv"
+    },
+    "Kuruthi [19753]": {
+      "id": "19753",
+      "year": "2021",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/ArCY77ZQOrzW44OzPmYP99piiFW.jpg",
+      "backdrop": "https://fmftp.net/content-images/movies/backdrops/1rJTuRzWWqSB953Iqo4BrxgZe77.jpg",
+      "rating": 7.6,
+      "genre": [
+        "Thriller",
+        "Action"
+      ],
+      "views": 33,
+      "links": [
+        {
+          "url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Kuruthi (2021)/Kuruthi (2021) Malayalam 1080p AMZN WEB-DL AVC UNTOUCHED x264 DD5.1 ESub -1TMV.mkv",
+          "language": "Tamil",
+          "quality": "1080p",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19753",
+          "type": "stream"
+        }
+      ],
+      "overview": "Kuruthi is about how enduring human relations that transcends boundaries struggle to survive trials of hatred and prejudice.",
+      "casts": "Prithviraj Sukumaran, Roshan Mathew, Mamukkoya, Srindaa, Murali Gopy, Shine Tom Chacko, Navas Vallikkunnu, Naslen, Sagar Surya, M. S. Mani, Nasar Karutheni, Manikanda Achari",
+      "imdb_id": "tt13551614",
+      "tmdb_id": "813808",
+      "trailers": "",
+      "runtime": 0,
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19753",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2024/Kuruthi (2021)/Kuruthi (2021) Malayalam 1080p AMZN WEB-DL AVC UNTOUCHED x264 DD5.1 ESub -1TMV.mkv"
+    },
+    "Shivan": {
+      "id": "19613",
+      "year": "2020",
+      "tvg_logo": "https://fmftp.net/content-images/movies/posters/thLur3AEYY9nc4tzqpfJ4G0KEld.jpg",
+      "backdrop": "",
+      "rating": 0.0,
+      "genre": [
+        "Romance",
+        "Thriller"
+      ],
+      "views": 20,
+      "links": [
+        {
+          "url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Shivan (2020)/Shivan (2020) Telugu HQ PreDVD - 720p - x264 - HQ Line Aud - 1.3GB.mkv",
+          "language": "Tamil",
+          "quality": "720p",
+          "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19613",
+          "type": "stream"
+        }
+      ],
+      "overview": "Shivan revolves around a couple who are very much in love but one day the woman is found dead and the man is found guilty and imprisoned. But once he is in jail he recollects certain memories that change everything.",
+      "casts": "Sai Teja Kalvakota, Taruni Singh, C. V. L. Narasimha Rao",
+      "imdb_id": "tt11536216",
+      "tmdb_id": "682976",
+      "trailers": "",
+      "runtime": 0,
+      "watch_page": "https://fmftp.net/watch?type=MOVIE&id=19613",
+      "stream_url": "https://fmftp.net/data/disk-1/movies/tamil/2020/Shivan (2020)/Shivan (2020) Telugu HQ PreDVD - 720p - x264 - HQ Line Aud - 1.3GB.mkv"
     }
   },
-  "last_updated": "2026-08-27T08:43:51.984758Z"
+  "last_updated": "2026-11-15T05:57:34.191886Z"
 }
