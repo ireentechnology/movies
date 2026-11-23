@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-21T06:22:26.625705Z",
-  "total_movies": 21373,
+  "generated_at": "2026-11-23T06:42:02.769939Z",
+  "total_movies": 21376,
   "total_series": 1356,
-  "total_episodes": 23330,
-  "grand_total": 22729,
+  "total_episodes": 23322,
+  "grand_total": 22732,
   "movies": {
-    "total": 21373,
+    "total": 21376,
     "categories": [
       {
         "label": "Bollywood",
@@ -21,11 +21,11 @@
         "label": "Hollywood",
         "category_id": "2",
         "file": "movies/Hollywood.json",
-        "count": 14228,
-        "new": 8,
-        "updated": 14220,
+        "count": 14231,
+        "new": 2,
+        "updated": 14229,
         "total_episodes": null,
-        "expected_total": 14232
+        "expected_total": 14234
       },
       {
         "label": "Animation",
@@ -52,8 +52,8 @@
         "category_id": "5",
         "file": "movies/Hindi_dubbed.json",
         "count": 1487,
-        "new": 16,
-        "updated": 1471,
+        "new": 0,
+        "updated": 1487,
         "total_episodes": null,
         "expected_total": 1490
       },
@@ -109,7 +109,7 @@
         "count": 924,
         "new": 0,
         "updated": 924,
-        "total_episodes": 19012,
+        "total_episodes": 19004,
         "expected_total": 924
       },
       {
@@ -117,8 +117,8 @@
         "category_id": "10",
         "file": "series/Indian_Tv_Series.json",
         "count": 235,
-        "new": 1,
-        "updated": 234,
+        "new": 0,
+        "updated": 235,
         "total_episodes": 2093,
         "expected_total": 236
       },
