@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-25T07:45:59.780540Z",
+  "generated_at": "2026-11-27T07:35:23.394926Z",
   "total_movies": 21382,
   "total_series": 1356,
-  "total_episodes": 23322,
+  "total_episodes": 23330,
   "grand_total": 22738,
   "movies": {
     "total": 21382,
@@ -52,8 +52,8 @@
         "category_id": "5",
         "file": "movies/Hindi_dubbed.json",
         "count": 1489,
-        "new": 1,
-        "updated": 1488,
+        "new": 0,
+        "updated": 1489,
         "total_episodes": null,
         "expected_total": 1491
       },
@@ -109,7 +109,7 @@
         "count": 924,
         "new": 0,
         "updated": 924,
-        "total_episodes": 19004,
+        "total_episodes": 19012,
         "expected_total": 924
       },
       {
